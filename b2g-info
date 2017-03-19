@@ -1,0 +1,33 @@
+                          |     megabytes     |
+           NAME  PID PPID CPU(s) NICE  USS  PSS  RSS SWAP VSIZE OOM_ADJ USER    
+            b2g  251    1  125.8    0 70.8 76.2 94.6  0.0 231.7       0 root    
+         (Nuwa)  484  251    1.5    0  2.6  5.3 17.0  0.0  64.6     -17 root    
+      continent 2701  484    8.0    0 15.7 18.9 34.5  0.0  85.6      10 u0_a2701
+Built-in Keyboa 2719  484    2.9    0  7.2  9.7 23.8  0.0  75.5      12 u0_a2719
+     Anti-Theft 2828  484    2.0    0  7.7 10.4 24.7  0.0  75.6       7 u0_a2828
+       Settings 3042  484   58.1    0 31.0 34.6 50.6  0.0 111.6       3 u0_a3042
+(Preallocated a 3524  484    0.6    0  4.9  7.0 19.4  0.0  71.7       2 u0_a3524
+
+System memory info:
+
+            Total 404.4 MB
+        SwapTotal 150.0 MB
+     Used - cache 230.9 MB
+  B2G procs (PSS) 162.0 MB
+    Non-B2G procs  68.9 MB
+     Free + cache 173.5 MB
+             Free  13.1 MB
+            Cache 160.4 MB
+         SwapFree 150.0 MB
+
+Low-memory killer parameters:
+
+  notify_trigger 14336 KB
+
+  oom_adj min_free
+        0  4096 KB
+       58  5120 KB
+      117  6144 KB
+      352  7168 KB
+      470  8192 KB
+      588 20480 KB
