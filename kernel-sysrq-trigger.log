@@ -1,0 +1,2193 @@
+<6>[  131.895193] PM: suspend of devices complete after 34.834 msecs
+<6>[  131.896144] PM: late suspend of devices complete after 0.931 msecs
+<6>[  131.897345] PM: noirq suspend of devices complete after 1.188 msecs
+<6>[  131.897358] Disabling non-boot CPUs ...
+<6>[  131.900449] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  131.901240] Enabling non-boot CPUs ...
+<6>[  131.902293] CPU3 is up
+<6>[  131.902681] PM: noirq resume of devices complete after 0.372 msecs
+<6>[  131.903668] PM: early resume of devices complete after 0.387 msecs
+<6>[  131.989810] PM: resume of devices complete after 86.122 msecs
+<6>[  131.990676] Restarting tasks ... done.
+<6>[  131.993313] PM: suspend exit 1970-01-01 00:09:00.651775157 UTC
+<6>[  134.837030] PM: suspend entry 1970-01-01 00:09:03.495480729 UTC
+<6>[  134.837062] PM: Syncing filesystems ... done.
+<3>[  134.866811] Error: returning -512 value
+<6>[  134.864958] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  134.868735] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  134.871160] Suspending console(s) (use no_console_suspend to debug)
+<6>[  134.912187] PM: suspend of devices complete after 39.862 msecs
+<6>[  134.913199] PM: late suspend of devices complete after 0.994 msecs
+<6>[  134.914858] PM: noirq suspend of devices complete after 1.643 msecs
+<6>[  134.914876] Disabling non-boot CPUs ...
+<4>[  134.916068] migrate_irqs: 999 callbacks suppressed
+<4>[  134.916074] IRQ32 no longer affine to CPU3
+<4>[  134.916083] IRQ33 no longer affine to CPU3
+<4>[  134.916091] IRQ34 no longer affine to CPU3
+<4>[  134.916098] IRQ35 no longer affine to CPU3
+<4>[  134.916105] IRQ36 no longer affine to CPU3
+<4>[  134.916113] IRQ37 no longer affine to CPU3
+<4>[  134.916121] IRQ38 no longer affine to CPU3
+<4>[  134.916130] IRQ40 no longer affine to CPU3
+<4>[  134.916137] IRQ41 no longer affine to CPU3
+<4>[  134.916146] IRQ42 no longer affine to CPU3
+<6>[  134.919152] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  134.919943] Enabling non-boot CPUs ...
+<6>[  134.921050] CPU3 is up
+<6>[  134.921457] PM: noirq resume of devices complete after 0.390 msecs
+<6>[  134.922459] PM: early resume of devices complete after 0.395 msecs
+<6>[  135.010727] PM: resume of devices complete after 88.249 msecs
+<6>[  135.011659] Restarting tasks ... done.
+<6>[  135.014582] PM: suspend exit 1970-01-01 00:11:01.981561465 UTC
+<6>[  136.050856] PM: suspend entry 1970-01-01 00:11:03.017824433 UTC
+<6>[  136.050887] PM: Syncing filesystems ... done.
+<3>[  136.075406] Error: returning -512 value
+<6>[  136.074307] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  136.077879] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  136.080304] Suspending console(s) (use no_console_suspend to debug)
+<6>[  136.119348] PM: suspend of devices complete after 37.894 msecs
+<6>[  136.120389] PM: late suspend of devices complete after 1.022 msecs
+<6>[  136.122040] PM: noirq suspend of devices complete after 1.636 msecs
+<6>[  136.122061] Disabling non-boot CPUs ...
+<6>[  136.126159] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  136.126703] Enabling non-boot CPUs ...
+<6>[  136.127755] CPU3 is up
+<6>[  136.128146] PM: noirq resume of devices complete after 0.375 msecs
+<6>[  136.129139] PM: early resume of devices complete after 0.390 msecs
+<6>[  136.216186] PM: resume of devices complete after 87.021 msecs
+<6>[  136.217476] Restarting tasks ... done.
+<6>[  136.222815] PM: suspend exit 1970-01-01 00:11:03.536165839 UTC
+<6>[  137.263983] PM: suspend entry 1970-01-01 00:11:04.577328703 UTC
+<6>[  137.264015] PM: Syncing filesystems ... done.
+<3>[  137.285682] Error: returning -512 value
+<6>[  137.284468] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  137.288056] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  137.290462] Suspending console(s) (use no_console_suspend to debug)
+<6>[  137.329401] PM: suspend of devices complete after 37.783 msecs
+<6>[  137.330428] PM: late suspend of devices complete after 1.008 msecs
+<6>[  137.332078] PM: noirq suspend of devices complete after 1.633 msecs
+<6>[  137.332099] Disabling non-boot CPUs ...
+<6>[  137.336341] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  137.337127] Enabling non-boot CPUs ...
+<6>[  137.338201] CPU3 is up
+<6>[  137.338593] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  137.339588] PM: early resume of devices complete after 0.396 msecs
+<6>[  137.426252] PM: resume of devices complete after 86.639 msecs
+<6>[  137.427539] Restarting tasks ... done.
+<6>[  137.433384] PM: suspend exit 1970-01-01 00:11:16.720638385 UTC
+<6>[  138.464670] PM: suspend entry 1970-01-01 00:11:17.751916718 UTC
+<6>[  138.464702] PM: Syncing filesystems ... done.
+<3>[  138.486457] Error: returning -512 value
+<6>[  138.484554] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  138.488447] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  138.490848] Suspending console(s) (use no_console_suspend to debug)
+<6>[  138.529539] PM: suspend of devices complete after 37.545 msecs
+<6>[  138.530567] PM: late suspend of devices complete after 1.010 msecs
+<6>[  138.532227] PM: noirq suspend of devices complete after 1.646 msecs
+<6>[  138.532245] Disabling non-boot CPUs ...
+<6>[  138.536575] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  138.537351] Enabling non-boot CPUs ...
+<6>[  138.538398] CPU3 is up
+<6>[  138.538789] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  138.539781] PM: early resume of devices complete after 0.390 msecs
+<6>[  138.628038] PM: resume of devices complete after 88.237 msecs
+<6>[  138.628951] Restarting tasks ... done.
+<6>[  138.635236] PM: suspend exit 1970-01-01 00:13:09.092036675 UTC
+<6>[  140.400630] PM: suspend entry 1970-01-01 00:13:10.857445581 UTC
+<6>[  140.400652] PM: Syncing filesystems ... done.
+<3>[  140.422463] Error: returning -512 value
+<6>[  140.421919] Freezing user space processes ... 
+<6>[  140.423015] active wakeup source: wlan
+<6>[  140.423070] 
+<3>[  140.423083] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  140.423090] 
+<6>[  140.423097] Restarting tasks ... done.
+<6>[  140.425596] PM: suspend exit 1970-01-01 00:13:10.882416571 UTC
+<6>[  141.396205] PM: suspend entry 1970-01-01 00:13:11.853014539 UTC
+<6>[  141.396234] PM: Syncing filesystems ... done.
+<3>[  141.400042] Error: returning -512 value
+<6>[  141.398565] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  141.401750] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  141.403995] Suspending console(s) (use no_console_suspend to debug)
+<6>[  141.450805] PM: suspend of devices complete after 45.760 msecs
+<6>[  141.451755] PM: late suspend of devices complete after 0.932 msecs
+<6>[  141.453269] PM: noirq suspend of devices complete after 1.500 msecs
+<6>[  141.453287] Disabling non-boot CPUs ...
+<4>[  141.454226] migrate_irqs: 997 callbacks suppressed
+<4>[  141.454232] IRQ32 no longer affine to CPU3
+<4>[  141.454239] IRQ33 no longer affine to CPU3
+<4>[  141.454246] IRQ34 no longer affine to CPU3
+<4>[  141.454253] IRQ35 no longer affine to CPU3
+<4>[  141.454260] IRQ36 no longer affine to CPU3
+<4>[  141.454267] IRQ37 no longer affine to CPU3
+<4>[  141.454274] IRQ38 no longer affine to CPU3
+<4>[  141.454280] IRQ39 no longer affine to CPU3
+<4>[  141.454287] IRQ40 no longer affine to CPU3
+<4>[  141.454294] IRQ41 no longer affine to CPU3
+<6>[  141.457102] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  141.457852] Enabling non-boot CPUs ...
+<6>[  141.458768] CPU3 is up
+<6>[  141.459140] PM: noirq resume of devices complete after 0.358 msecs
+<6>[  141.460033] PM: early resume of devices complete after 0.342 msecs
+<6>[  141.548117] PM: resume of devices complete after 88.065 msecs
+<6>[  141.548973] Restarting tasks ... done.
+<6>[  141.552105] PM: suspend exit 1970-01-01 00:15:08.282163609 UTC
+<6>[  142.579631] PM: suspend entry 1970-01-01 00:15:09.309694442 UTC
+<6>[  142.579651] PM: Syncing filesystems ... done.
+<3>[  142.603038] Error: returning -512 value
+<6>[  142.602278] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  142.604860] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  142.606723] Suspending console(s) (use no_console_suspend to debug)
+<6>[  142.642216] PM: suspend of devices complete after 34.829 msecs
+<6>[  142.642821] PM: late suspend of devices complete after 0.593 msecs
+<6>[  142.643659] PM: noirq suspend of devices complete after 0.830 msecs
+<6>[  142.643668] Disabling non-boot CPUs ...
+<6>[  142.646013] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  142.646762] Enabling non-boot CPUs ...
+<6>[  142.647666] CPU3 is up
+<6>[  142.648017] PM: noirq resume of devices complete after 0.337 msecs
+<6>[  142.648911] PM: early resume of devices complete after 0.339 msecs
+<6>[  142.732925] PM: resume of devices complete after 84.001 msecs
+<6>[  142.733515] Restarting tasks ... done.
+<6>[  142.736357] PM: suspend exit 1970-01-01 00:15:10.080000000 UTC
+<6>[  143.770588] PM: suspend entry 1970-01-01 00:15:11.114226353 UTC
+<6>[  143.770610] PM: Syncing filesystems ... done.
+<3>[  143.793582] Error: returning -512 value
+<6>[  143.792824] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  143.795932] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  143.797974] Suspending console(s) (use no_console_suspend to debug)
+<6>[  143.832448] PM: suspend of devices complete after 33.761 msecs
+<6>[  143.833173] PM: late suspend of devices complete after 0.710 msecs
+<6>[  143.834358] PM: noirq suspend of devices complete after 1.174 msecs
+<6>[  143.834370] Disabling non-boot CPUs ...
+<6>[  143.837382] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  143.838161] Enabling non-boot CPUs ...
+<6>[  143.839211] CPU3 is up
+<6>[  143.839602] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  143.840598] PM: early resume of devices complete after 0.391 msecs
+<6>[  143.927304] PM: resume of devices complete after 86.686 msecs
+<6>[  143.928193] Restarting tasks ... done.
+<6>[  143.930884] PM: suspend exit 1970-01-01 00:16:00.078126145 UTC
+<6>[  144.426231] PM: suspend entry 1970-01-01 00:16:00.573466093 UTC
+<6>[  144.426252] PM: Syncing filesystems ... done.
+<3>[  144.428965] Error: returning -512 value
+<6>[  144.427976] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  144.430432] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  144.432197] Suspending console(s) (use no_console_suspend to debug)
+<6>[  144.474184] PM: suspend of devices complete after 41.383 msecs
+<6>[  144.474899] PM: late suspend of devices complete after 0.700 msecs
+<6>[  144.476243] PM: noirq suspend of devices complete after 1.326 msecs
+<6>[  144.476256] Disabling non-boot CPUs ...
+<6>[  144.479127] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  144.479592] Enabling non-boot CPUs ...
+<6>[  144.480649] CPU3 is up
+<6>[  144.481041] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  144.481950] PM: early resume of devices complete after 0.381 msecs
+<6>[  144.567462] PM: resume of devices complete after 85.492 msecs
+<6>[  144.568362] Restarting tasks ... done.
+<6>[  144.574307] PM: suspend exit 1970-01-01 00:16:01.317439999 UTC
+<6>[  146.900117] PM: suspend entry 1970-01-01 00:16:03.643248279 UTC
+<6>[  146.900134] PM: Syncing filesystems ... done.
+<3>[  146.922762] Error: returning -512 value
+<6>[  146.921709] Freezing user space processes ... 
+<6>[  146.922849] active wakeup source: wlan
+<6>[  146.922896] 
+<3>[  146.922908] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  146.922916] 
+<6>[  146.922925] Restarting tasks ... done.
+<6>[  146.924170] PM: suspend exit 1970-01-01 00:16:03.667303123 UTC
+<6>[  147.895649] PM: suspend entry 1970-01-01 00:16:04.638776352 UTC
+<6>[  147.895671] PM: Syncing filesystems ... done.
+<3>[  147.898258] Error: returning -512 value
+<6>[  147.897453] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  147.900205] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  147.902142] Suspending console(s) (use no_console_suspend to debug)
+<6>[  147.943997] PM: suspend of devices complete after 41.156 msecs
+<6>[  147.944727] PM: late suspend of devices complete after 0.717 msecs
+<6>[  147.946037] PM: noirq suspend of devices complete after 1.295 msecs
+<6>[  147.946050] Disabling non-boot CPUs ...
+<4>[  147.946822] migrate_irqs: 1000 callbacks suppressed
+<4>[  147.946827] IRQ32 no longer affine to CPU3
+<4>[  147.946835] IRQ33 no longer affine to CPU3
+<4>[  147.946841] IRQ34 no longer affine to CPU3
+<4>[  147.946849] IRQ35 no longer affine to CPU3
+<4>[  147.946857] IRQ36 no longer affine to CPU3
+<4>[  147.946864] IRQ37 no longer affine to CPU3
+<4>[  147.946870] IRQ38 no longer affine to CPU3
+<4>[  147.946879] IRQ40 no longer affine to CPU3
+<4>[  147.946885] IRQ41 no longer affine to CPU3
+<4>[  147.946892] IRQ42 no longer affine to CPU3
+<6>[  147.949102] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  147.949563] Enabling non-boot CPUs ...
+<6>[  147.950610] CPU3 is up
+<6>[  147.951011] PM: noirq resume of devices complete after 0.384 msecs
+<6>[  147.951923] PM: early resume of devices complete after 0.383 msecs
+<6>[  148.035730] PM: resume of devices complete after 83.786 msecs
+<6>[  148.036656] Restarting tasks ... done.
+<6>[  148.040073] PM: suspend exit 1970-01-01 00:16:04.829773434 UTC
+<6>[  149.411350] PM: suspend entry 1970-01-01 00:16:06.201048382 UTC
+<6>[  149.411372] PM: Syncing filesystems ... done.
+<3>[  149.430343] Error: returning -512 value
+<6>[  149.429164] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  149.431935] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  149.433873] Suspending console(s) (use no_console_suspend to debug)
+<6>[  149.470367] PM: suspend of devices complete after 35.784 msecs
+<6>[  149.471087] PM: late suspend of devices complete after 0.706 msecs
+<6>[  149.472260] PM: noirq suspend of devices complete after 1.161 msecs
+<6>[  149.472273] Disabling non-boot CPUs ...
+<6>[  149.475499] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  149.475957] Enabling non-boot CPUs ...
+<6>[  149.477025] CPU3 is up
+<6>[  149.477428] PM: noirq resume of devices complete after 0.386 msecs
+<6>[  149.478484] PM: early resume of devices complete after 0.399 msecs
+<6>[  149.559249] PM: resume of devices complete after 80.749 msecs
+<6>[  149.559923] Restarting tasks ... done.
+<6>[  149.564595] PM: suspend exit 1970-01-01 00:16:09.123938693 UTC
+<6>[  150.055995] PM: suspend entry 1970-01-01 00:16:09.615326349 UTC
+<6>[  150.056026] PM: Syncing filesystems ... done.
+<3>[  150.059963] Error: returning -512 value
+<6>[  150.058864] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  150.062248] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  150.064587] Suspending console(s) (use no_console_suspend to debug)
+<6>[  150.112270] PM: suspend of devices complete after 46.069 msecs
+<6>[  150.113303] PM: late suspend of devices complete after 1.012 msecs
+<6>[  150.114947] PM: noirq suspend of devices complete after 1.629 msecs
+<6>[  150.114966] Disabling non-boot CPUs ...
+<6>[  150.118917] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  150.119955] Enabling non-boot CPUs ...
+<6>[  150.121183] CPU3 is up
+<6>[  150.121742] PM: noirq resume of devices complete after 0.538 msecs
+<6>[  150.122900] PM: early resume of devices complete after 0.477 msecs
+<6>[  150.212998] PM: resume of devices complete after 90.068 msecs
+<6>[  150.214313] Restarting tasks ... done.
+<6>[  150.222136] PM: suspend exit 1970-01-01 00:16:44.906587793 UTC
+<6>[  150.719735] PM: suspend entry 1970-01-01 00:16:45.404176804 UTC
+<6>[  150.719765] PM: Syncing filesystems ... done.
+<3>[  150.723820] Error: returning -512 value
+<6>[  150.722683] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  150.726121] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  150.728355] Suspending console(s) (use no_console_suspend to debug)
+<6>[  150.774545] PM: suspend of devices complete after 45.053 msecs
+<6>[  150.775687] PM: late suspend of devices complete after 1.118 msecs
+<6>[  150.777340] PM: noirq suspend of devices complete after 1.640 msecs
+<6>[  150.777359] Disabling non-boot CPUs ...
+<6>[  150.781097] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  150.781891] Enabling non-boot CPUs ...
+<6>[  150.782932] CPU3 is up
+<6>[  150.783322] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  150.784307] PM: early resume of devices complete after 0.385 msecs
+<6>[  150.871610] PM: resume of devices complete after 87.284 msecs
+<6>[  150.872509] Restarting tasks ... done.
+<6>[  150.882934] PM: suspend exit 1970-01-01 00:17:13.087511927 UTC
+<6>[  151.377314] PM: suspend entry 1970-01-01 00:17:13.581887968 UTC
+<6>[  151.377335] PM: Syncing filesystems ... done.
+<3>[  151.380524] Error: returning -512 value
+<6>[  151.379293] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  151.382163] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  151.384109] Suspending console(s) (use no_console_suspend to debug)
+<6>[  151.426082] PM: suspend of devices complete after 41.279 msecs
+<6>[  151.426802] PM: late suspend of devices complete after 0.706 msecs
+<6>[  151.427992] PM: noirq suspend of devices complete after 1.178 msecs
+<6>[  151.428005] Disabling non-boot CPUs ...
+<6>[  151.430879] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  151.431666] Enabling non-boot CPUs ...
+<6>[  151.432732] CPU3 is up
+<6>[  151.433121] PM: noirq resume of devices complete after 0.372 msecs
+<6>[  151.434113] PM: early resume of devices complete after 0.389 msecs
+<6>[  151.520570] PM: resume of devices complete after 86.438 msecs
+<6>[  151.521449] Restarting tasks ... done.
+<6>[  151.523964] PM: suspend exit 1970-01-01 00:17:14.019520416 UTC
+<6>[  153.400509] PM: suspend entry 1970-01-01 00:17:15.896065623 UTC
+<6>[  153.400525] PM: Syncing filesystems ... done.
+<3>[  153.419364] Error: returning -512 value
+<6>[  153.418752] Freezing user space processes ... 
+<6>[  153.419867] active wakeup source: wlan
+<6>[  153.419914] 
+<3>[  153.419927] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  153.419935] 
+<6>[  153.419946] Restarting tasks ... done.
+<6>[  153.421099] PM: suspend exit 1970-01-01 00:17:15.916658852 UTC
+<6>[  154.471016] PM: suspend entry 1970-01-01 00:17:16.966570779 UTC
+<6>[  154.471038] PM: Syncing filesystems ... done.
+<3>[  154.489549] Error: returning -512 value
+<6>[  154.488811] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  154.491536] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  154.493467] Suspending console(s) (use no_console_suspend to debug)
+<6>[  154.528305] PM: suspend of devices complete after 34.129 msecs
+<6>[  154.529031] PM: late suspend of devices complete after 0.711 msecs
+<6>[  154.530216] PM: noirq suspend of devices complete after 1.174 msecs
+<6>[  154.530228] Disabling non-boot CPUs ...
+<4>[  154.531012] migrate_irqs: 1256 callbacks suppressed
+<4>[  154.531018] IRQ32 no longer affine to CPU3
+<4>[  154.531026] IRQ33 no longer affine to CPU3
+<4>[  154.531032] IRQ34 no longer affine to CPU3
+<4>[  154.531039] IRQ35 no longer affine to CPU3
+<4>[  154.531047] IRQ36 no longer affine to CPU3
+<4>[  154.531054] IRQ37 no longer affine to CPU3
+<4>[  154.531060] IRQ38 no longer affine to CPU3
+<4>[  154.531069] IRQ40 no longer affine to CPU3
+<4>[  154.531076] IRQ41 no longer affine to CPU3
+<4>[  154.531083] IRQ42 no longer affine to CPU3
+<6>[  154.533359] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  154.534191] Enabling non-boot CPUs ...
+<6>[  154.535390] CPU3 is up
+<6>[  154.535781] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  154.536787] PM: early resume of devices complete after 0.398 msecs
+<6>[  154.626031] PM: resume of devices complete after 89.214 msecs
+<6>[  154.627199] Restarting tasks ... done.
+<6>[  154.635369] PM: suspend exit 1970-01-01 00:17:18.045084059 UTC
+<6>[  155.708203] PM: suspend entry 1970-01-01 00:17:19.117914215 UTC
+<6>[  155.708225] PM: Syncing filesystems ... done.
+<3>[  155.733014] Error: returning -512 value
+<6>[  155.732209] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  155.734982] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  155.737432] Suspending console(s) (use no_console_suspend to debug)
+<6>[  155.772662] PM: suspend of devices complete after 34.509 msecs
+<6>[  155.773387] PM: late suspend of devices complete after 0.712 msecs
+<6>[  155.774576] PM: noirq suspend of devices complete after 1.177 msecs
+<6>[  155.774589] Disabling non-boot CPUs ...
+<6>[  155.777791] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  155.778244] Enabling non-boot CPUs ...
+<6>[  155.779290] CPU3 is up
+<6>[  155.779685] PM: noirq resume of devices complete after 0.378 msecs
+<6>[  155.780608] PM: early resume of devices complete after 0.390 msecs
+<6>[  155.861059] PM: resume of devices complete after 80.432 msecs
+<6>[  155.861935] Restarting tasks ... done.
+<6>[  155.864740] PM: suspend exit 1970-01-01 00:17:21.117419110 UTC
+<6>[  156.900956] PM: suspend entry 1970-01-01 00:17:22.153621245 UTC
+<6>[  156.900986] PM: Syncing filesystems ... done.
+<3>[  156.926327] Error: returning -512 value
+<6>[  156.924352] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  156.928090] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  156.930519] Suspending console(s) (use no_console_suspend to debug)
+<6>[  156.969930] PM: suspend of devices complete after 38.256 msecs
+<6>[  156.970951] PM: late suspend of devices complete after 1.000 msecs
+<6>[  156.972621] PM: noirq suspend of devices complete after 1.657 msecs
+<6>[  156.972641] Disabling non-boot CPUs ...
+<6>[  156.976687] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  156.977701] Enabling non-boot CPUs ...
+<6>[  156.978932] CPU3 is up
+<6>[  156.979491] PM: noirq resume of devices complete after 0.539 msecs
+<6>[  156.980666] PM: early resume of devices complete after 0.486 msecs
+<6>[  157.070571] PM: resume of devices complete after 89.877 msecs
+<6>[  157.071883] Restarting tasks ... done.
+<6>[  157.076057] PM: suspend exit 1970-01-01 00:18:44.614970900 UTC
+<6>[  157.576859] PM: suspend entry 1970-01-01 00:18:45.115762619 UTC
+<6>[  157.576889] PM: Syncing filesystems ... done.
+<3>[  157.580844] Error: returning -512 value
+<6>[  157.579725] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  157.583094] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  157.585892] Suspending console(s) (use no_console_suspend to debug)
+<6>[  157.632852] PM: suspend of devices complete after 45.725 msecs
+<6>[  157.633887] PM: late suspend of devices complete after 1.014 msecs
+<6>[  157.635715] PM: noirq suspend of devices complete after 1.808 msecs
+<6>[  157.635735] Disabling non-boot CPUs ...
+<6>[  157.639494] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  157.640292] Enabling non-boot CPUs ...
+<6>[  157.641362] CPU3 is up
+<6>[  157.641752] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  157.642739] PM: early resume of devices complete after 0.386 msecs
+<6>[  157.730060] PM: resume of devices complete after 87.295 msecs
+<6>[  157.731354] Restarting tasks ... done.
+<6>[  157.736877] PM: suspend exit 1970-01-01 00:19:17.820633491 UTC
+<6>[  159.991468] PM: suspend entry 1970-01-01 00:19:20.075225834 UTC
+<6>[  159.991489] PM: Syncing filesystems ... done.
+<3>[  160.009252] Error: returning -512 value
+<6>[  160.008622] Freezing user space processes ... 
+<6>[  160.009747] active wakeup source: wlan
+<6>[  160.009789] 
+<3>[  160.009807] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  160.009815] 
+<6>[  160.009821] Restarting tasks ... done.
+<6>[  160.011047] PM: suspend exit 1970-01-01 00:19:20.094809220 UTC
+<6>[  160.985702] PM: suspend entry 1970-01-01 00:19:21.069453178 UTC
+<6>[  160.985733] PM: Syncing filesystems ... done.
+<3>[  160.989349] Error: returning -512 value
+<6>[  160.988273] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  160.991605] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  160.993947] Suspending console(s) (use no_console_suspend to debug)
+<6>[  161.039220] PM: suspend of devices complete after 43.603 msecs
+<6>[  161.040252] PM: late suspend of devices complete after 1.012 msecs
+<6>[  161.041896] PM: noirq suspend of devices complete after 1.629 msecs
+<6>[  161.041916] Disabling non-boot CPUs ...
+<4>[  161.042945] migrate_irqs: 996 callbacks suppressed
+<4>[  161.042952] IRQ32 no longer affine to CPU3
+<4>[  161.042961] IRQ33 no longer affine to CPU3
+<4>[  161.042970] IRQ34 no longer affine to CPU3
+<4>[  161.042978] IRQ35 no longer affine to CPU3
+<4>[  161.042986] IRQ36 no longer affine to CPU3
+<4>[  161.042993] IRQ37 no longer affine to CPU3
+<4>[  161.043002] IRQ38 no longer affine to CPU3
+<4>[  161.043011] IRQ39 no longer affine to CPU3
+<4>[  161.043020] IRQ40 no longer affine to CPU3
+<4>[  161.043027] IRQ41 no longer affine to CPU3
+<6>[  161.046236] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  161.047038] Enabling non-boot CPUs ...
+<6>[  161.048093] CPU3 is up
+<6>[  161.048501] PM: noirq resume of devices complete after 0.391 msecs
+<6>[  161.049498] PM: early resume of devices complete after 0.395 msecs
+<6>[  161.135635] PM: resume of devices complete after 86.117 msecs
+<6>[  161.136559] Restarting tasks ... done.
+<6>[  161.140582] PM: suspend exit 1970-01-01 00:21:17.719765268 UTC
+<6>[  162.170773] PM: suspend entry 1970-01-01 00:21:18.749960059 UTC
+<6>[  162.170795] PM: Syncing filesystems ... done.
+<3>[  162.193439] Error: returning -512 value
+<6>[  162.192757] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  162.195493] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  162.197448] Suspending console(s) (use no_console_suspend to debug)
+<6>[  162.235205] PM: suspend of devices complete after 37.036 msecs
+<6>[  162.236252] PM: late suspend of devices complete after 1.027 msecs
+<6>[  162.237906] PM: noirq suspend of devices complete after 1.637 msecs
+<6>[  162.237927] Disabling non-boot CPUs ...
+<6>[  162.241947] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  162.242731] Enabling non-boot CPUs ...
+<6>[  162.243809] CPU3 is up
+<6>[  162.244202] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  162.245358] PM: early resume of devices complete after 0.555 msecs
+<6>[  162.330542] PM: resume of devices complete after 85.158 msecs
+<6>[  162.331829] Restarting tasks ... done.
+<6>[  162.336445] PM: suspend exit 1970-01-01 00:21:25.818582088 UTC
+<6>[  163.364012] PM: suspend entry 1970-01-01 00:21:26.846142400 UTC
+<6>[  163.364043] PM: Syncing filesystems ... done.
+<3>[  163.394138] Error: returning -512 value
+<6>[  163.393131] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  163.396544] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  163.398752] Suspending console(s) (use no_console_suspend to debug)
+<6>[  163.437885] PM: suspend of devices complete after 37.978 msecs
+<6>[  163.438916] PM: late suspend of devices complete after 1.012 msecs
+<6>[  163.440563] PM: noirq suspend of devices complete after 1.633 msecs
+<6>[  163.440581] Disabling non-boot CPUs ...
+<6>[  163.444655] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  163.445568] Enabling non-boot CPUs ...
+<6>[  163.446620] CPU3 is up
+<6>[  163.447033] PM: noirq resume of devices complete after 0.395 msecs
+<6>[  163.448047] PM: early resume of devices complete after 0.403 msecs
+<6>[  163.533875] PM: resume of devices complete after 85.811 msecs
+<6>[  163.534613] Restarting tasks ... done.
+<6>[  163.538153] PM: suspend exit 1970-01-01 00:23:20.854007095 UTC
+<6>[  164.560781] PM: suspend entry 1970-01-01 00:23:21.876636938 UTC
+<6>[  164.560803] PM: Syncing filesystems ... done.
+<3>[  164.583361] Error: returning -512 value
+<6>[  164.582607] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  164.585724] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  164.587758] Suspending console(s) (use no_console_suspend to debug)
+<6>[  164.623012] PM: suspend of devices complete after 34.541 msecs
+<6>[  164.623730] PM: late suspend of devices complete after 0.702 msecs
+<6>[  164.624922] PM: noirq suspend of devices complete after 1.178 msecs
+<6>[  164.625134] Disabling non-boot CPUs ...
+<6>[  164.628186] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  164.628975] Enabling non-boot CPUs ...
+<6>[  164.630031] CPU3 is up
+<6>[  164.630422] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  164.631419] PM: early resume of devices complete after 0.395 msecs
+<6>[  164.719441] PM: resume of devices complete after 87.991 msecs
+<6>[  164.720720] Restarting tasks ... done.
+<6>[  164.726273] PM: suspend exit 1970-01-01 00:23:28.702162248 UTC
+<6>[  166.569435] PM: suspend entry 1970-01-01 00:23:30.545322925 UTC
+<6>[  166.569456] PM: Syncing filesystems ... done.
+<3>[  166.599389] Error: returning -512 value
+<6>[  166.598740] Freezing user space processes ... 
+<6>[  166.599861] active wakeup source: wlan
+<6>[  166.599906] 
+<3>[  166.599920] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  166.599927] 
+<6>[  166.599934] Restarting tasks ... done.
+<6>[  166.601189] PM: suspend exit 1970-01-01 00:23:30.577083550 UTC
+<6>[  167.565562] PM: suspend entry 1970-01-01 00:23:31.541435945 UTC
+<6>[  167.565594] PM: Syncing filesystems ... done.
+<3>[  167.569300] Error: returning -512 value
+<6>[  167.568286] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  167.571801] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  167.574172] Suspending console(s) (use no_console_suspend to debug)
+<6>[  167.620382] PM: suspend of devices complete after 44.494 msecs
+<6>[  167.621110] PM: late suspend of devices complete after 0.714 msecs
+<6>[  167.622299] PM: noirq suspend of devices complete after 1.176 msecs
+<6>[  167.622311] Disabling non-boot CPUs ...
+<4>[  167.623107] migrate_irqs: 996 callbacks suppressed
+<4>[  167.623112] IRQ32 no longer affine to CPU3
+<4>[  167.623120] IRQ33 no longer affine to CPU3
+<4>[  167.623128] IRQ34 no longer affine to CPU3
+<4>[  167.623135] IRQ35 no longer affine to CPU3
+<4>[  167.623142] IRQ36 no longer affine to CPU3
+<4>[  167.623149] IRQ37 no longer affine to CPU3
+<4>[  167.623156] IRQ38 no longer affine to CPU3
+<4>[  167.623164] IRQ39 no longer affine to CPU3
+<4>[  167.623171] IRQ40 no longer affine to CPU3
+<4>[  167.623178] IRQ41 no longer affine to CPU3
+<6>[  167.625572] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  167.626381] Enabling non-boot CPUs ...
+<6>[  167.627451] CPU3 is up
+<6>[  167.627857] PM: noirq resume of devices complete after 0.389 msecs
+<6>[  167.628847] PM: early resume of devices complete after 0.396 msecs
+<6>[  167.718044] PM: resume of devices complete after 89.179 msecs
+<6>[  167.719007] Restarting tasks ... done.
+<6>[  167.722775] PM: suspend exit 1970-01-01 00:25:24.001886579 UTC
+<6>[  168.744270] PM: suspend entry 1970-01-01 00:25:25.023370849 UTC
+<6>[  168.744301] PM: Syncing filesystems ... done.
+<3>[  168.771732] Error: returning -512 value
+<6>[  168.770056] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  168.773491] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  168.775875] Suspending console(s) (use no_console_suspend to debug)
+<6>[  168.813566] PM: suspend of devices complete after 36.540 msecs
+<6>[  168.814295] PM: late suspend of devices complete after 0.714 msecs
+<6>[  168.815604] PM: noirq suspend of devices complete after 1.294 msecs
+<6>[  168.815617] Disabling non-boot CPUs ...
+<6>[  168.818628] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  168.819416] Enabling non-boot CPUs ...
+<6>[  168.820487] CPU3 is up
+<6>[  168.820876] PM: noirq resume of devices complete after 0.372 msecs
+<6>[  168.821870] PM: early resume of devices complete after 0.393 msecs
+<6>[  168.908583] PM: resume of devices complete after 86.686 msecs
+<6>[  168.909867] Restarting tasks ... done.
+<6>[  168.916645] PM: suspend exit 1970-01-01 00:25:31.582485638 UTC
+<6>[  169.951591] PM: suspend entry 1970-01-01 00:25:32.617434700 UTC
+<6>[  169.951621] PM: Syncing filesystems ... done.
+<3>[  169.975392] Error: returning -512 value
+<6>[  169.973510] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  169.977295] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  169.979720] Suspending console(s) (use no_console_suspend to debug)
+<6>[  170.018542] PM: suspend of devices complete after 37.665 msecs
+<6>[  170.019587] PM: late suspend of devices complete after 1.026 msecs
+<6>[  170.021232] PM: noirq suspend of devices complete after 1.628 msecs
+<6>[  170.021252] Disabling non-boot CPUs ...
+<6>[  170.025568] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  170.026349] Enabling non-boot CPUs ...
+<6>[  170.027416] CPU3 is up
+<6>[  170.027808] PM: noirq resume of devices complete after 0.375 msecs
+<6>[  170.028800] PM: early resume of devices complete after 0.393 msecs
+<6>[  170.115104] PM: resume of devices complete after 86.284 msecs
+<6>[  170.115994] Restarting tasks ... done.
+<6>[  170.118192] PM: suspend exit 1970-01-01 00:27:27.207212312 UTC
+<6>[  171.152079] PM: suspend entry 1970-01-01 00:27:28.241097155 UTC
+<6>[  171.152100] PM: Syncing filesystems ... done.
+<3>[  171.172962] Error: returning -512 value
+<6>[  171.172186] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  171.175269] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  171.177325] Suspending console(s) (use no_console_suspend to debug)
+<6>[  171.215462] PM: suspend of devices complete after 37.402 msecs
+<6>[  171.216512] PM: late suspend of devices complete after 1.032 msecs
+<6>[  171.218175] PM: noirq suspend of devices complete after 1.646 msecs
+<6>[  171.218193] Disabling non-boot CPUs ...
+<6>[  171.222322] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  171.223111] Enabling non-boot CPUs ...
+<6>[  171.224187] CPU3 is up
+<6>[  171.224578] PM: noirq resume of devices complete after 0.375 msecs
+<6>[  171.225795] PM: early resume of devices complete after 0.487 msecs
+<6>[  171.314141] PM: resume of devices complete after 88.322 msecs
+<6>[  171.315581] Restarting tasks ... done.
+<6>[  171.320877] PM: suspend exit 1970-01-01 00:27:29.229377884 UTC
+<6>[  173.128895] PM: suspend entry 1970-01-01 00:27:31.037399133 UTC
+<6>[  173.128917] PM: Syncing filesystems ... done.
+<3>[  173.152981] Error: returning -512 value
+<6>[  173.152322] Freezing user space processes ... 
+<6>[  173.153451] active wakeup source: wlan
+<6>[  173.153500] 
+<3>[  173.153514] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  173.153521] 
+<6>[  173.153534] Restarting tasks ... done.
+<6>[  173.155222] PM: suspend exit 1970-01-01 00:27:31.063725435 UTC
+<6>[  174.125658] PM: suspend entry 1970-01-01 00:27:32.034153403 UTC
+<6>[  174.125689] PM: Syncing filesystems ... done.
+<3>[  174.129221] Error: returning -512 value
+<6>[  174.128172] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  174.131613] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  174.133950] Suspending console(s) (use no_console_suspend to debug)
+<6>[  174.182055] PM: suspend of devices complete after 46.438 msecs
+<6>[  174.183092] PM: late suspend of devices complete after 1.018 msecs
+<6>[  174.184749] PM: noirq suspend of devices complete after 1.641 msecs
+<6>[  174.184770] Disabling non-boot CPUs ...
+<4>[  174.185950] migrate_irqs: 995 callbacks suppressed
+<4>[  174.185956] IRQ32 no longer affine to CPU3
+<4>[  174.185965] IRQ33 no longer affine to CPU3
+<4>[  174.185973] IRQ34 no longer affine to CPU3
+<4>[  174.185982] IRQ35 no longer affine to CPU3
+<4>[  174.185990] IRQ36 no longer affine to CPU3
+<4>[  174.185998] IRQ37 no longer affine to CPU3
+<4>[  174.186006] IRQ38 no longer affine to CPU3
+<4>[  174.186015] IRQ40 no longer affine to CPU3
+<4>[  174.186022] IRQ41 no longer affine to CPU3
+<4>[  174.186030] IRQ42 no longer affine to CPU3
+<6>[  174.189130] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  174.189938] Enabling non-boot CPUs ...
+<6>[  174.191043] CPU3 is up
+<6>[  174.191445] PM: noirq resume of devices complete after 0.386 msecs
+<6>[  174.192422] PM: early resume of devices complete after 0.383 msecs
+<6>[  174.287398] PM: resume of devices complete after 94.949 msecs
+<6>[  174.288779] Restarting tasks ... done.
+<6>[  174.292351] PM: suspend exit 1970-01-01 00:28:51.639185717 UTC
+<6>[  175.320133] PM: suspend entry 1970-01-01 00:28:52.666957800 UTC
+<6>[  175.320164] PM: Syncing filesystems ... done.
+<3>[  175.345900] Error: returning -512 value
+<6>[  175.344707] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  175.348294] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  175.350712] Suspending console(s) (use no_console_suspend to debug)
+<6>[  175.389881] PM: suspend of devices complete after 38.020 msecs
+<6>[  175.390908] PM: late suspend of devices complete after 1.006 msecs
+<6>[  175.392547] PM: noirq suspend of devices complete after 1.626 msecs
+<6>[  175.392568] Disabling non-boot CPUs ...
+<6>[  175.396616] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  175.397644] Enabling non-boot CPUs ...
+<6>[  175.399410] CPU3 is up
+<6>[  175.400314] PM: noirq resume of devices complete after 0.876 msecs
+<6>[  175.401969] PM: early resume of devices complete after 0.694 msecs
+<6>[  175.493278] PM: resume of devices complete after 91.281 msecs
+<6>[  175.494574] Restarting tasks ... done.
+<6>[  175.502055] PM: suspend exit 1970-01-01 00:28:57.414153996 UTC
+<3>[  175.989832] wlan: [2617:E :HDD] hdd_driver_command: 3899: making default scan to ACTIVE
+<3>[  176.211029] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<3>[  178.249576] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<3>[  178.317450] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<3>[  178.393908] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<6>[  197.836896] ktd2xx_back_light_off 0
+<6>[  197.839132] ktd2xx_back_light_off 0
+<6>[  209.005006] PM: suspend entry 1970-01-01 00:29:30.917108150 UTC
+<6>[  209.005023] PM: Syncing filesystems ... done.
+<3>[  209.022331] Error: returning -512 value
+<6>[  209.021825] Freezing user space processes ... 
+<6>[  209.022740] active wakeup source: wlan
+<6>[  209.022782] 
+<3>[  209.022796] Freezing of tasks aborted after 0.000 seconds (42 tasks refusing to freeze, wq_busy=0):
+<6>[  209.022803] 
+<6>[  209.022810] Restarting tasks ... done.
+<6>[  209.023986] PM: suspend exit 1970-01-01 00:29:30.936090025 UTC
+<6>[  210.004921] PM: suspend entry 1970-01-01 00:29:31.917024243 UTC
+<6>[  210.004938] PM: Syncing filesystems ... done.
+<3>[  210.007347] Error: returning -512 value
+<6>[  210.006289] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  210.008982] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  210.011015] Suspending console(s) (use no_console_suspend to debug)
+<6>[  210.028557] PM: suspend of devices complete after 16.813 msecs
+<6>[  210.029080] PM: late suspend of devices complete after 0.512 msecs
+<6>[  210.030041] PM: noirq suspend of devices complete after 0.952 msecs
+<6>[  210.030050] Disabling non-boot CPUs ...
+<4>[  210.030692] migrate_irqs: 1505 callbacks suppressed
+<4>[  210.030697] IRQ32 no longer affine to CPU2
+<4>[  210.030704] IRQ33 no longer affine to CPU2
+<4>[  210.030711] IRQ34 no longer affine to CPU2
+<4>[  210.030718] IRQ35 no longer affine to CPU2
+<4>[  210.030724] IRQ36 no longer affine to CPU2
+<4>[  210.030731] IRQ37 no longer affine to CPU2
+<4>[  210.030737] IRQ38 no longer affine to CPU2
+<4>[  210.030744] IRQ40 no longer affine to CPU2
+<4>[  210.030750] IRQ41 no longer affine to CPU2
+<4>[  210.030757] IRQ42 no longer affine to CPU2
+<6>[  210.032677] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  210.033050] Enabling non-boot CPUs ...
+<6>[  210.034116] CPU2 is up
+<6>[  210.034505] PM: noirq resume of devices complete after 0.373 msecs
+<6>[  210.035718] PM: early resume of devices complete after 0.406 msecs
+<6>[  210.058236] PM: resume of devices complete after 22.502 msecs
+<6>[  210.061884] Restarting tasks ... done.
+<6>[  210.066230] PM: suspend exit 1970-01-01 00:29:32.034014138 UTC
+<6>[  211.172934] PM: suspend entry 1970-01-01 00:29:33.140705336 UTC
+<6>[  211.172966] PM: Syncing filesystems ... done.
+<3>[  211.197077] Error: returning -512 value
+<6>[  211.195446] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  211.198864] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  211.201189] Suspending console(s) (use no_console_suspend to debug)
+<6>[  211.240189] PM: suspend of devices complete after 37.863 msecs
+<6>[  211.241232] PM: late suspend of devices complete after 1.026 msecs
+<6>[  211.242880] PM: noirq suspend of devices complete after 1.632 msecs
+<6>[  211.242899] Disabling non-boot CPUs ...
+<6>[  211.246952] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  211.248309] Enabling non-boot CPUs ...
+<6>[  211.250056] CPU2 is up
+<6>[  211.250962] PM: noirq resume of devices complete after 0.878 msecs
+<6>[  211.252519] PM: early resume of devices complete after 0.695 msecs
+<6>[  211.341302] PM: resume of devices complete after 88.753 msecs
+<6>[  211.342606] Restarting tasks ... done.
+<6>[  211.348437] PM: suspend exit 1970-01-01 00:30:23.498680889 UTC
+<6>[  211.844857] PM: suspend entry 1970-01-01 00:30:23.995103024 UTC
+<6>[  211.844878] PM: Syncing filesystems ... done.
+<3>[  211.848136] Error: returning -512 value
+<6>[  211.846889] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  211.849660] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  211.851596] Suspending console(s) (use no_console_suspend to debug)
+<6>[  211.892135] PM: suspend of devices complete after 39.838 msecs
+<6>[  211.892863] PM: late suspend of devices complete after 0.714 msecs
+<6>[  211.894048] PM: noirq suspend of devices complete after 1.172 msecs
+<6>[  211.894061] Disabling non-boot CPUs ...
+<6>[  211.897029] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  211.897477] Enabling non-boot CPUs ...
+<6>[  211.898537] CPU2 is up
+<6>[  211.898945] PM: noirq resume of devices complete after 0.389 msecs
+<6>[  211.899871] PM: early resume of devices complete after 0.396 msecs
+<6>[  211.981092] PM: resume of devices complete after 81.203 msecs
+<6>[  211.981975] Restarting tasks ... done.
+<6>[  211.985952] PM: suspend exit 1970-01-01 00:31:09.888274673 UTC
+<6>[  212.999587] PM: suspend entry 1970-01-01 00:31:10.901906131 UTC
+<6>[  212.999608] PM: Syncing filesystems ... done.
+<3>[  213.019703] Error: returning -512 value
+<6>[  213.018936] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  213.021657] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  213.023596] Suspending console(s) (use no_console_suspend to debug)
+<6>[  213.057815] PM: suspend of devices complete after 33.509 msecs
+<6>[  213.058546] PM: late suspend of devices complete after 0.717 msecs
+<6>[  213.059724] PM: noirq suspend of devices complete after 1.166 msecs
+<6>[  213.059736] Disabling non-boot CPUs ...
+<6>[  213.062722] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  213.063168] Enabling non-boot CPUs ...
+<6>[  213.064249] CPU2 is up
+<6>[  213.064787] PM: noirq resume of devices complete after 0.519 msecs
+<6>[  213.065852] PM: early resume of devices complete after 0.407 msecs
+<6>[  213.147521] PM: resume of devices complete after 81.651 msecs
+<6>[  213.148207] Restarting tasks ... done.
+<6>[  213.151691] PM: suspend exit 1970-01-01 00:31:13.660085140 UTC
+<6>[  213.647717] PM: suspend entry 1970-01-01 00:31:14.156096963 UTC
+<6>[  213.647748] PM: Syncing filesystems ... done.
+<3>[  213.652138] Error: returning -512 value
+<6>[  213.650587] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  213.653964] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  213.656711] Suspending console(s) (use no_console_suspend to debug)
+<6>[  213.706596] PM: suspend of devices complete after 48.756 msecs
+<6>[  213.707633] PM: late suspend of devices complete after 1.016 msecs
+<6>[  213.709280] PM: noirq suspend of devices complete after 1.630 msecs
+<6>[  213.709300] Disabling non-boot CPUs ...
+<6>[  213.713273] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  213.714080] Enabling non-boot CPUs ...
+<6>[  213.715211] CPU2 is up
+<6>[  213.715603] PM: noirq resume of devices complete after 0.376 msecs
+<6>[  213.716609] PM: early resume of devices complete after 0.400 msecs
+<6>[  213.805378] PM: resume of devices complete after 88.742 msecs
+<6>[  213.806668] Restarting tasks ... done.
+<6>[  213.812258] PM: suspend exit 1970-01-01 00:31:35.104691642 UTC
+<6>[  215.569057] PM: suspend entry 1970-01-01 00:31:36.861489193 UTC
+<6>[  215.569080] PM: Syncing filesystems ... done.
+<3>[  215.592470] Error: returning -512 value
+<6>[  215.591793] Freezing user space processes ... 
+<6>[  215.592974] active wakeup source: wlan
+<6>[  215.593017] 
+<3>[  215.593036] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  215.593044] 
+<6>[  215.593050] Restarting tasks ... done.
+<6>[  215.594257] PM: suspend exit 1970-01-01 00:31:36.886695651 UTC
+<6>[  216.565448] PM: suspend entry 1970-01-01 00:31:37.857871745 UTC
+<6>[  216.565479] PM: Syncing filesystems ... done.
+<3>[  216.569548] Error: returning -512 value
+<6>[  216.567968] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  216.571375] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  216.573710] Suspending console(s) (use no_console_suspend to debug)
+<6>[  216.622394] PM: suspend of devices complete after 47.064 msecs
+<6>[  216.623438] PM: late suspend of devices complete after 1.026 msecs
+<6>[  216.625273] PM: noirq suspend of devices complete after 1.810 msecs
+<6>[  216.625294] Disabling non-boot CPUs ...
+<4>[  216.626293] migrate_irqs: 1256 callbacks suppressed
+<4>[  216.626299] IRQ32 no longer affine to CPU2
+<4>[  216.626308] IRQ33 no longer affine to CPU2
+<4>[  216.626317] IRQ34 no longer affine to CPU2
+<4>[  216.626325] IRQ35 no longer affine to CPU2
+<4>[  216.626332] IRQ36 no longer affine to CPU2
+<4>[  216.626341] IRQ37 no longer affine to CPU2
+<4>[  216.626349] IRQ38 no longer affine to CPU2
+<4>[  216.626358] IRQ39 no longer affine to CPU2
+<4>[  216.626365] IRQ40 no longer affine to CPU2
+<4>[  216.626374] IRQ41 no longer affine to CPU2
+<6>[  216.629402] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  216.630193] Enabling non-boot CPUs ...
+<6>[  216.631252] CPU2 is up
+<6>[  216.631642] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  216.632630] PM: early resume of devices complete after 0.384 msecs
+<6>[  216.724060] PM: resume of devices complete after 91.404 msecs
+<6>[  216.725575] Restarting tasks ... done.
+<6>[  216.731139] PM: suspend exit 1970-01-01 00:32:21.235000634 UTC
+<6>[  217.762179] PM: suspend entry 1970-01-01 00:32:22.266032613 UTC
+<6>[  217.762211] PM: Syncing filesystems ... done.
+<3>[  217.785028] Error: returning -512 value
+<6>[  217.783773] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  217.787534] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  217.789963] Suspending console(s) (use no_console_suspend to debug)
+<6>[  217.829293] PM: suspend of devices complete after 38.182 msecs
+<6>[  217.830312] PM: late suspend of devices complete after 1.000 msecs
+<6>[  217.831977] PM: noirq suspend of devices complete after 1.648 msecs
+<6>[  217.831995] Disabling non-boot CPUs ...
+<6>[  217.836121] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  217.837476] Enabling non-boot CPUs ...
+<6>[  217.839181] CPU2 is up
+<6>[  217.840093] PM: noirq resume of devices complete after 0.882 msecs
+<6>[  217.841660] PM: early resume of devices complete after 0.692 msecs
+<6>[  217.931452] PM: resume of devices complete after 89.762 msecs
+<6>[  217.932759] Restarting tasks ... done.
+<6>[  217.940688] PM: suspend exit 1970-01-01 00:32:44.304486510 UTC
+<6>[  218.439333] PM: suspend entry 1970-01-01 00:32:44.803137448 UTC
+<6>[  218.439363] PM: Syncing filesystems ... done.
+<3>[  218.443816] Error: returning -512 value
+<6>[  218.442121] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  218.445532] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  218.447979] Suspending console(s) (use no_console_suspend to debug)
+<6>[  218.495321] PM: suspend of devices complete after 46.212 msecs
+<6>[  218.496371] PM: late suspend of devices complete after 1.033 msecs
+<6>[  218.498017] PM: noirq suspend of devices complete after 1.628 msecs
+<6>[  218.498038] Disabling non-boot CPUs ...
+<6>[  218.501821] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  218.502612] Enabling non-boot CPUs ...
+<6>[  218.503671] CPU2 is up
+<6>[  218.504061] PM: noirq resume of devices complete after 0.374 msecs
+<6>[  218.505221] PM: early resume of devices complete after 0.406 msecs
+<6>[  218.594008] PM: resume of devices complete after 88.759 msecs
+<6>[  218.595480] Restarting tasks ... done.
+<6>[  218.599924] PM: suspend exit 1970-01-01 00:33:45.664178570 UTC
+<6>[  219.630529] PM: suspend entry 1970-01-01 00:33:46.694776226 UTC
+<6>[  219.630560] PM: Syncing filesystems ... done.
+<3>[  219.655733] Error: returning -512 value
+<6>[  219.653627] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  219.657539] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  219.659849] Suspending console(s) (use no_console_suspend to debug)
+<6>[  219.699290] PM: suspend of devices complete after 38.286 msecs
+<6>[  219.700326] PM: late suspend of devices complete after 1.015 msecs
+<6>[  219.702004] PM: noirq suspend of devices complete after 1.661 msecs
+<6>[  219.702024] Disabling non-boot CPUs ...
+<6>[  219.706160] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  219.706955] Enabling non-boot CPUs ...
+<6>[  219.708001] CPU2 is up
+<6>[  219.708390] PM: noirq resume of devices complete after 0.372 msecs
+<6>[  219.709383] PM: early resume of devices complete after 0.388 msecs
+<6>[  219.800682] PM: resume of devices complete after 91.272 msecs
+<6>[  219.801988] Restarting tasks ... done.
+<6>[  219.806790] PM: suspend exit 1970-01-01 00:34:08.753271686 UTC
+<6>[  222.152165] PM: suspend entry 1970-01-01 00:34:11.098649654 UTC
+<6>[  222.152185] PM: Syncing filesystems ... done.
+<3>[  222.171898] Error: returning -512 value
+<6>[  222.171235] Freezing user space processes ... 
+<6>[  222.172415] active wakeup source: wlan
+<6>[  222.172460] 
+<3>[  222.172473] Freezing of tasks aborted after 0.001 seconds (40 tasks refusing to freeze, wq_busy=0):
+<6>[  222.172481] 
+<6>[  222.172487] Restarting tasks ... done.
+<6>[  222.173712] PM: suspend exit 1970-01-01 00:34:11.120201425 UTC
+<6>[  223.145067] PM: suspend entry 1970-01-01 00:34:12.091544549 UTC
+<6>[  223.145098] PM: Syncing filesystems ... done.
+<3>[  223.148968] Error: returning -512 value
+<6>[  223.147653] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  223.151008] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  223.153312] Suspending console(s) (use no_console_suspend to debug)
+<6>[  223.198743] PM: suspend of devices complete after 43.752 msecs
+<6>[  223.199778] PM: late suspend of devices complete after 1.016 msecs
+<6>[  223.201426] PM: noirq suspend of devices complete after 1.634 msecs
+<6>[  223.201445] Disabling non-boot CPUs ...
+<4>[  223.202512] migrate_irqs: 1005 callbacks suppressed
+<4>[  223.202518] IRQ32 no longer affine to CPU2
+<4>[  223.202528] IRQ33 no longer affine to CPU2
+<4>[  223.202535] IRQ34 no longer affine to CPU2
+<4>[  223.202543] IRQ35 no longer affine to CPU2
+<4>[  223.202551] IRQ36 no longer affine to CPU2
+<4>[  223.202560] IRQ37 no longer affine to CPU2
+<4>[  223.202567] IRQ38 no longer affine to CPU2
+<4>[  223.202576] IRQ39 no longer affine to CPU2
+<4>[  223.202583] IRQ40 no longer affine to CPU2
+<4>[  223.202591] IRQ41 no longer affine to CPU2
+<6>[  223.205589] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  223.206374] Enabling non-boot CPUs ...
+<6>[  223.207424] CPU2 is up
+<6>[  223.207818] PM: noirq resume of devices complete after 0.378 msecs
+<6>[  223.208815] PM: early resume of devices complete after 0.393 msecs
+<6>[  223.293550] PM: resume of devices complete after 84.714 msecs
+<6>[  223.294601] Restarting tasks ... done.
+<6>[  223.297824] PM: suspend exit 1970-01-01 00:35:43.344773837 UTC
+<6>[  224.334090] PM: suspend entry 1970-01-01 00:35:44.381027327 UTC
+<6>[  224.334121] PM: Syncing filesystems ... done.
+<3>[  224.364893] Error: returning -512 value
+<6>[  224.363265] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  224.366781] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  224.369108] Suspending console(s) (use no_console_suspend to debug)
+<6>[  224.407826] PM: suspend of devices complete after 37.611 msecs
+<6>[  224.408789] PM: late suspend of devices complete after 0.946 msecs
+<6>[  224.410320] PM: noirq suspend of devices complete after 1.517 msecs
+<6>[  224.410338] Disabling non-boot CPUs ...
+<6>[  224.414134] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  224.414971] Enabling non-boot CPUs ...
+<6>[  224.415871] CPU2 is up
+<6>[  224.416225] PM: noirq resume of devices complete after 0.340 msecs
+<6>[  224.417123] PM: early resume of devices complete after 0.342 msecs
+<6>[  224.493937] PM: resume of devices complete after 76.798 msecs
+<6>[  224.494900] Restarting tasks ... done.
+<6>[  224.500053] PM: suspend exit 1970-01-01 00:37:15.620173125 UTC
+<6>[  225.533030] PM: suspend entry 1970-01-01 00:37:16.653142082 UTC
+<6>[  225.533061] PM: Syncing filesystems ... done.
+<3>[  225.559076] Error: returning -512 value
+<6>[  225.558109] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  225.561311] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  225.563554] Suspending console(s) (use no_console_suspend to debug)
+<6>[  225.604244] PM: suspend of devices complete after 38.911 msecs
+<6>[  225.605287] PM: late suspend of devices complete after 1.021 msecs
+<6>[  225.607039] PM: noirq suspend of devices complete after 1.736 msecs
+<6>[  225.607059] Disabling non-boot CPUs ...
+<6>[  225.613679] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  225.614846] Enabling non-boot CPUs ...
+<6>[  225.616438] CPU1 is up
+<6>[  225.617714] CPU3 is up
+<6>[  225.618600] PM: noirq resume of devices complete after 0.858 msecs
+<6>[  225.620293] PM: early resume of devices complete after 0.765 msecs
+<6>[  225.712159] PM: resume of devices complete after 91.834 msecs
+<6>[  225.715638] Restarting tasks ... done.
+<6>[  225.719201] PM: suspend exit 1970-01-01 00:37:39.718452594 UTC
+<6>[  226.172833] ktd2xx_back_light_off 0
+<6>[  226.176465] ktd2xx_back_light_off 0
+<3>[  226.251551] wlan: [2617:E :HDD] hdd_driver_command: 3899: making default scan to ACTIVE
+<3>[  226.527467] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<6>[  234.071883] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  234.078563] msm_bam_device_lpm_ok: Going to LPM now
+<6>[  234.087970] msm_otg 78d9000.usb: USB in low power mode
+<6>[  234.365266] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  234.501151] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  234.501176] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  234.603999] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  234.604775] android_work: android_work: did not send uevent (0 0   (null))
+<6>[  234.672491] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<3>[  234.684120] wlan: [2617:E :HDD] hdd_driver_command: 3899: making default scan to ACTIVE
+<3>[  234.687736] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<6>[  235.019848] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  235.087172] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  235.091320] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  235.168568] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<3>[  235.224628] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<6>[  235.283796] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  235.351190] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  235.355590] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  235.434522] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  235.580464] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  235.580487] diag: USB channel diag connected
+<6>[  235.580639] msm_otg 78d9000.usb: Avail curr from USB = 500
+<3>[  235.580951] gbam_connect_work: Bam channel is not ready
+<6>[  235.634567] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[  240.095047] migrate_irqs: 1756 callbacks suppressed
+<4>[  240.095052] IRQ32 no longer affine to CPU2
+<4>[  240.095058] IRQ33 no longer affine to CPU2
+<4>[  240.095064] IRQ34 no longer affine to CPU2
+<4>[  240.095069] IRQ35 no longer affine to CPU2
+<4>[  240.095075] IRQ36 no longer affine to CPU2
+<4>[  240.095080] IRQ37 no longer affine to CPU2
+<4>[  240.095085] IRQ38 no longer affine to CPU2
+<4>[  240.095091] IRQ39 no longer affine to CPU2
+<4>[  240.095096] IRQ40 no longer affine to CPU2
+<4>[  240.095102] IRQ41 no longer affine to CPU2
+<4>[  245.315320] migrate_irqs: 4556 callbacks suppressed
+<4>[  245.315325] IRQ32 no longer affine to CPU3
+<4>[  245.315331] IRQ33 no longer affine to CPU3
+<4>[  245.315336] IRQ34 no longer affine to CPU3
+<4>[  245.315341] IRQ35 no longer affine to CPU3
+<4>[  245.315347] IRQ36 no longer affine to CPU3
+<4>[  245.315353] IRQ37 no longer affine to CPU3
+<4>[  245.315358] IRQ38 no longer affine to CPU3
+<4>[  245.315364] IRQ39 no longer affine to CPU3
+<4>[  245.315369] IRQ40 no longer affine to CPU3
+<4>[  245.315375] IRQ41 no longer affine to CPU3
+<3>[  249.562054] wlan: [2617:E :HDD] hdd_driver_command: 3899: making default scan to ACTIVE
+<3>[  249.573452] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<3>[  250.080468] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<4>[  250.565984] migrate_irqs: 4550 callbacks suppressed
+<4>[  250.565991] IRQ32 no longer affine to CPU1
+<4>[  250.565998] IRQ33 no longer affine to CPU1
+<4>[  250.566005] IRQ34 no longer affine to CPU1
+<4>[  250.566012] IRQ35 no longer affine to CPU1
+<4>[  250.566019] IRQ36 no longer affine to CPU1
+<4>[  250.566026] IRQ37 no longer affine to CPU1
+<4>[  250.566032] IRQ38 no longer affine to CPU1
+<4>[  250.566041] IRQ40 no longer affine to CPU1
+<4>[  250.566047] IRQ41 no longer affine to CPU1
+<4>[  250.566055] IRQ42 no longer affine to CPU1
+<3>[  254.693600] wlan: [2617:E :HDD] hdd_driver_command: 3899: making default scan to ACTIVE
+<3>[  254.697019] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<3>[  255.214803] wlan: [2617:E :HDD] hdd_driver_command: 3905: making default scan to PASSIVE
+<4>[  255.725978] migrate_irqs: 2271 callbacks suppressed
+<4>[  255.725983] IRQ32 no longer affine to CPU3
+<4>[  255.725989] IRQ33 no longer affine to CPU3
+<4>[  255.725995] IRQ34 no longer affine to CPU3
+<4>[  255.726000] IRQ35 no longer affine to CPU3
+<4>[  255.726006] IRQ36 no longer affine to CPU3
+<4>[  255.726012] IRQ37 no longer affine to CPU3
+<4>[  255.726017] IRQ38 no longer affine to CPU3
+<4>[  255.726023] IRQ40 no longer affine to CPU3
+<4>[  255.726029] IRQ41 no longer affine to CPU3
+<4>[  255.726034] IRQ42 no longer affine to CPU3
+<4>[  261.248294] migrate_irqs: 1763 callbacks suppressed
+<4>[  261.248300] IRQ32 no longer affine to CPU1
+<4>[  261.248308] IRQ33 no longer affine to CPU1
+<4>[  261.248315] IRQ34 no longer affine to CPU1
+<4>[  261.248322] IRQ35 no longer affine to CPU1
+<4>[  261.248329] IRQ36 no longer affine to CPU1
+<4>[  261.248336] IRQ37 no longer affine to CPU1
+<4>[  261.248343] IRQ38 no longer affine to CPU1
+<4>[  261.248350] IRQ40 no longer affine to CPU1
+<4>[  261.248358] IRQ41 no longer affine to CPU1
+<4>[  261.248365] IRQ42 no longer affine to CPU1
+<4>[  266.278990] migrate_irqs: 2521 callbacks suppressed
+<4>[  266.278995] IRQ32 no longer affine to CPU1
+<4>[  266.279002] IRQ33 no longer affine to CPU1
+<4>[  266.279008] IRQ34 no longer affine to CPU1
+<4>[  266.279013] IRQ35 no longer affine to CPU1
+<4>[  266.279018] IRQ36 no longer affine to CPU1
+<4>[  266.279024] IRQ37 no longer affine to CPU1
+<4>[  266.279030] IRQ38 no longer affine to CPU1
+<4>[  266.279036] IRQ40 no longer affine to CPU1
+<4>[  266.279042] IRQ41 no longer affine to CPU1
+<4>[  266.279047] IRQ42 no longer affine to CPU1
+<4>[  272.916194] migrate_irqs: 1258 callbacks suppressed
+<4>[  272.916201] IRQ32 no longer affine to CPU3
+<4>[  272.916208] IRQ33 no longer affine to CPU3
+<4>[  272.916215] IRQ34 no longer affine to CPU3
+<4>[  272.916223] IRQ35 no longer affine to CPU3
+<4>[  272.916230] IRQ36 no longer affine to CPU3
+<4>[  272.916237] IRQ37 no longer affine to CPU3
+<4>[  272.916244] IRQ38 no longer affine to CPU3
+<4>[  272.916252] IRQ40 no longer affine to CPU3
+<4>[  272.916259] IRQ41 no longer affine to CPU3
+<4>[  272.916266] IRQ42 no longer affine to CPU3
+<4>[  278.509352] migrate_irqs: 749 callbacks suppressed
+<4>[  278.509359] IRQ32 no longer affine to CPU3
+<4>[  278.509367] IRQ33 no longer affine to CPU3
+<4>[  278.509374] IRQ34 no longer affine to CPU3
+<4>[  278.509381] IRQ35 no longer affine to CPU3
+<4>[  278.509388] IRQ36 no longer affine to CPU3
+<4>[  278.509395] IRQ37 no longer affine to CPU3
+<4>[  278.509402] IRQ38 no longer affine to CPU3
+<4>[  278.509409] IRQ40 no longer affine to CPU3
+<4>[  278.509416] IRQ41 no longer affine to CPU3
+<4>[  278.509423] IRQ42 no longer affine to CPU3
+<4>[  284.045617] migrate_irqs: 497 callbacks suppressed
+<4>[  284.045623] IRQ32 no longer affine to CPU2
+<4>[  284.045631] IRQ33 no longer affine to CPU2
+<4>[  284.045637] IRQ34 no longer affine to CPU2
+<4>[  284.045645] IRQ35 no longer affine to CPU2
+<4>[  284.045652] IRQ36 no longer affine to CPU2
+<4>[  284.045659] IRQ37 no longer affine to CPU2
+<4>[  284.045666] IRQ38 no longer affine to CPU2
+<4>[  284.045673] IRQ39 no longer affine to CPU2
+<4>[  284.045680] IRQ40 no longer affine to CPU2
+<4>[  284.045687] IRQ41 no longer affine to CPU2
+<3>[  285.710512] wlan: [2586:E :PE ] limProcessAssocRspFrame: 472: Filling tdls prohibited in session entry
+<3>[  285.721916] wlan: [2586:E :PE ] wlan_cfgGetInt: 374: Not valid cfg id 1
+<3>[  285.722133] wlan: [2586:E :WDA] Peer staIdx 3 hasn't established yet(0). Send ADD BA failure to PE.
+<6>[  285.733994] wlan: 00:0a:f5:26:6d:f8 connected to 2c:30:33:de:29:43
+<6>[  285.734221] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+<6>[  285.734055] wlan(1) 2c:30:33:de:29:43 Standalone
+<3>[  285.735058] wlan: [2586:E :SME] sme_UpdateDSCPtoUPMapping: QOS Mapping IE not present
+<3>[  285.751639] wlan: [2617:E :SME] sme_FTUpdateKey: Unhandled state=0
+<3>[  285.753618] wlan: [2617:E :SME] sme_FTUpdateKey: Unhandled state=0
+<3>[  285.756022] wlan: [2586:E :HDD] hdd_conf_arp_offload: 1143: IP Address is not assigned
+<3>[  285.756260] wlan: [2586:E :HDD] hdd_ReConfigSuspendDataClearedDuringRoaming: 2126: Failed to disable ARPOffload Feature 3
+<3>[  286.943797] wlan: [2586:E :PE ] __limValidateAddBAParameterSet: 1176: AddBAReq rcvd when there is already a session for this StaId = 3, tid = 0
+<3>[  286.943797]  
+<3>[  287.705180] wlan: [2586:E :PE ] limProcessAddBaInd: 5683: BA setup for staId = 3, TID: 0, SSN: 20
+<4>[  289.085233] migrate_irqs: 4548 callbacks suppressed
+<4>[  289.085238] IRQ32 no longer affine to CPU2
+<4>[  289.085244] IRQ33 no longer affine to CPU2
+<4>[  289.085249] IRQ34 no longer affine to CPU2
+<4>[  289.085255] IRQ35 no longer affine to CPU2
+<4>[  289.085261] IRQ36 no longer affine to CPU2
+<4>[  289.085266] IRQ37 no longer affine to CPU2
+<4>[  289.085272] IRQ38 no longer affine to CPU2
+<4>[  289.085277] IRQ39 no longer affine to CPU2
+<4>[  289.085283] IRQ40 no longer affine to CPU2
+<4>[  289.085288] IRQ41 no longer affine to CPU2
+<4>[  298.265851] migrate_irqs: 3284 callbacks suppressed
+<4>[  298.265856] IRQ32 no longer affine to CPU3
+<4>[  298.265862] IRQ33 no longer affine to CPU3
+<4>[  298.265868] IRQ34 no longer affine to CPU3
+<4>[  298.265873] IRQ35 no longer affine to CPU3
+<4>[  298.265879] IRQ36 no longer affine to CPU3
+<4>[  298.265885] IRQ37 no longer affine to CPU3
+<4>[  298.265890] IRQ38 no longer affine to CPU3
+<4>[  298.265896] IRQ40 no longer affine to CPU3
+<4>[  298.265902] IRQ41 no longer affine to CPU3
+<4>[  298.265908] IRQ42 no longer affine to CPU3
+<4>[  304.195333] migrate_irqs: 2774 callbacks suppressed
+<4>[  304.195338] IRQ32 no longer affine to CPU3
+<4>[  304.195343] IRQ33 no longer affine to CPU3
+<4>[  304.195350] IRQ34 no longer affine to CPU3
+<4>[  304.195355] IRQ35 no longer affine to CPU3
+<4>[  304.195361] IRQ36 no longer affine to CPU3
+<4>[  304.195366] IRQ37 no longer affine to CPU3
+<4>[  304.195372] IRQ38 no longer affine to CPU3
+<4>[  304.195378] IRQ40 no longer affine to CPU3
+<4>[  304.195384] IRQ41 no longer affine to CPU3
+<4>[  304.195389] IRQ42 no longer affine to CPU3
+<3>[  304.764564] wlan: [2586:E :PMC] pmcTrafficTimerExpired: 996: Remain in power active DHCP threshold reached FALLBACK to enable enter BMPS
+<3>[  305.779656] wlan: [2586:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+<3>[  305.779695] wlan: [2586:E :TL ]  ----> CRegion 0, hRSSI 0, Alpha 5
+<6>[  308.328175] msm_otg 78d9000.usb: Avail curr from USB = 2
+<6>[  308.328213] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+<6>[  308.328388] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+<6>[  308.331517] msm_otg 78d9000.usb: Avail curr from USB = 0
+<6>[  308.331561] diag: USB channel diag disconnected
+<6>[  308.331789] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_DISCONNECT_EVENT received
+<6>[  308.332431] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<3>[  308.332509] gbam_disconnect_work: Bam channel is not opened
+<3>[  308.332598] Error: returning -19 value
+<6>[  308.333833] read descriptors
+<6>[  308.333857] read strings
+<6>[  308.345575] msm_bam_device_lpm_ok: Going to LPM now
+<6>[  308.355731] msm_otg 78d9000.usb: USB in low power mode
+<4>[  308.359226] FAT-fs (mmcblk0p30): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  308.388729] init: no such service 'fuse_sdcard'
+<4>[  308.496498] FAT-fs (mmcblk1p1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  308.568725] init: no such service 'fuse_sdcard1'
+<4>[  310.129588] migrate_irqs: 3030 callbacks suppressed
+<4>[  310.129593] IRQ32 no longer affine to CPU3
+<4>[  310.129599] IRQ33 no longer affine to CPU3
+<4>[  310.129605] IRQ34 no longer affine to CPU3
+<4>[  310.129610] IRQ35 no longer affine to CPU3
+<4>[  310.129616] IRQ36 no longer affine to CPU3
+<4>[  310.129621] IRQ37 no longer affine to CPU3
+<4>[  310.129626] IRQ38 no longer affine to CPU3
+<4>[  310.129633] IRQ40 no longer affine to CPU3
+<4>[  310.129638] IRQ41 no longer affine to CPU3
+<4>[  310.129644] IRQ42 no longer affine to CPU3
+<4>[  315.217490] migrate_irqs: 2261 callbacks suppressed
+<4>[  315.217496] IRQ32 no longer affine to CPU2
+<4>[  315.217502] IRQ33 no longer affine to CPU2
+<4>[  315.217508] IRQ34 no longer affine to CPU2
+<4>[  315.217514] IRQ35 no longer affine to CPU2
+<4>[  315.217520] IRQ36 no longer affine to CPU2
+<4>[  315.217526] IRQ37 no longer affine to CPU2
+<4>[  315.217532] IRQ38 no longer affine to CPU2
+<4>[  315.217539] IRQ40 no longer affine to CPU2
+<4>[  315.217544] IRQ41 no longer affine to CPU2
+<4>[  315.217551] IRQ42 no longer affine to CPU2
+<6>[  317.809570] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  317.943240] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  317.943265] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  318.045196] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  318.045850] android_work: android_work: did not send uevent (0 0   (null))
+<6>[  318.114678] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  318.137435] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  318.137552] diag: USB channel diag connected
+<3>[  318.137683] gbam_connect_work: Bam channel is not ready
+<6>[  318.137699] msm_otg 78d9000.usb: Avail curr from USB = 500
+<6>[  318.194723] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[  320.599646] migrate_irqs: 2762 callbacks suppressed
+<4>[  320.599653] IRQ32 no longer affine to CPU2
+<4>[  320.599660] IRQ33 no longer affine to CPU2
+<4>[  320.599667] IRQ34 no longer affine to CPU2
+<4>[  320.599674] IRQ35 no longer affine to CPU2
+<4>[  320.599681] IRQ36 no longer affine to CPU2
+<4>[  320.599689] IRQ37 no longer affine to CPU2
+<4>[  320.599696] IRQ38 no longer affine to CPU2
+<4>[  320.599702] IRQ39 no longer affine to CPU2
+<4>[  320.599710] IRQ40 no longer affine to CPU2
+<4>[  320.599717] IRQ41 no longer affine to CPU2
+<4>[  326.215046] migrate_irqs: 1251 callbacks suppressed
+<4>[  326.215051] IRQ32 no longer affine to CPU1
+<4>[  326.215058] IRQ33 no longer affine to CPU1
+<4>[  326.215064] IRQ34 no longer affine to CPU1
+<4>[  326.215070] IRQ35 no longer affine to CPU1
+<4>[  326.215076] IRQ36 no longer affine to CPU1
+<4>[  326.215081] IRQ37 no longer affine to CPU1
+<4>[  326.215087] IRQ38 no longer affine to CPU1
+<4>[  326.215093] IRQ39 no longer affine to CPU1
+<4>[  326.215099] IRQ40 no longer affine to CPU1
+<4>[  326.215105] IRQ41 no longer affine to CPU1
+<4>[  331.385075] migrate_irqs: 2514 callbacks suppressed
+<4>[  331.385081] IRQ32 no longer affine to CPU3
+<4>[  331.385086] IRQ33 no longer affine to CPU3
+<4>[  331.385092] IRQ34 no longer affine to CPU3
+<4>[  331.385098] IRQ35 no longer affine to CPU3
+<4>[  331.385104] IRQ36 no longer affine to CPU3
+<4>[  331.385110] IRQ37 no longer affine to CPU3
+<4>[  331.385115] IRQ38 no longer affine to CPU3
+<4>[  331.385121] IRQ40 no longer affine to CPU3
+<4>[  331.385127] IRQ41 no longer affine to CPU3
+<4>[  331.385133] IRQ42 no longer affine to CPU3
+<4>[  336.775020] migrate_irqs: 2008 callbacks suppressed
+<4>[  336.775026] IRQ32 no longer affine to CPU1
+<4>[  336.775032] IRQ33 no longer affine to CPU1
+<4>[  336.775039] IRQ34 no longer affine to CPU1
+<4>[  336.775044] IRQ35 no longer affine to CPU1
+<4>[  336.775051] IRQ36 no longer affine to CPU1
+<4>[  336.775057] IRQ37 no longer affine to CPU1
+<4>[  336.775063] IRQ38 no longer affine to CPU1
+<4>[  336.775068] IRQ39 no longer affine to CPU1
+<4>[  336.775075] IRQ40 no longer affine to CPU1
+<4>[  336.775081] IRQ41 no longer affine to CPU1
+<4>[  347.565588] migrate_irqs: 5031 callbacks suppressed
+<4>[  347.565594] IRQ32 no longer affine to CPU3
+<4>[  347.565602] IRQ33 no longer affine to CPU3
+<4>[  347.565608] IRQ34 no longer affine to CPU3
+<4>[  347.565616] IRQ35 no longer affine to CPU3
+<4>[  347.565622] IRQ36 no longer affine to CPU3
+<4>[  347.565630] IRQ37 no longer affine to CPU3
+<4>[  347.565637] IRQ38 no longer affine to CPU3
+<4>[  347.565644] IRQ40 no longer affine to CPU3
+<4>[  347.565651] IRQ41 no longer affine to CPU3
+<4>[  347.565659] IRQ42 no longer affine to CPU3
+<4>[  358.005855] migrate_irqs: 241 callbacks suppressed
+<4>[  358.005861] IRQ32 no longer affine to CPU1
+<4>[  358.005869] IRQ33 no longer affine to CPU1
+<4>[  358.005875] IRQ34 no longer affine to CPU1
+<4>[  358.005883] IRQ35 no longer affine to CPU1
+<4>[  358.005890] IRQ36 no longer affine to CPU1
+<4>[  358.005897] IRQ37 no longer affine to CPU1
+<4>[  358.005904] IRQ38 no longer affine to CPU1
+<4>[  358.005912] IRQ40 no longer affine to CPU1
+<4>[  358.005919] IRQ41 no longer affine to CPU1
+<4>[  358.005926] IRQ42 no longer affine to CPU1
+<6>[  361.048037] msm_otg 78d9000.usb: Avail curr from USB = 2
+<6>[  361.048074] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+<6>[  361.051139] msm_otg 78d9000.usb: Avail curr from USB = 0
+<6>[  361.051182] diag: USB channel diag disconnected
+<6>[  361.051424] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_DISCONNECT_EVENT received
+<6>[  361.052222] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<3>[  361.052306] gbam_disconnect_work: Bam channel is not opened
+<3>[  361.052474] Error: returning -19 value
+<6>[  361.053551] read descriptors
+<6>[  361.053574] read strings
+<6>[  361.061957] msm_bam_device_lpm_ok: Going to LPM now
+<6>[  361.072555] msm_otg 78d9000.usb: USB in low power mode
+<4>[  361.098029] FAT-fs (mmcblk0p30): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  361.132771] init: no such service 'fuse_sdcard'
+<4>[  361.346499] FAT-fs (mmcblk1p1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  361.421745] init: no such service 'fuse_sdcard1'
+<6>[  363.376919] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  363.766857] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  363.766882] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  363.869339] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  363.870576] android_work: android_work: did not send uevent (0 0   (null))
+<6>[  363.938671] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  364.172025] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  364.239709] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  364.243219] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  364.321702] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  364.436659] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  364.504512] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  364.507808] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  364.586468] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  364.735211] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  364.735234] diag: USB channel diag connected
+<6>[  364.735384] msm_otg 78d9000.usb: Avail curr from USB = 500
+<3>[  364.735555] gbam_connect_work: Bam channel is not ready
+<6>[  364.794581] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[  366.086021] migrate_irqs: 745 callbacks suppressed
+<4>[  366.086027] IRQ32 no longer affine to CPU1
+<4>[  366.086035] IRQ33 no longer affine to CPU1
+<4>[  366.086042] IRQ34 no longer affine to CPU1
+<4>[  366.086049] IRQ35 no longer affine to CPU1
+<4>[  366.086057] IRQ36 no longer affine to CPU1
+<4>[  366.086063] IRQ37 no longer affine to CPU1
+<4>[  366.086071] IRQ38 no longer affine to CPU1
+<4>[  366.086078] IRQ40 no longer affine to CPU1
+<4>[  366.086085] IRQ41 no longer affine to CPU1
+<4>[  366.086092] IRQ42 no longer affine to CPU1
+<4>[  386.067386] migrate_irqs: 242 callbacks suppressed
+<4>[  386.067392] IRQ32 no longer affine to CPU2
+<4>[  386.067399] IRQ33 no longer affine to CPU2
+<4>[  386.067406] IRQ34 no longer affine to CPU2
+<4>[  386.067414] IRQ35 no longer affine to CPU2
+<4>[  386.067421] IRQ36 no longer affine to CPU2
+<4>[  386.067427] IRQ37 no longer affine to CPU2
+<4>[  386.067434] IRQ38 no longer affine to CPU2
+<4>[  386.067441] IRQ40 no longer affine to CPU2
+<4>[  386.067449] IRQ41 no longer affine to CPU2
+<4>[  386.067456] IRQ42 no longer affine to CPU2
+<6>[  391.199013] nf_conntrack: automatic helper assignment is deprecated and it will be removed soon. Use the iptables CT target to attach helpers instead.
+<4>[  421.455637] migrate_irqs: 242 callbacks suppressed
+<4>[  421.455642] IRQ32 no longer affine to CPU1
+<4>[  421.455647] IRQ33 no longer affine to CPU1
+<4>[  421.455653] IRQ34 no longer affine to CPU1
+<4>[  421.455658] IRQ35 no longer affine to CPU1
+<4>[  421.455663] IRQ36 no longer affine to CPU1
+<4>[  421.455668] IRQ37 no longer affine to CPU1
+<4>[  421.455674] IRQ38 no longer affine to CPU1
+<4>[  421.455679] IRQ40 no longer affine to CPU1
+<4>[  421.455684] IRQ41 no longer affine to CPU1
+<4>[  421.455690] IRQ42 no longer affine to CPU1
+<4>[  493.965828] migrate_irqs: 494 callbacks suppressed
+<4>[  493.965834] IRQ32 no longer affine to CPU3
+<4>[  493.965842] IRQ33 no longer affine to CPU3
+<4>[  493.965849] IRQ34 no longer affine to CPU3
+<4>[  493.965856] IRQ35 no longer affine to CPU3
+<4>[  493.965863] IRQ36 no longer affine to CPU3
+<4>[  493.965870] IRQ37 no longer affine to CPU3
+<4>[  493.965877] IRQ38 no longer affine to CPU3
+<4>[  493.965885] IRQ40 no longer affine to CPU3
+<4>[  493.965891] IRQ41 no longer affine to CPU3
+<4>[  493.965899] IRQ42 no longer affine to CPU3
+<3>[  556.274514] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[  603.835810] migrate_irqs: 241 callbacks suppressed
+<4>[  603.835816] IRQ32 no longer affine to CPU1
+<4>[  603.835824] IRQ33 no longer affine to CPU1
+<4>[  603.835831] IRQ34 no longer affine to CPU1
+<4>[  603.835839] IRQ35 no longer affine to CPU1
+<4>[  603.835845] IRQ36 no longer affine to CPU1
+<4>[  603.835852] IRQ37 no longer affine to CPU1
+<4>[  603.835860] IRQ38 no longer affine to CPU1
+<4>[  603.835867] IRQ40 no longer affine to CPU1
+<4>[  603.835874] IRQ41 no longer affine to CPU1
+<4>[  603.835881] IRQ42 no longer affine to CPU1
+<6>[  610.526305] msm_otg 78d9000.usb: Avail curr from USB = 2
+<6>[  610.526343] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+<6>[  610.541031] msm_otg 78d9000.usb: Avail curr from USB = 0
+<6>[  610.541077] diag: USB channel diag disconnected
+<6>[  610.541316] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_DISCONNECT_EVENT received
+<3>[  610.541690] gbam_disconnect_work: Bam channel is not opened
+<3>[  610.541822] Error: returning -19 value
+<6>[  610.542390] read descriptors
+<6>[  610.542412] read strings
+<6>[  610.543645] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  610.554186] msm_bam_device_lpm_ok: Going to LPM now
+<6>[  610.570967] msm_otg 78d9000.usb: USB in low power mode
+<6>[  610.587221] PM: suspend entry 2016-04-24 07:57:43.078048122 UTC
+<4>[  610.588780] FAT-fs (mmcblk0p30): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<6>[  610.587242] PM: Syncing filesystems ... done.
+<6>[  610.612638] Freezing user space processes ... 
+<6>[  610.613624] last active wakeup source: eventpoll
+<6>[  610.613641] 
+<3>[  610.613654] Freezing of tasks aborted after 0.000 seconds (44 tasks refusing to freeze, wq_busy=0):
+<6>[  610.613662] 
+<6>[  610.613669] Restarting tasks ... done.
+<6>[  610.615064] PM: suspend exit 2016-04-24 07:57:43.105894372 UTC
+<3>[  610.616073] Error: returning -512 value
+<11>[  610.629180] init: no such service 'fuse_sdcard'
+<4>[  610.840524] migrate_irqs: 242 callbacks suppressed
+<4>[  610.840534] IRQ32 no longer affine to CPU2
+<4>[  610.840543] IRQ33 no longer affine to CPU2
+<4>[  610.840551] IRQ34 no longer affine to CPU2
+<4>[  610.840559] IRQ35 no longer affine to CPU2
+<4>[  610.840568] IRQ36 no longer affine to CPU2
+<4>[  610.840576] IRQ37 no longer affine to CPU2
+<4>[  610.840584] IRQ38 no longer affine to CPU2
+<4>[  610.840592] IRQ40 no longer affine to CPU2
+<4>[  610.840601] IRQ41 no longer affine to CPU2
+<4>[  610.840609] IRQ42 no longer affine to CPU2
+<4>[  610.855286] FAT-fs (mmcblk1p1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  610.937627] init: no such service 'fuse_sdcard1'
+<6>[  612.670724] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  612.804559] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  612.804583] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  612.907711] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  612.908531] android_work: android_work: did not send uevent (0 0   (null))
+<6>[  612.977586] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  613.235878] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  613.302947] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  613.306717] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  613.383448] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  613.504195] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  613.571364] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  613.574843] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  613.652525] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  613.798142] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  613.798167] diag: USB channel diag connected
+<6>[  613.798312] msm_otg 78d9000.usb: Avail curr from USB = 500
+<3>[  613.798485] gbam_connect_work: Bam channel is not ready
+<6>[  613.854608] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[  616.395107] migrate_irqs: 1500 callbacks suppressed
+<4>[  616.395113] IRQ32 no longer affine to CPU2
+<4>[  616.395121] IRQ33 no longer affine to CPU2
+<4>[  616.395128] IRQ34 no longer affine to CPU2
+<4>[  616.395135] IRQ35 no longer affine to CPU2
+<4>[  616.395143] IRQ36 no longer affine to CPU2
+<4>[  616.395149] IRQ37 no longer affine to CPU2
+<4>[  616.395156] IRQ38 no longer affine to CPU2
+<4>[  616.395163] IRQ40 no longer affine to CPU2
+<4>[  616.395170] IRQ41 no longer affine to CPU2
+<4>[  616.395177] IRQ42 no longer affine to CPU2
+<3>[  673.799189] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<6>[  686.684166] msm_otg 78d9000.usb: Avail curr from USB = 2
+<6>[  686.684205] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+<6>[  686.700556] msm_otg 78d9000.usb: Avail curr from USB = 0
+<6>[  686.700595] diag: USB channel diag disconnected
+<3>[  686.700829] gbam_disconnect_work: Bam channel is not opened
+<6>[  686.700844] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_DISCONNECT_EVENT received
+<3>[  686.700875] Error: returning -19 value
+<6>[  686.701577] read descriptors
+<6>[  686.701599] read strings
+<6>[  686.703213] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  686.710611] msm_bam_device_lpm_ok: Going to LPM now
+<6>[  686.727924] msm_otg 78d9000.usb: USB in low power mode
+<4>[  686.736908] FAT-fs (mmcblk0p30): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<6>[  686.751917] PM: suspend entry 2016-04-24 07:58:59.242744238 UTC
+<6>[  686.751937] PM: Syncing filesystems ... done.
+<6>[  686.768589] Freezing user space processes ... 
+<6>[  686.769460] last active wakeup source: eventpoll
+<6>[  686.769473] 
+<3>[  686.769483] Freezing of tasks aborted after 0.000 seconds (46 tasks refusing to freeze, wq_busy=0):
+<6>[  686.769489] 
+<3>[  686.770144] Error: returning -512 value
+<6>[  686.769495] Restarting tasks ... done.
+<6>[  686.770518] PM: suspend exit 2016-04-24 07:58:59.261352415 UTC
+<11>[  686.776893] init: no such service 'fuse_sdcard'
+<4>[  686.857966] FAT-fs (mmcblk1p1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  686.919235] init: no such service 'fuse_sdcard1'
+<4>[  687.036732] migrate_irqs: 242 callbacks suppressed
+<4>[  687.036741] IRQ32 no longer affine to CPU3
+<4>[  687.036750] IRQ33 no longer affine to CPU3
+<4>[  687.036759] IRQ34 no longer affine to CPU3
+<4>[  687.036766] IRQ35 no longer affine to CPU3
+<4>[  687.036775] IRQ36 no longer affine to CPU3
+<4>[  687.036783] IRQ37 no longer affine to CPU3
+<4>[  687.036790] IRQ38 no longer affine to CPU3
+<4>[  687.036800] IRQ40 no longer affine to CPU3
+<4>[  687.036807] IRQ41 no longer affine to CPU3
+<4>[  687.036815] IRQ42 no longer affine to CPU3
+<6>[  716.801050] PM: suspend entry 2016-04-24 07:59:29.291868654 UTC
+<6>[  716.801081] PM: Syncing filesystems ... done.
+<3>[  716.820695] Error: returning -512 value
+<6>[  716.819739] Freezing user space processes ... 
+<6>[  716.821466] last active wakeup source: eventpoll
+<6>[  716.821489] 
+<3>[  716.821505] Freezing of tasks aborted after 0.001 seconds (43 tasks refusing to freeze, wq_busy=0):
+<6>[  716.821513] 
+<6>[  716.821521] Restarting tasks ... done.
+<6>[  716.823104] PM: suspend exit 2016-04-24 07:59:29.313928185 UTC
+<6>[  716.923866] PM: suspend entry 2016-04-24 07:59:29.414683498 UTC
+<6>[  716.923896] PM: Syncing filesystems ... done.
+<3>[  716.927929] Error: returning -512 value
+<6>[  716.926768] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  716.930392] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  716.932855] Suspending console(s) (use no_console_suspend to debug)
+<6>[  716.950686] PM: suspend of devices complete after 16.705 msecs
+<6>[  716.951535] PM: late suspend of devices complete after 0.831 msecs
+<6>[  716.953185] PM: noirq suspend of devices complete after 1.631 msecs
+<6>[  716.953202] Disabling non-boot CPUs ...
+<4>[  716.954284] migrate_irqs: 241 callbacks suppressed
+<4>[  716.954292] IRQ32 no longer affine to CPU1
+<4>[  716.954300] IRQ33 no longer affine to CPU1
+<4>[  716.954309] IRQ34 no longer affine to CPU1
+<4>[  716.954318] IRQ35 no longer affine to CPU1
+<4>[  716.954325] IRQ36 no longer affine to CPU1
+<4>[  716.954333] IRQ37 no longer affine to CPU1
+<4>[  716.954340] IRQ38 no longer affine to CPU1
+<4>[  716.954349] IRQ40 no longer affine to CPU1
+<4>[  716.954357] IRQ41 no longer affine to CPU1
+<4>[  716.954364] IRQ42 no longer affine to CPU1
+<6>[  716.957679] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  716.958002] Enabling non-boot CPUs ...
+<6>[  716.959362] CPU1 is up
+<6>[  716.959921] PM: noirq resume of devices complete after 0.539 msecs
+<6>[  716.961127] PM: early resume of devices complete after 0.486 msecs
+<6>[  716.985360] PM: resume of devices complete after 24.209 msecs
+<6>[  716.987992] Restarting tasks ... done.
+<6>[  716.991910] PM: suspend exit 2016-04-24 07:59:32.461220737 UTC
+<6>[  717.488113] PM: suspend entry 2016-04-24 07:59:32.957419226 UTC
+<6>[  717.488142] PM: Syncing filesystems ... done.
+<3>[  717.491817] Error: returning -512 value
+<6>[  717.490657] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  717.494198] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  717.496862] Suspending console(s) (use no_console_suspend to debug)
+<6>[  717.512500] PM: suspend of devices complete after 14.501 msecs
+<6>[  717.513348] PM: late suspend of devices complete after 0.829 msecs
+<6>[  717.515231] PM: noirq suspend of devices complete after 1.861 msecs
+<6>[  717.515249] Disabling non-boot CPUs ...
+<6>[  717.519124] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  717.519465] Enabling non-boot CPUs ...
+<6>[  717.520742] CPU1 is up
+<6>[  717.521302] PM: noirq resume of devices complete after 0.539 msecs
+<6>[  717.522481] PM: early resume of devices complete after 0.467 msecs
+<6>[  717.544379] PM: resume of devices complete after 21.880 msecs
+<6>[  717.546577] Restarting tasks ... done.
+<6>[  717.552234] PM: suspend exit 2016-04-24 07:59:35.530228027 UTC
+<6>[  718.800280] PM: suspend entry 2016-04-24 07:59:36.003182453 UTC
+<6>[  718.800301] PM: Syncing filesystems ... done.
+<3>[  718.819217] Error: returning -512 value
+<6>[  718.817955] Freezing user space processes ... (elapsed 0.002 seconds) done.
+<6>[  718.820769] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+<6>[  718.822732] Suspending console(s) (use no_console_suspend to debug)
+<6>[  718.857139] PM: suspend of devices complete after 33.699 msecs
+<6>[  718.857860] PM: late suspend of devices complete after 0.707 msecs
+<6>[  718.859051] PM: noirq suspend of devices complete after 1.178 msecs
+<6>[  718.859063] Disabling non-boot CPUs ...
+<6>[  718.862305] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  718.862990] Enabling non-boot CPUs ...
+<6>[  718.864085] CPU1 is up
+<6>[  718.864628] PM: noirq resume of devices complete after 0.524 msecs
+<6>[  718.865833] PM: early resume of devices complete after 0.496 msecs
+<6>[  718.952160] PM: resume of devices complete after 86.306 msecs
+<6>[  718.953055] Restarting tasks ... done.
+<6>[  718.954992] PM: suspend exit 2016-04-24 07:59:36.516070998 UTC
+<6>[  719.455062] PM: suspend entry 2016-04-24 07:59:37.016129279 UTC
+<6>[  719.455093] PM: Syncing filesystems ... done.
+<3>[  719.459432] Error: returning -512 value
+<6>[  719.458245] Freezing user space processes ... (elapsed 0.003 seconds) done.
+<6>[  719.461735] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+<6>[  719.464095] Suspending console(s) (use no_console_suspend to debug)
+<6>[  719.510489] PM: suspend of devices complete after 44.771 msecs
+<6>[  719.511518] PM: late suspend of devices complete after 1.010 msecs
+<6>[  719.513164] PM: noirq suspend of devices complete after 1.631 msecs
+<6>[  719.513186] Disabling non-boot CPUs ...
+<6>[  719.517148] CPU0:msm_cpu_pm_enter_sleep mode:3 during suspend
+<6>[  719.517933] Enabling non-boot CPUs ...
+<6>[  719.519028] CPU1 is up
+<6>[  719.519437] PM: noirq resume of devices complete after 0.392 msecs
+<6>[  719.520435] PM: early resume of devices complete after 0.397 msecs
+<6>[  719.607055] PM: resume of devices complete after 86.599 msecs
+<6>[  719.607929] Restarting tasks ... done.
+<6>[  719.610055] PM: suspend exit 2016-04-24 07:59:37.517413080 UTC
+<6>[  720.007187] msm_otg 78d9000.usb: USB exited from low power mode
+<6>[  720.143778] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  720.143803] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  720.246605] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  720.247670] android_work: android_work: did not send uevent (0 0   (null))
+<6>[  720.315234] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  720.565745] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  720.633427] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  720.637290] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  720.714160] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  720.829765] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  720.896513] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  720.900228] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  720.977637] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  721.124655] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  721.124680] diag: USB channel diag connected
+<6>[  721.124838] msm_otg 78d9000.usb: Avail curr from USB = 500
+<3>[  721.125028] gbam_connect_work: Bam channel is not ready
+<6>[  721.184535] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[  722.515071] migrate_irqs: 2014 callbacks suppressed
+<4>[  722.515077] IRQ32 no longer affine to CPU3
+<4>[  722.515085] IRQ33 no longer affine to CPU3
+<4>[  722.515092] IRQ34 no longer affine to CPU3
+<4>[  722.515099] IRQ35 no longer affine to CPU3
+<4>[  722.515106] IRQ36 no longer affine to CPU3
+<4>[  722.515113] IRQ37 no longer affine to CPU3
+<4>[  722.515120] IRQ38 no longer affine to CPU3
+<4>[  722.515126] IRQ39 no longer affine to CPU3
+<4>[  722.515134] IRQ40 no longer affine to CPU3
+<4>[  722.515141] IRQ41 no longer affine to CPU3
+<4>[  729.257828] migrate_irqs: 748 callbacks suppressed
+<4>[  729.257834] IRQ32 no longer affine to CPU3
+<4>[  729.257840] IRQ33 no longer affine to CPU3
+<4>[  729.257846] IRQ34 no longer affine to CPU3
+<4>[  729.257852] IRQ35 no longer affine to CPU3
+<4>[  729.257858] IRQ36 no longer affine to CPU3
+<4>[  729.257863] IRQ37 no longer affine to CPU3
+<4>[  729.257870] IRQ38 no longer affine to CPU3
+<4>[  729.257876] IRQ40 no longer affine to CPU3
+<4>[  729.257882] IRQ41 no longer affine to CPU3
+<4>[  729.257888] IRQ42 no longer affine to CPU3
+<4>[  744.625775] migrate_irqs: 241 callbacks suppressed
+<4>[  744.625781] IRQ32 no longer affine to CPU1
+<4>[  744.625789] IRQ33 no longer affine to CPU1
+<4>[  744.625795] IRQ34 no longer affine to CPU1
+<4>[  744.625803] IRQ35 no longer affine to CPU1
+<4>[  744.625810] IRQ36 no longer affine to CPU1
+<4>[  744.625817] IRQ37 no longer affine to CPU1
+<4>[  744.625823] IRQ38 no longer affine to CPU1
+<4>[  744.625831] IRQ40 no longer affine to CPU1
+<4>[  744.625838] IRQ41 no longer affine to CPU1
+<4>[  744.625844] IRQ42 no longer affine to CPU1
+<3>[  781.084296] check_dsi_ctrl_status: panel off
+<3>[  781.124938] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<4>[  781.315258] migrate_irqs: 242 callbacks suppressed
+<4>[  781.315263] IRQ32 no longer affine to CPU2
+<4>[  781.315269] IRQ33 no longer affine to CPU2
+<4>[  781.315275] IRQ34 no longer affine to CPU2
+<4>[  781.315280] IRQ35 no longer affine to CPU2
+<4>[  781.315286] IRQ36 no longer affine to CPU2
+<4>[  781.315292] IRQ37 no longer affine to CPU2
+<4>[  781.315297] IRQ38 no longer affine to CPU2
+<4>[  781.315304] IRQ40 no longer affine to CPU2
+<4>[  781.315310] IRQ41 no longer affine to CPU2
+<4>[  781.315315] IRQ42 no longer affine to CPU2
+<4>[  808.524913] migrate_irqs: 242 callbacks suppressed
+<4>[  808.524918] IRQ32 no longer affine to CPU3
+<4>[  808.524924] IRQ33 no longer affine to CPU3
+<4>[  808.524929] IRQ34 no longer affine to CPU3
+<4>[  808.524935] IRQ35 no longer affine to CPU3
+<4>[  808.524941] IRQ36 no longer affine to CPU3
+<4>[  808.524946] IRQ37 no longer affine to CPU3
+<4>[  808.524952] IRQ38 no longer affine to CPU3
+<4>[  808.524958] IRQ39 no longer affine to CPU3
+<4>[  808.524963] IRQ40 no longer affine to CPU3
+<4>[  808.524968] IRQ41 no longer affine to CPU3
+<4>[  813.905191] migrate_irqs: 2259 callbacks suppressed
+<4>[  813.905196] IRQ32 no longer affine to CPU2
+<4>[  813.905202] IRQ33 no longer affine to CPU2
+<4>[  813.905208] IRQ34 no longer affine to CPU2
+<4>[  813.905213] IRQ35 no longer affine to CPU2
+<4>[  813.905219] IRQ36 no longer affine to CPU2
+<4>[  813.905225] IRQ37 no longer affine to CPU2
+<4>[  813.905231] IRQ38 no longer affine to CPU2
+<4>[  813.905236] IRQ40 no longer affine to CPU2
+<4>[  813.905243] IRQ41 no longer affine to CPU2
+<4>[  813.905248] IRQ42 no longer affine to CPU2
+<4>[  818.947574] migrate_irqs: 2761 callbacks suppressed
+<4>[  818.947579] IRQ32 no longer affine to CPU3
+<4>[  818.947586] IRQ33 no longer affine to CPU3
+<4>[  818.947592] IRQ34 no longer affine to CPU3
+<4>[  818.947598] IRQ35 no longer affine to CPU3
+<4>[  818.947604] IRQ36 no longer affine to CPU3
+<4>[  818.947610] IRQ37 no longer affine to CPU3
+<4>[  818.947616] IRQ38 no longer affine to CPU3
+<4>[  818.947623] IRQ40 no longer affine to CPU3
+<4>[  818.947629] IRQ41 no longer affine to CPU3
+<4>[  818.947635] IRQ42 no longer affine to CPU3
+<4>[  824.075560] migrate_irqs: 493 callbacks suppressed
+<4>[  824.075566] IRQ32 no longer affine to CPU2
+<4>[  824.075573] IRQ33 no longer affine to CPU2
+<4>[  824.075580] IRQ34 no longer affine to CPU2
+<4>[  824.075588] IRQ35 no longer affine to CPU2
+<4>[  824.075594] IRQ36 no longer affine to CPU2
+<4>[  824.075601] IRQ37 no longer affine to CPU2
+<4>[  824.075609] IRQ38 no longer affine to CPU2
+<4>[  824.075616] IRQ40 no longer affine to CPU2
+<4>[  824.075623] IRQ41 no longer affine to CPU2
+<4>[  824.075630] IRQ42 no longer affine to CPU2
+<4>[  831.729347] migrate_irqs: 242 callbacks suppressed
+<4>[  831.729353] IRQ32 no longer affine to CPU3
+<4>[  831.729361] IRQ33 no longer affine to CPU3
+<4>[  831.729368] IRQ34 no longer affine to CPU3
+<4>[  831.729375] IRQ35 no longer affine to CPU3
+<4>[  831.729382] IRQ36 no longer affine to CPU3
+<4>[  831.729389] IRQ37 no longer affine to CPU3
+<4>[  831.729396] IRQ38 no longer affine to CPU3
+<4>[  831.729403] IRQ39 no longer affine to CPU3
+<4>[  831.729410] IRQ40 no longer affine to CPU3
+<4>[  831.729417] IRQ41 no longer affine to CPU3
+<4>[  838.468914] migrate_irqs: 242 callbacks suppressed
+<4>[  838.468920] IRQ32 no longer affine to CPU1
+<4>[  838.468928] IRQ33 no longer affine to CPU1
+<4>[  838.468935] IRQ34 no longer affine to CPU1
+<4>[  838.468942] IRQ35 no longer affine to CPU1
+<4>[  838.468949] IRQ36 no longer affine to CPU1
+<4>[  838.468956] IRQ37 no longer affine to CPU1
+<4>[  838.468963] IRQ38 no longer affine to CPU1
+<4>[  838.468970] IRQ39 no longer affine to CPU1
+<4>[  838.468977] IRQ40 no longer affine to CPU1
+<4>[  838.468984] IRQ41 no longer affine to CPU1
+<4>[  867.529835] migrate_irqs: 496 callbacks suppressed
+<4>[  867.529841] IRQ32 no longer affine to CPU3
+<4>[  867.529849] IRQ33 no longer affine to CPU3
+<4>[  867.529856] IRQ34 no longer affine to CPU3
+<4>[  867.529863] IRQ35 no longer affine to CPU3
+<4>[  867.529871] IRQ36 no longer affine to CPU3
+<4>[  867.529877] IRQ37 no longer affine to CPU3
+<4>[  867.529885] IRQ38 no longer affine to CPU3
+<4>[  867.529892] IRQ40 no longer affine to CPU3
+<4>[  867.529899] IRQ41 no longer affine to CPU3
+<4>[  867.529907] IRQ42 no longer affine to CPU3
+<3>[  878.970280] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<4>[  879.166814] migrate_irqs: 241 callbacks suppressed
+<4>[  879.166820] IRQ32 no longer affine to CPU1
+<4>[  879.166827] IRQ33 no longer affine to CPU1
+<4>[  879.166834] IRQ34 no longer affine to CPU1
+<4>[  879.166842] IRQ35 no longer affine to CPU1
+<4>[  879.166849] IRQ36 no longer affine to CPU1
+<4>[  879.166855] IRQ37 no longer affine to CPU1
+<4>[  879.166863] IRQ38 no longer affine to CPU1
+<4>[  879.166871] IRQ40 no longer affine to CPU1
+<4>[  879.166877] IRQ41 no longer affine to CPU1
+<4>[  879.166884] IRQ42 no longer affine to CPU1
+<4>[  886.684866] migrate_irqs: 242 callbacks suppressed
+<4>[  886.684871] IRQ32 no longer affine to CPU3
+<4>[  886.684877] IRQ33 no longer affine to CPU3
+<4>[  886.684882] IRQ34 no longer affine to CPU3
+<4>[  886.684888] IRQ35 no longer affine to CPU3
+<4>[  886.684894] IRQ36 no longer affine to CPU3
+<4>[  886.684900] IRQ37 no longer affine to CPU3
+<4>[  886.684905] IRQ38 no longer affine to CPU3
+<4>[  886.684911] IRQ40 no longer affine to CPU3
+<4>[  886.684917] IRQ41 no longer affine to CPU3
+<4>[  886.684923] IRQ42 no longer affine to CPU3
+<4>[  891.756090] migrate_irqs: 3014 callbacks suppressed
+<4>[  891.756096] IRQ32 no longer affine to CPU1
+<4>[  891.756104] IRQ33 no longer affine to CPU1
+<4>[  891.756110] IRQ34 no longer affine to CPU1
+<4>[  891.756118] IRQ35 no longer affine to CPU1
+<4>[  891.756125] IRQ36 no longer affine to CPU1
+<4>[  891.756131] IRQ37 no longer affine to CPU1
+<4>[  891.756138] IRQ38 no longer affine to CPU1
+<4>[  891.756145] IRQ40 no longer affine to CPU1
+<4>[  891.756152] IRQ41 no longer affine to CPU1
+<4>[  891.756159] IRQ42 no longer affine to CPU1
+<4>[  897.305509] migrate_irqs: 2508 callbacks suppressed
+<4>[  897.305515] IRQ32 no longer affine to CPU2
+<4>[  897.305522] IRQ33 no longer affine to CPU2
+<4>[  897.305528] IRQ34 no longer affine to CPU2
+<4>[  897.305534] IRQ35 no longer affine to CPU2
+<4>[  897.305541] IRQ36 no longer affine to CPU2
+<4>[  897.305547] IRQ37 no longer affine to CPU2
+<4>[  897.305553] IRQ38 no longer affine to CPU2
+<4>[  897.305559] IRQ40 no longer affine to CPU2
+<4>[  897.305565] IRQ41 no longer affine to CPU2
+<4>[  897.305571] IRQ42 no longer affine to CPU2
+<4>[  902.525547] migrate_irqs: 997 callbacks suppressed
+<4>[  902.525551] IRQ32 no longer affine to CPU2
+<4>[  902.525557] IRQ33 no longer affine to CPU2
+<4>[  902.525563] IRQ34 no longer affine to CPU2
+<4>[  902.525569] IRQ35 no longer affine to CPU2
+<4>[  902.525575] IRQ36 no longer affine to CPU2
+<4>[  902.525580] IRQ37 no longer affine to CPU2
+<4>[  902.525586] IRQ38 no longer affine to CPU2
+<4>[  902.525592] IRQ40 no longer affine to CPU2
+<4>[  902.525597] IRQ41 no longer affine to CPU2
+<4>[  902.525603] IRQ42 no longer affine to CPU2
+<4>[  907.695699] migrate_irqs: 1502 callbacks suppressed
+<4>[  907.695706] IRQ32 no longer affine to CPU2
+<4>[  907.695713] IRQ33 no longer affine to CPU2
+<4>[  907.695720] IRQ34 no longer affine to CPU2
+<4>[  907.695728] IRQ35 no longer affine to CPU2
+<4>[  907.695734] IRQ36 no longer affine to CPU2
+<4>[  907.695741] IRQ37 no longer affine to CPU2
+<4>[  907.695748] IRQ38 no longer affine to CPU2
+<4>[  907.695756] IRQ40 no longer affine to CPU2
+<4>[  907.695763] IRQ41 no longer affine to CPU2
+<4>[  907.695770] IRQ42 no longer affine to CPU2
+<4>[  913.645858] migrate_irqs: 745 callbacks suppressed
+<4>[  913.645864] IRQ32 no longer affine to CPU2
+<4>[  913.645872] IRQ33 no longer affine to CPU2
+<4>[  913.645878] IRQ34 no longer affine to CPU2
+<4>[  913.645886] IRQ35 no longer affine to CPU2
+<4>[  913.645893] IRQ36 no longer affine to CPU2
+<4>[  913.645900] IRQ37 no longer affine to CPU2
+<4>[  913.645908] IRQ38 no longer affine to CPU2
+<4>[  913.645915] IRQ40 no longer affine to CPU2
+<4>[  913.645922] IRQ41 no longer affine to CPU2
+<4>[  913.645929] IRQ42 no longer affine to CPU2
+<3>[  922.004284] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[  961.305618] migrate_irqs: 242 callbacks suppressed
+<4>[  961.305623] IRQ32 no longer affine to CPU1
+<4>[  961.305629] IRQ33 no longer affine to CPU1
+<4>[  961.305634] IRQ34 no longer affine to CPU1
+<4>[  961.305640] IRQ35 no longer affine to CPU1
+<4>[  961.305646] IRQ36 no longer affine to CPU1
+<4>[  961.305652] IRQ37 no longer affine to CPU1
+<4>[  961.305657] IRQ38 no longer affine to CPU1
+<4>[  961.305663] IRQ40 no longer affine to CPU1
+<4>[  961.305669] IRQ41 no longer affine to CPU1
+<4>[  961.305674] IRQ42 no longer affine to CPU1
+<3>[  969.494973] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<4>[  969.712397] migrate_irqs: 493 callbacks suppressed
+<4>[  969.712401] IRQ32 no longer affine to CPU1
+<4>[  969.712408] IRQ33 no longer affine to CPU1
+<4>[  969.712414] IRQ34 no longer affine to CPU1
+<4>[  969.712419] IRQ35 no longer affine to CPU1
+<4>[  969.712425] IRQ36 no longer affine to CPU1
+<4>[  969.712431] IRQ37 no longer affine to CPU1
+<4>[  969.712436] IRQ38 no longer affine to CPU1
+<4>[  969.712443] IRQ40 no longer affine to CPU1
+<4>[  969.712449] IRQ41 no longer affine to CPU1
+<4>[  969.712454] IRQ42 no longer affine to CPU1
+<3>[  997.589015] Error: returning -4 value
+<6>[  997.589340] diag: USB channel diag disconnected
+<3>[  997.589649] gbam_disconnect_work: Bam channel is not opened
+<6>[  997.592957] read descriptors
+<6>[  997.592982] read strings
+<6>[  997.593107] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<6>[  997.596434] msm_otg 78d9000.usb: Avail curr from USB = 2
+<6>[  997.596468] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+<6>[  997.712723] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+<6>[  997.712807] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  997.713224] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  997.782133] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<4>[  997.807566] FAT-fs (mmcblk0p30): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<11>[  997.821651] init: no such service 'fuse_sdcard'
+<6>[  998.038912] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  998.107209] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  998.110742] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  998.194839] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  998.307167] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  998.373997] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  998.378748] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+<6>[  998.455066] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<4>[  998.565834] migrate_irqs: 242 callbacks suppressed
+<4>[  998.565839] IRQ32 no longer affine to CPU3
+<4>[  998.565845] IRQ33 no longer affine to CPU3
+<4>[  998.565851] IRQ34 no longer affine to CPU3
+<4>[  998.565857] IRQ35 no longer affine to CPU3
+<4>[  998.565863] IRQ36 no longer affine to CPU3
+<4>[  998.565868] IRQ37 no longer affine to CPU3
+<4>[  998.565874] IRQ38 no longer affine to CPU3
+<4>[  998.565880] IRQ40 no longer affine to CPU3
+<4>[  998.565885] IRQ41 no longer affine to CPU3
+<4>[  998.565890] IRQ42 no longer affine to CPU3
+<6>[  998.599971] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  998.599995] diag: USB channel diag connected
+<6>[  998.600144] msm_otg 78d9000.usb: Avail curr from USB = 500
+<3>[  998.600295] gbam_connect_work: Bam channel is not ready
+<6>[  998.654514] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<4>[ 1058.386049] migrate_irqs: 1753 callbacks suppressed
+<4>[ 1058.386053] IRQ32 no longer affine to CPU2
+<4>[ 1058.386059] IRQ33 no longer affine to CPU2
+<4>[ 1058.386065] IRQ34 no longer affine to CPU2
+<4>[ 1058.386070] IRQ35 no longer affine to CPU2
+<4>[ 1058.386075] IRQ36 no longer affine to CPU2
+<4>[ 1058.386080] IRQ37 no longer affine to CPU2
+<4>[ 1058.386086] IRQ38 no longer affine to CPU2
+<4>[ 1058.386091] IRQ40 no longer affine to CPU2
+<4>[ 1058.386096] IRQ41 no longer affine to CPU2
+<4>[ 1058.386102] IRQ42 no longer affine to CPU2
+<3>[ 1058.631187] mdp3_ctrl_ioctl_handler: mdp3_ctrl_ioctl_handler, display off!
+<4>[ 1213.285296] migrate_irqs: 493 callbacks suppressed
+<4>[ 1213.285301] IRQ32 no longer affine to CPU1
+<4>[ 1213.285307] IRQ33 no longer affine to CPU1
+<4>[ 1213.285313] IRQ34 no longer affine to CPU1
+<4>[ 1213.285318] IRQ35 no longer affine to CPU1
+<4>[ 1213.285324] IRQ36 no longer affine to CPU1
+<4>[ 1213.285330] IRQ37 no longer affine to CPU1
+<4>[ 1213.285335] IRQ38 no longer affine to CPU1
+<4>[ 1213.285341] IRQ40 no longer affine to CPU1
+<4>[ 1213.285347] IRQ41 no longer affine to CPU1
+<4>[ 1213.285353] IRQ42 no longer affine to CPU1
+<3>[ 1292.744490] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 1578.415701] migrate_irqs: 242 callbacks suppressed
+<4>[ 1578.415708] IRQ32 no longer affine to CPU2
+<4>[ 1578.415715] IRQ33 no longer affine to CPU2
+<4>[ 1578.415722] IRQ34 no longer affine to CPU2
+<4>[ 1578.415730] IRQ35 no longer affine to CPU2
+<4>[ 1578.415737] IRQ36 no longer affine to CPU2
+<4>[ 1578.415744] IRQ37 no longer affine to CPU2
+<4>[ 1578.415750] IRQ38 no longer affine to CPU2
+<4>[ 1578.415758] IRQ40 no longer affine to CPU2
+<4>[ 1578.415765] IRQ41 no longer affine to CPU2
+<4>[ 1578.415771] IRQ42 no longer affine to CPU2
+<3>[ 1663.484526] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 1824.846994] migrate_irqs: 242 callbacks suppressed
+<4>[ 1824.847000] IRQ32 no longer affine to CPU3
+<4>[ 1824.847006] IRQ33 no longer affine to CPU3
+<4>[ 1824.847012] IRQ34 no longer affine to CPU3
+<4>[ 1824.847017] IRQ35 no longer affine to CPU3
+<4>[ 1824.847023] IRQ36 no longer affine to CPU3
+<4>[ 1824.847029] IRQ37 no longer affine to CPU3
+<4>[ 1824.847034] IRQ38 no longer affine to CPU3
+<4>[ 1824.847041] IRQ40 no longer affine to CPU3
+<4>[ 1824.847046] IRQ41 no longer affine to CPU3
+<4>[ 1824.847052] IRQ42 no longer affine to CPU3
+<3>[ 2034.224502] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 2070.765215] migrate_irqs: 493 callbacks suppressed
+<4>[ 2070.765220] IRQ32 no longer affine to CPU2
+<4>[ 2070.765226] IRQ33 no longer affine to CPU2
+<4>[ 2070.765232] IRQ34 no longer affine to CPU2
+<4>[ 2070.765238] IRQ35 no longer affine to CPU2
+<4>[ 2070.765244] IRQ36 no longer affine to CPU2
+<4>[ 2070.765249] IRQ37 no longer affine to CPU2
+<4>[ 2070.765255] IRQ38 no longer affine to CPU2
+<4>[ 2070.765261] IRQ40 no longer affine to CPU2
+<4>[ 2070.765267] IRQ41 no longer affine to CPU2
+<4>[ 2070.765272] IRQ42 no longer affine to CPU2
+<4>[ 2182.415263] migrate_irqs: 242 callbacks suppressed
+<4>[ 2182.415268] IRQ32 no longer affine to CPU1
+<4>[ 2182.415274] IRQ33 no longer affine to CPU1
+<4>[ 2182.415280] IRQ34 no longer affine to CPU1
+<4>[ 2182.415285] IRQ35 no longer affine to CPU1
+<4>[ 2182.415291] IRQ36 no longer affine to CPU1
+<4>[ 2182.415297] IRQ37 no longer affine to CPU1
+<4>[ 2182.415302] IRQ38 no longer affine to CPU1
+<4>[ 2182.415309] IRQ40 no longer affine to CPU1
+<4>[ 2182.415314] IRQ41 no longer affine to CPU1
+<4>[ 2182.415320] IRQ42 no longer affine to CPU1
+<4>[ 2193.745608] migrate_irqs: 242 callbacks suppressed
+<4>[ 2193.745614] IRQ32 no longer affine to CPU3
+<4>[ 2193.745621] IRQ33 no longer affine to CPU3
+<4>[ 2193.745628] IRQ34 no longer affine to CPU3
+<4>[ 2193.745635] IRQ35 no longer affine to CPU3
+<4>[ 2193.745642] IRQ36 no longer affine to CPU3
+<4>[ 2193.745648] IRQ37 no longer affine to CPU3
+<4>[ 2193.745656] IRQ38 no longer affine to CPU3
+<4>[ 2193.745663] IRQ40 no longer affine to CPU3
+<4>[ 2193.745670] IRQ41 no longer affine to CPU3
+<4>[ 2193.745677] IRQ42 no longer affine to CPU3
+<4>[ 2316.605361] migrate_irqs: 241 callbacks suppressed
+<4>[ 2316.605367] IRQ32 no longer affine to CPU2
+<4>[ 2316.605374] IRQ33 no longer affine to CPU2
+<4>[ 2316.605381] IRQ34 no longer affine to CPU2
+<4>[ 2316.605389] IRQ35 no longer affine to CPU2
+<4>[ 2316.605395] IRQ36 no longer affine to CPU2
+<4>[ 2316.605402] IRQ37 no longer affine to CPU2
+<4>[ 2316.605409] IRQ38 no longer affine to CPU2
+<4>[ 2316.605416] IRQ40 no longer affine to CPU2
+<4>[ 2316.605423] IRQ41 no longer affine to CPU2
+<4>[ 2316.605431] IRQ42 no longer affine to CPU2
+<3>[ 2404.964531] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 2439.485809] migrate_irqs: 242 callbacks suppressed
+<4>[ 2439.485814] IRQ32 no longer affine to CPU1
+<4>[ 2439.485820] IRQ33 no longer affine to CPU1
+<4>[ 2439.485825] IRQ34 no longer affine to CPU1
+<4>[ 2439.485831] IRQ35 no longer affine to CPU1
+<4>[ 2439.485836] IRQ36 no longer affine to CPU1
+<4>[ 2439.485841] IRQ37 no longer affine to CPU1
+<4>[ 2439.485847] IRQ38 no longer affine to CPU1
+<4>[ 2439.485852] IRQ39 no longer affine to CPU1
+<4>[ 2439.485858] IRQ40 no longer affine to CPU1
+<4>[ 2439.485863] IRQ41 no longer affine to CPU1
+<4>[ 2550.205831] migrate_irqs: 243 callbacks suppressed
+<4>[ 2550.205838] IRQ32 no longer affine to CPU3
+<4>[ 2550.205845] IRQ33 no longer affine to CPU3
+<4>[ 2550.205852] IRQ34 no longer affine to CPU3
+<4>[ 2550.205859] IRQ35 no longer affine to CPU3
+<4>[ 2550.205866] IRQ36 no longer affine to CPU3
+<4>[ 2550.205872] IRQ37 no longer affine to CPU3
+<4>[ 2550.205879] IRQ38 no longer affine to CPU3
+<4>[ 2550.205886] IRQ40 no longer affine to CPU3
+<4>[ 2550.205893] IRQ41 no longer affine to CPU3
+<4>[ 2550.205900] IRQ42 no longer affine to CPU3
+<4>[ 2570.037264] migrate_irqs: 241 callbacks suppressed
+<4>[ 2570.037270] IRQ32 no longer affine to CPU2
+<4>[ 2570.037277] IRQ33 no longer affine to CPU2
+<4>[ 2570.037283] IRQ34 no longer affine to CPU2
+<4>[ 2570.037289] IRQ35 no longer affine to CPU2
+<4>[ 2570.037294] IRQ36 no longer affine to CPU2
+<4>[ 2570.037300] IRQ37 no longer affine to CPU2
+<4>[ 2570.037306] IRQ38 no longer affine to CPU2
+<4>[ 2570.037312] IRQ40 no longer affine to CPU2
+<4>[ 2570.037318] IRQ41 no longer affine to CPU2
+<4>[ 2570.037323] IRQ42 no longer affine to CPU2
+<4>[ 2693.005729] migrate_irqs: 242 callbacks suppressed
+<4>[ 2693.005735] IRQ32 no longer affine to CPU1
+<4>[ 2693.005742] IRQ33 no longer affine to CPU1
+<4>[ 2693.005749] IRQ34 no longer affine to CPU1
+<4>[ 2693.005757] IRQ35 no longer affine to CPU1
+<4>[ 2693.005764] IRQ36 no longer affine to CPU1
+<4>[ 2693.005771] IRQ37 no longer affine to CPU1
+<4>[ 2693.005777] IRQ38 no longer affine to CPU1
+<4>[ 2693.005785] IRQ40 no longer affine to CPU1
+<4>[ 2693.005792] IRQ41 no longer affine to CPU1
+<4>[ 2693.005799] IRQ42 no longer affine to CPU1
+<3>[ 2775.704525] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 2808.165470] migrate_irqs: 242 callbacks suppressed
+<4>[ 2808.165476] IRQ32 no longer affine to CPU3
+<4>[ 2808.165484] IRQ33 no longer affine to CPU3
+<4>[ 2808.165491] IRQ34 no longer affine to CPU3
+<4>[ 2808.165498] IRQ35 no longer affine to CPU3
+<4>[ 2808.165505] IRQ36 no longer affine to CPU3
+<4>[ 2808.165512] IRQ37 no longer affine to CPU3
+<4>[ 2808.165519] IRQ38 no longer affine to CPU3
+<4>[ 2808.165526] IRQ40 no longer affine to CPU3
+<4>[ 2808.165534] IRQ41 no longer affine to CPU3
+<4>[ 2808.165541] IRQ42 no longer affine to CPU3
+<3>[ 3146.444575] wlan: [2586:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+<4>[ 3299.945879] migrate_irqs: 241 callbacks suppressed
+<4>[ 3299.945885] IRQ32 no longer affine to CPU2
+<4>[ 3299.945893] IRQ33 no longer affine to CPU2
+<4>[ 3299.945899] IRQ34 no longer affine to CPU2
+<4>[ 3299.945906] IRQ35 no longer affine to CPU2
+<4>[ 3299.945913] IRQ36 no longer affine to CPU2
+<4>[ 3299.945920] IRQ37 no longer affine to CPU2
+<4>[ 3299.945927] IRQ38 no longer affine to CPU2
+<4>[ 3299.945935] IRQ40 no longer affine to CPU2
+<4>[ 3299.945942] IRQ41 no longer affine to CPU2
+<4>[ 3299.945948] IRQ42 no longer affine to CPU2
+<6>[ 3420.710143] SysRq : Show Blocked State
+<6>[ 3420.710168]   task                PC stack   pid father
+<6>[ 3420.710181] kworker/u8:0    D c09a9fec     0     6      2 0x00000000
+<6>[ 3420.710213] Workqueue: mpm msm_mpm_work_fn
+<6>[ 3420.710249] [<c09a9fec>] (__schedule+0x5a4/0x844) from [<c09a8148>] (schedule_timeout+0x28/0x280)
+<6>[ 3420.710275] [<c09a8148>] (schedule_timeout+0x28/0x280) from [<c09a9630>] (wait_for_common+0x11c/0x164)
+<6>[ 3420.710299] [<c09a9630>] (wait_for_common+0x11c/0x164) from [<c03c1b00>] (msm_mpm_work_fn+0x10/0x70)
+<6>[ 3420.710324] [<c03c1b00>] (msm_mpm_work_fn+0x10/0x70) from [<c0133924>] (process_one_work+0x298/0x42c)
+<6>[ 3420.710348] [<c0133924>] (process_one_work+0x298/0x42c) from [<c0134600>] (worker_thread+0x228/0x35c)
+<6>[ 3420.710372] [<c0134600>] (worker_thread+0x228/0x35c) from [<c0138fdc>] (kthread+0xa0/0xac)
+<6>[ 3420.710397] [<c0138fdc>] (kthread+0xa0/0xac) from [<c0105ef8>] (ret_from_fork+0x14/0x3c)
+<6>[ 3420.710415] kworker/u9:0    D c09a9fec     0    33      2 0x00000000
+<6>[ 3420.710437] Workqueue: rpm-smd msm_rpm_smd_work
+<6>[ 3420.710463] [<c09a9fec>] (__schedule+0x5a4/0x844) from [<c09a8148>] (schedule_timeout+0x28/0x280)
+<6>[ 3420.710487] [<c09a8148>] (schedule_timeout+0x28/0x280) from [<c09a9630>] (wait_for_common+0x11c/0x164)
+<6>[ 3420.710511] [<c09a9630>] (wait_for_common+0x11c/0x164) from [<c03c31b8>] (msm_rpm_smd_work+0x34/0x1a4)
+<6>[ 3420.710533] [<c03c31b8>] (msm_rpm_smd_work+0x34/0x1a4) from [<c0133924>] (process_one_work+0x298/0x42c)
+<6>[ 3420.710555] [<c0133924>] (process_one_work+0x298/0x42c) from [<c0134600>] (worker_thread+0x228/0x35c)
+<6>[ 3420.710577] [<c0134600>] (worker_thread+0x228/0x35c) from [<c0138fdc>] (kthread+0xa0/0xac)
+<6>[ 3420.710601] [<c0138fdc>] (kthread+0xa0/0xac) from [<c0105ef8>] (ret_from_fork+0x14/0x3c)
+<6>[ 3420.710622] mdss_dsi_event  D c09a9fec     0   110      2 0x00000000
+<6>[ 3420.710658] [<c09a9fec>] (__schedule+0x5a4/0x844) from [<c039d8a8>] (dsi_event_thread+0xc4/0x434)
+<6>[ 3420.710683] [<c039d8a8>] (dsi_event_thread+0xc4/0x434) from [<c0138fdc>] (kthread+0xa0/0xac)
+<6>[ 3420.710706] [<c0138fdc>] (kthread+0xa0/0xac) from [<c0105ef8>] (ret_from_fork+0x14/0x3c)
+<6>[ 3420.710833] Sched Debug Version: v0.10, 3.10.49-g866c74b #1
+<6>[ 3420.710845] ktime                                   : 3420666.663356
+<6>[ 3420.710854] sched_clk                               : 3420710.827749
+<6>[ 3420.710864] cpu_clk                                 : 3420710.827957
+<6>[ 3420.710872] jiffies                                 : 312066
+<6>[ 3420.710879] 
+<6>[ 3420.710885] sysctl_sched
+<6>[ 3420.710895]   .sysctl_sched_latency                    : 6.666666
+<6>[ 3420.710905]   .sysctl_sched_min_granularity            : 1.500000
+<6>[ 3420.710916]   .sysctl_sched_wakeup_granularity         : 1.333332
+<6>[ 3420.710925]   .sysctl_sched_child_runs_first           : 0
+<6>[ 3420.710934]   .sysctl_sched_features                   : 11835
+<6>[ 3420.710943]   .sched_mostly_idle_load                  : 3000000
+<6>[ 3420.710952]   .sched_small_task                        : 2000000
+<6>[ 3420.710961]   .sched_upmigrate                         : 8000000
+<6>[ 3420.710970]   .sched_downmigrate                       : 6000000
+<6>[ 3420.710979]   .sched_init_task_load_windows            : 1500000
+<6>[ 3420.710988]   .sched_init_task_load_pelt               : 7161
+<6>[ 3420.710997]   .min_capacity                            : 1024
+<6>[ 3420.711005]   .max_capacity                            : 1024
+<6>[ 3420.711014]   .sched_use_pelt                          : 0
+<6>[ 3420.711023]   .sched_ravg_window                       : 10000000
+<6>[ 3420.711033]   .sysctl_sched_tunable_scaling            : 1 (logaritmic)
+<6>[ 3420.711039] 
+<6>[ 3420.711047] cpu#0
+<6>[ 3420.711055]   .nr_running                    : 1
+<6>[ 3420.711064]   .load                          : 1024
+<6>[ 3420.711072]   .nr_switches                   : 704522
+<6>[ 3420.711081]   .nr_load_updates               : 78753
+<6>[ 3420.711089]   .nr_uninterruptible            : -1909
+<6>[ 3420.711099]   .next_balance                  : 0.312041
+<6>[ 3420.711107]   .curr->pid                     : 5225
+<6>[ 3420.711117]   .clock                         : 3420706.410613
+<6>[ 3420.711125]   .cpu_load[0]                   : 0
+<6>[ 3420.711134]   .cpu_load[1]                   : 0
+<6>[ 3420.711143]   .cpu_load[2]                   : 0
+<6>[ 3420.711151]   .cpu_load[3]                   : 0
+<6>[ 3420.711160]   .cpu_load[4]                   : 0
+<6>[ 3420.711168]   .cpu_power                     : 1022
+<6>[ 3420.711177]   .load_scale_factor             : 1024
+<6>[ 3420.711185]   .capacity                      : 1024
+<6>[ 3420.711194]   .max_possible_capacity         : 1024
+<6>[ 3420.711202]   .efficiency                    : 2048
+<6>[ 3420.711211]   .cur_freq                      : 800000
+<6>[ 3420.711219]   .max_freq                      : 1094400
+<6>[ 3420.711228]   .nr_big_tasks                  : 0
+<6>[ 3420.711236]   .nr_small_tasks                : 1
+<6>[ 3420.711245]   .yld_count                     : 46
+<6>[ 3420.711253]   .sched_count                   : 713584
+<6>[ 3420.711261]   .sched_goidle                  : 142705
+<6>[ 3420.711269]   .avg_idle                      : 1000000
+<6>[ 3420.711277]   .ttwu_count                    : 479874
+<6>[ 3420.711286]   .ttwu_local                    : 416652
+<6>[ 3420.711296] 
+<6>[ 3420.711296] cfs_rq[0]:/
+<6>[ 3420.711308]   .exec_clock                    : 149336.979631
+<6>[ 3420.711318]   .MIN_vruntime                  : 0.000001
+<6>[ 3420.711327]   .min_vruntime                  : 161400.115691
+<6>[ 3420.711337]   .max_vruntime                  : 0.000001
+<6>[ 3420.711346]   .spread                        : 0.000000
+<6>[ 3420.711356]   .spread0                       : 0.000000
+<6>[ 3420.711365]   .nr_spread_over                : 2281
+<6>[ 3420.711373]   .nr_running                    : 1
+<6>[ 3420.711381]   .load                          : 1024
+<6>[ 3420.711390]   .runnable_load_avg             : 180
+<6>[ 3420.711399]   .blocked_load_avg              : 214
+<6>[ 3420.711408]   .tg_load_avg                   : 592
+<6>[ 3420.711416]   .tg_load_contrib               : 214
+<6>[ 3420.711424]   .tg_runnable_contrib           : 48
+<6>[ 3420.711432]   .tg->runnable_avg              : 218
+<6>[ 3420.711442]   .avg->runnable_avg_sum         : 2196
+<6>[ 3420.711450]   .avg->runnable_avg_period      : 46263
+<6>[ 3420.711462] 
+<6>[ 3420.711462] rt_rq[0]:/apps/critical
+<6>[ 3420.711473]   .rt_nr_running                 : 0
+<6>[ 3420.711482]   .rt_throttled                  : 0
+<6>[ 3420.711492]   .rt_time                       : 0.000000
+<6>[ 3420.711501]   .rt_runtime                    : 0.000000
+<6>[ 3420.711512] 
+<6>[ 3420.711512] rt_rq[0]:/apps/bg_perceivable
+<6>[ 3420.711524]   .rt_nr_running                 : 0
+<6>[ 3420.711531]   .rt_throttled                  : 0
+<6>[ 3420.711541]   .rt_time                       : 0.000000
+<6>[ 3420.711550]   .rt_runtime                    : 0.000000
+<6>[ 3420.711561] 
+<6>[ 3420.711561] rt_rq[0]:/apps/bg_non_interactive
+<6>[ 3420.711573]   .rt_nr_running                 : 0
+<6>[ 3420.711581]   .rt_throttled                  : 0
+<6>[ 3420.711591]   .rt_time                       : 0.000000
+<6>[ 3420.711600]   .rt_runtime                    : 0.000000
+<6>[ 3420.711610] 
+<6>[ 3420.711610] rt_rq[0]:/apps
+<6>[ 3420.711621]   .rt_nr_running                 : 0
+<6>[ 3420.711629]   .rt_throttled                  : 0
+<6>[ 3420.711639]   .rt_time                       : 0.000000
+<6>[ 3420.711648]   .rt_runtime                    : 0.000000
+<6>[ 3420.711658] 
+<6>[ 3420.711658] rt_rq[0]:/bg_non_interactive
+<6>[ 3420.711669]   .rt_nr_running                 : 0
+<6>[ 3420.711678]   .rt_throttled                  : 0
+<6>[ 3420.711687]   .rt_time                       : 0.000000
+<6>[ 3420.711697]   .rt_runtime                    : 700.000000
+<6>[ 3420.711706] 
+<6>[ 3420.711706] rt_rq[0]:/
+<6>[ 3420.711717]   .rt_nr_running                 : 0
+<6>[ 3420.711725]   .rt_throttled                  : 0
+<6>[ 3420.711735]   .rt_time                       : 0.693386
+<6>[ 3420.711744]   .rt_runtime                    : 800.000000
+<6>[ 3420.711756] 
+<6>[ 3420.711756] runnable tasks:
+<6>[ 3420.711756]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[ 3420.711756] ----------------------------------------------------------------------------------------------------------
+<6>[ 3420.711844] R             sh  5225    161400.115691         1   120    161400.115691         0.922083         0.000000 /
+<6>[ 3420.711871] 
+<6>[ 3420.711878] cpu#3
+<6>[ 3420.711886]   .nr_running                    : 0
+<6>[ 3420.711894]   .load                          : 0
+<6>[ 3420.711903]   .nr_switches                   : 137438
+<6>[ 3420.711911]   .nr_load_updates               : 12833
+<6>[ 3420.711919]   .nr_uninterruptible            : 583
+<6>[ 3420.711930]   .next_balance                  : 0.312067
+<6>[ 3420.711938]   .curr->pid                     : 0
+<6>[ 3420.711948]   .clock                         : 3420704.605822
+<6>[ 3420.711957]   .cpu_load[0]                   : 0
+<6>[ 3420.711965]   .cpu_load[1]                   : 2
+<6>[ 3420.711974]   .cpu_load[2]                   : 24
+<6>[ 3420.711981]   .cpu_load[3]                   : 42
+<6>[ 3420.711990]   .cpu_load[4]                   : 36
+<6>[ 3420.711998]   .cpu_power                     : 1024
+<6>[ 3420.712007]   .load_scale_factor             : 1024
+<6>[ 3420.712016]   .capacity                      : 1024
+<6>[ 3420.712024]   .max_possible_capacity         : 1024
+<6>[ 3420.712032]   .efficiency                    : 2048
+<6>[ 3420.712040]   .cur_freq                      : 800000
+<6>[ 3420.712049]   .max_freq                      : 1094400
+<6>[ 3420.712057]   .nr_big_tasks                  : 0
+<6>[ 3420.712066]   .nr_small_tasks                : 0
+<6>[ 3420.712074]   .yld_count                     : 2
+<6>[ 3420.712083]   .sched_count                   : 138358
+<6>[ 3420.712092]   .sched_goidle                  : 38164
+<6>[ 3420.712100]   .avg_idle                      : 1000000
+<6>[ 3420.712108]   .ttwu_count                    : 74984
+<6>[ 3420.712117]   .ttwu_local                    : 57042
+<6>[ 3420.712126] 
+<6>[ 3420.712126] cfs_rq[3]:/
+<6>[ 3420.712137]   .exec_clock                    : 34467.827465
+<6>[ 3420.712148]   .MIN_vruntime                  : 0.000001
+<6>[ 3420.712157]   .min_vruntime                  : 72787.719857
+<6>[ 3420.712166]   .max_vruntime                  : 0.000001
+<6>[ 3420.712176]   .spread                        : 0.000000
+<6>[ 3420.712186]   .spread0                       : -88612.395834
+<6>[ 3420.712194]   .nr_spread_over                : 830
+<6>[ 3420.712202]   .nr_running                    : 0
+<6>[ 3420.712210]   .load                          : 0
+<6>[ 3420.712218]   .runnable_load_avg             : 0
+<6>[ 3420.712226]   .blocked_load_avg              : 3
+<6>[ 3420.712235]   .tg_load_avg                   : 592
+<6>[ 3420.712243]   .tg_load_contrib               : 3
+<6>[ 3420.712252]   .tg_runnable_contrib           : 7
+<6>[ 3420.712260]   .tg->runnable_avg              : 218
+<6>[ 3420.712269]   .avg->runnable_avg_sum         : 334
+<6>[ 3420.712278]   .avg->runnable_avg_period      : 47649
+<6>[ 3420.712288] 
+<6>[ 3420.712288] rt_rq[3]:/apps/critical
+<6>[ 3420.712300]   .rt_nr_running                 : 0
+<6>[ 3420.712308]   .rt_throttled                  : 0
+<6>[ 3420.712317]   .rt_time                       : 0.000000
+<6>[ 3420.712327]   .rt_runtime                    : 0.000000
+<6>[ 3420.712337] 
+<6>[ 3420.712337] rt_rq[3]:/apps/bg_perceivable
+<6>[ 3420.712348]   .rt_nr_running                 : 0
+<6>[ 3420.712356]   .rt_throttled                  : 0
+<6>[ 3420.712366]   .rt_time                       : 0.000000
+<6>[ 3420.712375]   .rt_runtime                    : 0.000000
+<6>[ 3420.712386] 
+<6>[ 3420.712386] rt_rq[3]:/apps/bg_non_interactive
+<6>[ 3420.712397]   .rt_nr_running                 : 0
+<6>[ 3420.712406]   .rt_throttled                  : 0
+<6>[ 3420.712415]   .rt_time                       : 0.000000
+<6>[ 3420.712425]   .rt_runtime                    : 0.000000
+<6>[ 3420.712434] 
+<6>[ 3420.712434] rt_rq[3]:/apps
+<6>[ 3420.712445]   .rt_nr_running                 : 0
+<6>[ 3420.712454]   .rt_throttled                  : 0
+<6>[ 3420.712463]   .rt_time                       : 0.000000
+<6>[ 3420.712473]   .rt_runtime                    : 0.000000
+<6>[ 3420.712483] 
+<6>[ 3420.712483] rt_rq[3]:/bg_non_interactive
+<6>[ 3420.712494]   .rt_nr_running                 : 0
+<6>[ 3420.712502]   .rt_throttled                  : 0
+<6>[ 3420.712512]   .rt_time                       : 0.000000
+<6>[ 3420.712521]   .rt_runtime                    : 700.000000
+<6>[ 3420.712530] 
+<6>[ 3420.712530] rt_rq[3]:/
+<6>[ 3420.712541]   .rt_nr_running                 : 0
+<6>[ 3420.712549]   .rt_throttled                  : 0
+<6>[ 3420.712559]   .rt_time                       : 0.000000
+<6>[ 3420.712568]   .rt_runtime                    : 800.000000
+<6>[ 3420.712579] 
+<6>[ 3420.712579] runnable tasks:
+<6>[ 3420.712579]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[ 3420.712579] ----------------------------------------------------------------------------------------------------------
+<6>[ 3420.712654] 
+<4>[ 3422.735302] migrate_irqs: 494 callbacks suppressed
+<4>[ 3422.735307] IRQ32 no longer affine to CPU3
+<4>[ 3422.735313] IRQ33 no longer affine to CPU3
+<4>[ 3422.735319] IRQ34 no longer affine to CPU3
+<4>[ 3422.735325] IRQ35 no longer affine to CPU3
+<4>[ 3422.735331] IRQ36 no longer affine to CPU3
+<4>[ 3422.735338] IRQ37 no longer affine to CPU3
+<4>[ 3422.735344] IRQ38 no longer affine to CPU3
+<4>[ 3422.735350] IRQ40 no longer affine to CPU3
+<4>[ 3422.735356] IRQ41 no longer affine to CPU3
+<4>[ 3422.735362] IRQ42 no longer affine to CPU3
