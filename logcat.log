@@ -1,0 +1,1536 @@
+--------- beginning of system
+01-01 08:00:05.839   255   255 I irsc_util: irsc tool created:0xb85a6020
+01-01 08:00:05.839   255   255 I irsc_util: Starting irsc tool
+01-01 08:00:05.839   255   255 I irsc_util: Trying to open sec config file
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* IPC Security Config */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* <GPS QMI Service ID - 16>:<GPS QMI Instance ID - all instances>:<Client Group ID> */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow SS CTL service to be used by system and net_raw processes */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow Sensor services to be used by sensor process */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+jjjjjjjk01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 0iii8:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:j05.849  jkj 255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+oo
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:i05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow RCS service to aquire net_raw permission */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow QMID service to aquire net_raw permission */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/*Data Power Manager Daemon dpmd */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* IPC Security Config */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* <GPS QMI Service ID - 16>:<GPS QMI Instance ID - all instances>:<Client Group ID> */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow SS CTL service to be used by system and net_raw processes */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow Sensor services to be used by sensor process */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :3
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow RCS service to aquire net_raw permission */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/* Allow QMID service to aquire net_raw permission */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :0
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Invalid Format or Comment - '/*Data Power Manager Daemon dpmd */
+01-01 08:00:05.849   255   255 I irsc_util: '
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: file_parser Number of element :4
+01-01 08:00:05.849   255   255 I irsc_util: Feed the sec config info to the router
+01-01 08:00:05.849   255   255 I irsc_util: Num of entries:267
+01-01 08:00:06.159   236   236 I Vold    : Vold 2.1 (the revenge) firing up
+01-01 08:00:06.159   236   236 D Vold    : Volume sdcard state changing -1 (Initializing) -> 0 (No-Media)
+01-01 08:00:06.159   236   236 D Vold    : Volume sdcard1 state changing -1 (Initializing) -> 0 (No-Media)
+01-01 08:00:06.159   236   236 I Cryptfs : Check if PFE is activated on Boot
+01-01 08:00:06.169   236   236 E Cryptfs : Bad magic for real block device /dev/block/bootdevice/by-name/userdata
+01-01 08:00:06.169   236   236 E Cryptfs : Error getting crypt footer and key
+01-01 08:00:06.189   236   359 W DirectVolume: Deprecated implied prefix pattern detected, please use '/devices/soc.0/7824900.sdhci/mmc_host/mmc0/*' instead
+01-01 08:00:06.189   236   359 D Vold    : Volume sdcard state changing 0 (No-Media) -> 1 (Idle-Unmounted)
+01-01 08:00:06.189   236   359 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 2 (Pending)
+01-01 08:00:06.189   236   359 D Vold    : Volume sdcard state changing 2 (Pending) -> 1 (Idle-Unmounted)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.189   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W Vold    : Duplicate state (1)
+01-01 08:00:06.199   236   359 W DirectVolume: Deprecated implied prefix pattern detected, please use '/devices/soc.0/7864900.sdhci/mmc_host/mmc1/*' instead
+01-01 08:00:06.199   236   359 D Vold    : Volume sdcard1 state changing 0 (No-Media) -> 2 (Pending)
+01-01 08:00:06.199   236   359 D Vold    : Volume sdcard1 state changing 2 (Pending) -> 1 (Idle-Unmounted)
+01-01 08:00:08.469   236   379 I Vold    : /dev/block/vold/179:30 being considered for volume sdcard
+01-01 08:00:08.469   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+01-01 08:00:08.469   236   379 W Vold    : Skipping fs checks
+01-01 08:00:08.489   236   379 D Vold    : Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+01-01 08:00:08.569   236   379 I Vold    : /dev/block/vold/179:65 being considered for volume sdcard1
+01-01 08:00:08.569   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 3 (Checking)
+01-01 08:00:08.569   236   379 W Vold    : Skipping fs checks
+01-01 08:00:08.779   236   379 D Vold    : Volume sdcard1 state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:52:37.010   236   379 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:52:38.020   236   379 I Vold    : /mnt/media_rw/sdcard sucessfully unmounted
+04-24 15:52:38.020   236   379 I Vold    : /mnt/media_rw/sdcard unmounted successfully
+04-24 15:52:38.020   236   379 D Vold    : Volume sdcard state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:52:38.020   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:52:38.080   236   379 D Vold    : Volume sdcard1 state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:52:39.110   236   379 I Vold    : /mnt/media_rw/sdcard1 sucessfully unmounted
+04-24 15:52:39.110   236   379 I Vold    : /mnt/media_rw/sdcard1 unmounted successfully
+04-24 15:52:39.120   236   379 D Vold    : Volume sdcard1 state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:52:39.120   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:52:40.850   236   379 D Vold    : Volume sdcard state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:52:40.850   236   379 I Vold    : /dev/block/vold/179:30 being considered for volume sdcard
+04-24 15:52:40.850   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:52:40.850   236   379 W Vold    : Skipping fs checks
+04-24 15:52:40.900   236   379 D Vold    : Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:52:41.000   236   379 D Vold    : Volume sdcard1 state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:52:41.000   236   379 I Vold    : /dev/block/vold/179:65 being considered for volume sdcard1
+04-24 15:52:41.000   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:52:41.000   236   379 W Vold    : Skipping fs checks
+04-24 15:52:41.080   236   379 D Vold    : Volume sdcard1 state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:52:50.760   236   379 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:52:51.770   236   379 I Vold    : /mnt/media_rw/sdcard sucessfully unmounted
+04-24 15:52:51.770   236   379 I Vold    : /mnt/media_rw/sdcard unmounted successfully
+04-24 15:52:51.770   236   379 D Vold    : Volume sdcard state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:52:51.780   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:52:51.840   236   379 D Vold    : Volume sdcard1 state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:52:52.870   236   379 I Vold    : /mnt/media_rw/sdcard1 sucessfully unmounted
+04-24 15:52:52.870   236   379 I Vold    : /mnt/media_rw/sdcard1 unmounted successfully
+04-24 15:52:52.870   236   379 D Vold    : Volume sdcard1 state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:52:52.880   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:53:34.404   236   379 D Vold    : Volume sdcard state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:53:34.414   236   379 I Vold    : /dev/block/vold/179:30 being considered for volume sdcard
+04-24 15:53:34.414   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:53:34.414   236   379 W Vold    : Skipping fs checks
+04-24 15:53:34.454   236   379 D Vold    : Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:53:34.514   236   379 D Vold    : Volume sdcard1 state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:53:34.514   236   379 I Vold    : /dev/block/vold/179:65 being considered for volume sdcard1
+04-24 15:53:34.514   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:53:34.514   236   379 W Vold    : Skipping fs checks
+04-24 15:53:34.744   236   379 D Vold    : Volume sdcard1 state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:53:38.194   236   379 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:53:39.204   236   379 I Vold    : /mnt/media_rw/sdcard sucessfully unmounted
+04-24 15:53:39.204   236   379 I Vold    : /mnt/media_rw/sdcard unmounted successfully
+04-24 15:53:39.204   236   379 D Vold    : Volume sdcard state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:53:39.204   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:53:39.264   236   379 D Vold    : Volume sdcard1 state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:53:40.314   236   379 I Vold    : /mnt/media_rw/sdcard1 sucessfully unmounted
+04-24 15:53:40.314   236   379 I Vold    : /mnt/media_rw/sdcard1 unmounted successfully
+04-24 15:53:40.324   236   379 D Vold    : Volume sdcard1 state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:53:40.324   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:57:43.048   236   379 D Vold    : Volume sdcard state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:57:43.048   236   379 I Vold    : /dev/block/vold/179:30 being considered for volume sdcard
+04-24 15:57:43.048   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:57:43.048   236   379 W Vold    : Skipping fs checks
+04-24 15:57:43.108   236   379 D Vold    : Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:57:43.178   236   379 D Vold    : Volume sdcard1 state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:57:43.178   236   379 I Vold    : /dev/block/vold/179:65 being considered for volume sdcard1
+04-24 15:57:43.178   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:57:43.178   236   379 W Vold    : Skipping fs checks
+--------- beginning of main
+04-24 15:57:43.308   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.334601 rbatt=0.222000 slope=1.300000 ibatt=-0.255912 ocv=4.278018 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=55
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:57:43.308   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:57:43.308   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:57:43.308   322   322 D VM_BMS  : For ocv=4278476 batt_temp=235 soc=97
+04-24 15:57:43.308   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.334908 rbatt=0.222000 slope=1.300000 ibatt=-0.255229 ocv=4.278476 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=55
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:57:43.308   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:57:43.308   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:57:43.308   322   322 D VM_BMS  : For ocv=4278930 batt_temp=235 soc=97
+04-24 15:57:43.308   322   322 D VM_BMS  : FIFO=2 fifo_avg=4.334908 rbatt=0.222000 slope=1.300000 ibatt=-0.253173 ocv=4.278931 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=55
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:57:43.308   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:57:43.308   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:57:43.308   322   322 D VM_BMS  : For ocv=4279374 batt_temp=235 soc=97
+04-24 15:57:43.308   322   322 D VM_BMS  : FIFO=3 fifo_avg=4.334022 rbatt=0.222000 slope=1.300000 ibatt=-0.247162 ocv=4.279374 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=55
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:57:43.308   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:57:43.308   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:57:43.308   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:57:43.308   322   322 D VM_BMS  : For ocv=4279809 batt_temp=235 soc=97
+04-24 15:57:43.308   322   322 D VM_BMS  : FIFO=4 fifo_avg=4.333418 rbatt=0.222000 slope=1.300000 ibatt=-0.242460 ocv=4.279809 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=55
+04-24 15:57:43.308   322   322 I VM_BMS  : power_supply_update: ocv_uv=4279809 ibatt=-242459 soc=97 seq_num=55
+04-24 15:57:43.308   322   322 D VM_BMS  : End process_bms_data
+04-24 15:57:43.308   322   322 D VM_BMS  : wake_lock released
+04-24 15:57:43.418   236   379 D Vold    : blkid identified as /dev/block/vold/179:65: UUID="C618-16E0" TYPE="vfat" 
+04-24 15:57:43.418   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Checking to Check-Mounted (2 observers)
+04-24 15:57:43.418   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:57:43.418   251   511 I AutoMounter: UpdateState: Volume sdcard is Mounted and inserted @ /storage/sdcard gen 7 locked 0 sharing en-n
+04-24 15:57:43.418   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Check-Mounted and inserted
+04-24 15:57:43.418   236   379 D Vold    : Volume sdcard1 state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:57:43.528  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:57:44.498   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Check-Mounted to Mounted @ '/storage/sdcard1' (2 observers) mountGeneration = 8, locked = 0
+04-24 15:57:45.168   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:45.298   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:45.418   251   251 I QCOM PowerHAL: Got set_interactive hint
+04-24 15:57:45.418   251   251 D qdhwcomposer: hwc_setPowerMode: Setting mode 2 on display: 0
+04-24 15:57:45.418   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:57:45.418   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:57:45.418   251   251 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:57:45.828   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 1
+04-24 15:57:45.828   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:57:45.828   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:57:45.828   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:57:45.828   251   251 D qdhwcomposer: hwc_setPowerMode: Done setting mode 2 on display 0
+04-24 15:57:45.838   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:45.848   251  2193 E LocSvc_api_v02: I/---> locClientSendReq line 2065 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:57:45.848   251  2221 E LocSvc_ApiV02: I/<--- void globalRespCb(locClientHandleType, uint32_t, locClientRespIndUnionType, void*) line 111 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:57:45.848   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:45.848   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:46.098   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_VOICE_REGISTRATION_STATE state = 1,mRadioTechnology = 6
+04-24 15:57:46.098   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_DATA_REGISTRATION_STATE state = 1, mDataRadioTechnology = 13, mTAC =-1
+04-24 15:57:46.098   251   251 D SERVICE_STATE_TRACKER: Set CDMA Roaming Indicator to: 1, mCdmaRoaming = 0, isPrlLoaded = 0, namMatch = 0, mSystemIsInPrl = 1, defaultRoamingIndicator = 1
+04-24 15:57:46.108   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:46.108   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:46.298   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:57:46.338   251   511 I AutoMounter: AutoMounter state changed from IDLE to UMS_CONFIGURED
+04-24 15:57:46.338   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:57:46.338   251   511 I AutoMounter: UpdateState: Volume sdcard is Mounted and inserted @ /storage/sdcard gen 7 locked 0 sharing en-n
+04-24 15:57:46.338   251   511 I VolumeManager: Volume sdcard: IsSharing set to 1 state Mounted
+04-24 15:57:46.408   251   511 I AutoMounter: UpdateState: Unmounting sdcard
+04-24 15:57:46.408   251   511 I VolumeManager: Volume sdcard (1): changing state from Mounted to Unmounting (2 observers)
+04-24 15:57:46.408   236   379 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:57:47.418   251   511 I VolumeManager: Volume sdcard (1): changing state from Unmounting to Idle (2 observers)
+04-24 15:57:47.418   236   379 I Vold    : /mnt/media_rw/sdcard sucessfully unmounted
+04-24 15:57:47.418   236   379 I Vold    : /mnt/media_rw/sdcard unmounted successfully
+04-24 15:57:47.418   236   379 D Vold    : Volume sdcard state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: Volume sdcard is Idle and inserted
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: Volume sdcard is Idle
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: Sharing sdcard
+04-24 15:57:47.428   251   511 I VolumeManager: Volume sdcard (1): changing state from Idle to Shared (2 observers)
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:57:47.428   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Mounted and inserted @ /storage/sdcard1 gen 8 locked 0 sharing en-n
+04-24 15:57:47.428   251   511 I VolumeManager: Volume sdcard1: IsSharing set to 1 state Mounted
+04-24 15:57:47.428   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:57:47.498   251   511 I AutoMounter: UpdateState: Unmounting sdcard1
+04-24 15:57:47.498   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Mounted to Unmounting (2 observers)
+04-24 15:57:47.498   236   379 D Vold    : Volume sdcard1 state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:57:48.528  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:57:48.588   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Unmounting to Idle (2 observers)
+04-24 15:57:48.588   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:57:48.588   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:57:48.588   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Idle and inserted
+04-24 15:57:48.588   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Idle
+04-24 15:57:48.588   251   511 I AutoMounter: UpdateState: Sharing sdcard1
+04-24 15:57:48.588   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Idle to Shared (2 observers)
+04-24 15:57:48.588   236   379 I Vold    : /mnt/media_rw/sdcard1 sucessfully unmounted
+04-24 15:57:48.588   236   379 I Vold    : /mnt/media_rw/sdcard1 unmounted successfully
+04-24 15:57:48.588   236   379 D Vold    : Volume sdcard1 state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:57:48.588   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:57:48.598   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:57:48.598   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:57:48.598   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Shared and inserted
+04-24 15:57:48.678   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:57:48.698   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:57:53.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:57:53.808   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:57:53.828   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:57:56.368   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:57:58.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:57:58.928   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:01.478   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:03.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:06.608   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:08.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:09.168   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:13.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:14.288   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:14.308   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:16.848   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:18.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:19.408   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:19.438   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:23.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:24.528   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:24.548   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:28.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:29.648   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:29.678   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:31.458   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:58:31.458   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:58:31.458   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:58:31.458   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:58:31.458   322   322 D VM_BMS  : For batt_temp=234 fcc_mah=1802
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4279809 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : fifo_count=5 acc_count=0
+04-24 15:58:31.458   322   322 D VM_BMS  : INIT: ocv=4279809 last_ocv=4279809 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:58:31.458   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4280096 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.315638 rbatt=0.223000 slope=1.300000 ibatt=-0.160024 ocv=4.280097 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=56
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:58:31.458   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4280518 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.332720 rbatt=0.223000 slope=1.300000 ibatt=-0.235035 ocv=4.280518 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=56
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:58:31.458   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4280967 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : FIFO=2 fifo_avg=4.336573 rbatt=0.223000 slope=1.300000 ibatt=-0.250360 ocv=4.280968 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=56
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:58:31.458   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4281418 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : FIFO=3 fifo_avg=4.337161 rbatt=0.223000 slope=1.300000 ibatt=-0.250980 ocv=4.281418 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=56
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:58:31.458   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:58:31.458   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:58:31.458   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:58:31.458   322   322 D VM_BMS  : For ocv=4281865 batt_temp=234 soc=97
+04-24 15:58:31.458   322   322 D VM_BMS  : FIFO=4 fifo_avg=4.337174 rbatt=0.223000 slope=1.300000 ibatt=-0.249025 ocv=4.281865 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=56
+04-24 15:58:31.458   322   322 I VM_BMS  : power_supply_update: ocv_uv=4281865 ibatt=-249024 soc=97 seq_num=56
+04-24 15:58:31.458   322   322 D VM_BMS  : End process_bms_data
+04-24 15:58:31.458   322   322 D VM_BMS  : wake_lock released
+04-24 15:58:32.208   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:32.238   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:33.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:38.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:42.448   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:43.538  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:45.008   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:58:45.968   251   251 D qdhwcomposer: hwc_setPowerMode: Setting mode 0 on display: 0
+04-24 15:58:45.968   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:58:45.968   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:58:45.968   251   251 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:58:46.228   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 15:58:46.228   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:58:46.228   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:58:46.228   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:58:46.228   251   251 D qdhwcomposer: hwc_setPowerMode: Done setting mode 0 on display 0
+04-24 15:58:46.228   251   251 I QCOM PowerHAL: Got set_interactive hint
+04-24 15:58:46.278   251   251 E qdhwcomposer: hwc_vsync_control: vsync control failed. Dpy=0, enable=1 : Operation not permitted
+04-24 15:58:48.548  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:53.548  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:58.548  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:58:59.188   251   511 I AutoMounter: AutoMounter state changed from UMS_CONFIGURED to IDLE
+04-24 15:58:59.188   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:58:59.188   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:58:59.188   251   511 I AutoMounter: UpdateState: Unsharing sdcard
+04-24 15:58:59.198   251   511 I VolumeManager: Volume sdcard (1): changing state from Shared to Idle (2 observers)
+04-24 15:58:59.198   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:58:59.198   251   511 I AutoMounter: UpdateState: Volume sdcard is Idle and inserted
+04-24 15:58:59.198   251   511 I AutoMounter: UpdateState: Mounting sdcard
+04-24 15:58:59.198   251   511 I VolumeManager: Volume sdcard (1): changing state from Idle to Checking (2 observers)
+04-24 15:58:59.198   236   379 D Vold    : Volume sdcard state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:58:59.198   236   379 I Vold    : /dev/block/vold/179:30 being considered for volume sdcard
+04-24 15:58:59.198   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:58:59.198   236   379 W Vold    : Skipping fs checks
+04-24 15:58:59.248   251  2688 E libsuspend: Error writing to /sys/power/state: Device or resource busy
+04-24 15:58:59.258   236   379 D Vold    : blkid identified as /dev/block/vold/179:30: LABEL="Internal SD" UUID="1880-704B" TYPE="vfat" 
+04-24 15:58:59.258   251   511 I VolumeManager: Volume sdcard (1): changing state from Checking to Check-Mounted (2 observers)
+04-24 15:58:59.258   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:58:59.258   251   511 I AutoMounter: UpdateState: Volume sdcard is Check-Mounted and inserted
+04-24 15:58:59.258   236   379 D Vold    : Volume sdcard state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:58:59.278   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:58:59.278   251  2193 E LocSvc_api_v02: I/---> locClientSendReq line 2065 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:58:59.278   251  2221 E LocSvc_ApiV02: I/<--- void globalRespCb(locClientHandleType, uint32_t, locClientRespIndUnionType, void*) line 111 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:58:59.288   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:58:59.318   251   511 I VolumeManager: Volume sdcard (1): changing state from Check-Mounted to Mounted @ '/storage/sdcard' (2 observers) mountGeneration = 9, locked = 0
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Shared and inserted
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: Unsharing sdcard1
+04-24 15:58:59.318   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Shared to Idle (2 observers)
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: Volume sdcard is Mounted and inserted @ /storage/sdcard gen 9 locked 0 sharing en-n
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Idle and inserted
+04-24 15:58:59.318   251   511 I AutoMounter: UpdateState: Mounting sdcard1
+04-24 15:58:59.318   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Idle to Checking (2 observers)
+04-24 15:58:59.318   236   379 D Vold    : Volume sdcard1 state changing 7 (Shared-Unmounted) -> 1 (Idle-Unmounted)
+04-24 15:58:59.318   236   379 I Vold    : /dev/block/vold/179:65 being considered for volume sdcard1
+04-24 15:58:59.318   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 3 (Checking)
+04-24 15:58:59.318   236   379 W Vold    : Skipping fs checks
+04-24 15:58:59.398   236   379 D Vold    : blkid identified as /dev/block/vold/179:65: UUID="C618-16E0" TYPE="vfat" 
+04-24 15:58:59.398   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Checking to Check-Mounted (2 observers)
+04-24 15:58:59.398   251   511 I AutoMounter: UpdateState: ums:A1C0E1 mtp:A1C0E0 mode:1 usb:0 tryToShare:0 state:IDLE
+04-24 15:58:59.398   251   511 I AutoMounter: UpdateState: Volume sdcard is Mounted and inserted @ /storage/sdcard gen 9 locked 0 sharing en-n
+04-24 15:58:59.398   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Check-Mounted and inserted
+04-24 15:58:59.398   236   379 D Vold    : Volume sdcard1 state changing 3 (Checking) -> 4 (Mounted)
+04-24 15:59:00.488   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Check-Mounted to Mounted @ '/storage/sdcard1' (2 observers) mountGeneration = 10, locked = 0
+04-24 15:59:03.558  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:08.558  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:13.558  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:18.568  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:19.598   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:59:19.598   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:59:19.598   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:59:19.598   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:59:19.598   322   322 D VM_BMS  : For batt_temp=235 fcc_mah=1802
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4281865 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : fifo_count=5 acc_count=0
+04-24 15:59:19.598   322   322 D VM_BMS  : INIT: ocv=4281865 last_ocv=4281865 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:19.598   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4282332 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.339843 rbatt=0.222000 slope=1.300000 ibatt=-0.260109 ocv=4.282332 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=57
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:19.598   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4282786 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.338663 rbatt=0.222000 slope=1.300000 ibatt=-0.252722 ocv=4.282786 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=57
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:19.598   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4283174 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : FIFO=2 fifo_avg=4.330996 rbatt=0.222000 slope=1.300000 ibatt=-0.216288 ocv=4.283174 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=57
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:19.598   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4283286 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : FIFO=3 fifo_avg=4.297087 rbatt=0.222000 slope=1.300000 ibatt=-0.062419 ocv=4.283286 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=57
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:19.598   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:19.598   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:19.598   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:19.598   322   322 D VM_BMS  : For ocv=4283378 batt_temp=235 soc=97
+04-24 15:59:19.598   322   322 D VM_BMS  : FIFO=4 fifo_avg=4.294728 rbatt=0.222000 slope=1.300000 ibatt=-0.051332 ocv=4.283378 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=57
+04-24 15:59:19.598   322   322 I VM_BMS  : power_supply_update: ocv_uv=4283378 ibatt=-51331 soc=97 seq_num=57
+04-24 15:59:19.598   322   322 D VM_BMS  : End process_bms_data
+04-24 15:59:19.598   322   322 D VM_BMS  : wake_lock released
+04-24 15:59:23.568  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:28.568  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:29.298   251  2688 E libsuspend: Error writing to /sys/power/state: Device or resource busy
+04-24 15:59:32.445   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 15:59:32.445   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:32.445   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:32.445   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:32.445   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:59:32.445   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:59:32.445   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:59:32.445   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:59:32.445   322   322 D VM_BMS  : For batt_temp=234 fcc_mah=1802
+04-24 15:59:32.445   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:59:32.445   322   322 D VM_BMS  : For ocv=4283378 batt_temp=234 soc=97
+04-24 15:59:32.445   322   322 D VM_BMS  : fifo_count=1 acc_count=2
+04-24 15:59:32.445   322   322 D VM_BMS  : INIT: ocv=4283378 last_ocv=4283378 batt_temp=234 soc=97
+04-24 15:59:32.445   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:59:32.445   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:59:32.445   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:59:32.445   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:59:32.445   322   322 D VM_BMS  : For ocv=4283457 batt_temp=234 soc=97
+04-24 15:59:32.445   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.293255 rbatt=0.223000 slope=1.300000 ibatt=-0.044113 ocv=4.283457 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=58
+04-24 15:59:32.445   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:59:32.445   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:59:32.445   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:59:32.445   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:59:32.445   322   322 D VM_BMS  : For ocv=4283458 batt_temp=234 soc=97
+04-24 15:59:32.445   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.292664 rbatt=0.223000 slope=1.300000 ibatt=-0.041286 ocv=4.283458 soc=97 fcc_ah=1.802000 sample_count=2 sample_interval=70 seq_num=58
+04-24 15:59:32.455   322   322 I VM_BMS  : power_supply_update: ocv_uv=4283458 ibatt=-41285 soc=97 seq_num=58
+04-24 15:59:32.455   322   322 D VM_BMS  : End process_bms_data
+04-24 15:59:32.455   322   322 D VM_BMS  : wake_lock released
+04-24 15:59:35.517   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 15:59:35.517   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:35.517   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:35.517   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:35.517   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:59:35.517   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:59:35.517   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:59:35.517   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:59:35.517   322   322 D VM_BMS  : For batt_temp=235 fcc_mah=1802
+04-24 15:59:35.517   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:59:35.517   322   322 D VM_BMS  : For ocv=4283458 batt_temp=235 soc=97
+04-24 15:59:35.517   322   322 D VM_BMS  : fifo_count=0 acc_count=6
+04-24 15:59:35.517   322   322 D VM_BMS  : INIT: ocv=4283458 last_ocv=4283458 batt_temp=235 soc=97
+04-24 15:59:35.517   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:35.517   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:35.517   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:35.517   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:35.517   322   322 D VM_BMS  : For ocv=4283461 batt_temp=235 soc=97
+04-24 15:59:35.517   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.291484 rbatt=0.222000 slope=1.300000 ibatt=-0.036145 ocv=4.283461 soc=97 fcc_ah=1.802000 sample_count=6 sample_interval=70 seq_num=59
+04-24 15:59:35.517   322   322 I VM_BMS  : power_supply_update: ocv_uv=4283461 ibatt=-36144 soc=97 seq_num=59
+04-24 15:59:35.517   322   322 D VM_BMS  : End process_bms_data
+04-24 15:59:35.527   322   322 D VM_BMS  : wake_lock released
+04-24 15:59:35.657   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 12
+04-24 15:59:35.657   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:35.657   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484775000
+04-24 15:59:35.657   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:35.657   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:Received base = 12, unit = 1, operation = 0,value = 1461484775000
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:genoff_opr: Base = 12, val = 1461484775000, operation = 0
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:56
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:Value read from RTC seconds = 2756000
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:new time 1461484775000 
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:Opening File: /data/time/ats_12
+04-24 15:59:35.657   267  4536 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:35.747   247   434 E QC-time-services: Receive Passed == base = 12, unit = 1, operation = 0, result = 0
+04-24 15:59:35.747   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+04-24 15:59:35.747   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:35.747   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484775000
+04-24 15:59:35.747   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:35.747   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:35.747   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 0,value = 1461484775000
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 1461484775000, operation = 0
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:56
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:Value read from RTC seconds = 2756000
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:new time 1461484775000 
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:Opening File: /data/time/ats_13
+04-24 15:59:35.747   267  4537 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:35.767   247   434 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 0, result = 0
+04-24 15:59:35.767   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:35.008   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 1,value = 0
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 0, operation = 1
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon: genoff get for 2
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:56
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:Value read from RTC seconds = 2756000
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:Value read from generic offset = 1461482018492
+04-24 15:59:35.008   267  4538 D QC-time-services: Daemon:Final Time = 1461484774492
+04-24 15:59:35.008   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->base = 2
+04-24 15:59:35.008   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:35.008   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484773717
+04-24 15:59:35.008   251   251 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:35.008   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:35.008   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 0,value = 1461484773717
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 1461484773717, operation = 0
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:56
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:Value read from RTC seconds = 2756000
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:new time 1461484773717 
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon: delta 1461482017717 genoff 1461482017717 
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017717 to memory
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:Opening File: /data/time/ats_2
+04-24 15:59:35.008   267  4539 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:35.018   267  4539 D QC-time-services: Updating the TOD offset
+04-24 15:59:35.018   267  4539 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017717 to memory
+04-24 15:59:35.018   267  4539 D QC-time-services: Daemon:Opening File: /data/time/ats_1
+04-24 15:59:35.018   267  4539 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:35.018   251   251 E QC-time-services: Receive Passed == base = 2, unit = 1, operation = 0, result = 0
+04-24 15:59:35.028   267  4539 E QC-time-services: Daemon:Update to modem bit set
+04-24 15:59:35.028   267  4539 D QC-time-services: Daemon:genoff_send_modem: Sending data to MODEM !
+04-24 15:59:35.028   267  4539 D QC-time-services: Daemon: Base = 2, Value being sent to MODEM = 1145517217717
+04-24 15:59:35.028   267   475 E QC-time-services: Daemon:tod_update_ind_cb: Got Update from modem msg_id 40
+04-24 15:59:35.028   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:35.138   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:35.208   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:35.767   251   251 I Gecko   : QTIME_SERVICE Applying NITZ: 16/04/24,07:59:35+32,00 delay=6
+04-24 15:59:36.506   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 15:59:36.506   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:36.506   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:36.506   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:36.506   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:59:36.506   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:59:36.506   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:59:36.506   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:59:36.506   322   322 D VM_BMS  : For batt_temp=234 fcc_mah=1802
+04-24 15:59:36.506   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:59:36.506   322   322 D VM_BMS  : For ocv=4283461 batt_temp=234 soc=97
+04-24 15:59:36.506   322   322 D VM_BMS  : fifo_count=0 acc_count=17
+04-24 15:59:36.506   322   322 D VM_BMS  : INIT: ocv=4283461 last_ocv=4283461 batt_temp=234 soc=97
+04-24 15:59:36.506   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 15:59:36.506   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 15:59:36.506   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 15:59:36.506   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 15:59:36.506   322   322 D VM_BMS  : For ocv=4283457 batt_temp=234 soc=97
+04-24 15:59:36.506   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.279396 rbatt=0.223000 slope=1.300000 ibatt=0.018219 ocv=4.283457 soc=97 fcc_ah=1.802000 sample_count=17 sample_interval=70 seq_num=60
+04-24 15:59:36.506   322   322 I VM_BMS  : power_supply_update: ocv_uv=4283457 ibatt=18219 soc=97 seq_num=60
+04-24 15:59:36.506   322   322 D VM_BMS  : End process_bms_data
+04-24 15:59:36.506   322   322 D VM_BMS  : wake_lock released
+04-24 15:59:37.505   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 15:59:37.505   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:37.505   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:37.505   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:37.505   322   322 D VM_BMS  : wake_lock acquired
+04-24 15:59:37.505   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 15:59:37.505   322   322 D VM_BMS  : Start process_bms_data
+04-24 15:59:37.505   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 15:59:37.505   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 12
+04-24 15:59:37.505   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:37.505   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484777000
+04-24 15:59:37.505   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:37.505   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:Received base = 12, unit = 1, operation = 0,value = 1461484777000
+04-24 15:59:37.505   322   322 D VM_BMS  : For batt_temp=235 fcc_mah=1802
+04-24 15:59:37.505   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 15:59:37.505   322   322 D VM_BMS  : For ocv=4283457 batt_temp=235 soc=97
+04-24 15:59:37.505   322   322 D VM_BMS  : fifo_count=0 acc_count=7
+04-24 15:59:37.505   322   322 D VM_BMS  : INIT: ocv=4283457 last_ocv=4283457 batt_temp=235 soc=97
+04-24 15:59:37.505   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 15:59:37.505   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 15:59:37.505   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 15:59:37.505   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 15:59:37.505   322   322 D VM_BMS  : For ocv=4283458 batt_temp=235 soc=97
+04-24 15:59:37.505   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.287946 rbatt=0.222000 slope=1.300000 ibatt=-0.020218 ocv=4.283459 soc=97 fcc_ah=1.802000 sample_count=7 sample_interval=70 seq_num=61
+04-24 15:59:37.505   322   322 I VM_BMS  : power_supply_update: ocv_uv=4283458 ibatt=-20218 soc=97 seq_num=61
+04-24 15:59:37.505   322   322 D VM_BMS  : End process_bms_data
+04-24 15:59:37.505   322   322 D VM_BMS  : wake_lock released
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:genoff_opr: Base = 12, val = 1461484777000, operation = 0
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:58
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:Value read from RTC seconds = 2758000
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:new time 1461484777000 
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:Opening File: /data/time/ats_12
+04-24 15:59:37.505   267  4543 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:37.525   247   434 E QC-time-services: Receive Passed == base = 12, unit = 1, operation = 0, result = 0
+04-24 15:59:37.525   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+04-24 15:59:37.525   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:37.525   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484777000
+04-24 15:59:37.525   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:37.525   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:37.525   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 0,value = 1461484777000
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 1461484777000, operation = 0
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:58
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:Value read from RTC seconds = 2758000
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:new time 1461484777000 
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:Opening File: /data/time/ats_13
+04-24 15:59:37.525   267  4544 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:37.545   247   434 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 0, result = 0
+04-24 15:59:37.545   251   251 I Gecko   : QTIME_SERVICE Applying NITZ: 16/04/24,07:59:37+32,00 delay=4
+04-24 15:59:37.005   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 1,value = 0
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 0, operation = 1
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon: genoff get for 2
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:58
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:Value read from RTC seconds = 2758000
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:Value read from generic offset = 1461482017717
+04-24 15:59:37.005   267  4545 D QC-time-services: Daemon:Final Time = 1461484775717
+04-24 15:59:37.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->base = 2
+04-24 15:59:37.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:37.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484775161
+04-24 15:59:37.005   251   251 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:37.005   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:37.005   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 0,value = 1461484775161
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 1461484775161, operation = 0
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:45:58
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:Value read from RTC seconds = 2758000
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:new time 1461484775161 
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon: delta 1461482017161 genoff 1461482017161 
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017161 to memory
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:Opening File: /data/time/ats_2
+04-24 15:59:37.005   267  4546 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:37.015   267  4546 D QC-time-services: Updating the TOD offset
+04-24 15:59:37.015   267  4546 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017161 to memory
+04-24 15:59:37.015   267  4546 D QC-time-services: Daemon:Opening File: /data/time/ats_1
+04-24 15:59:37.015   267  4546 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:37.015   251   251 E QC-time-services: Receive Passed == base = 2, unit = 1, operation = 0, result = 0
+04-24 15:59:37.025   267  4546 E QC-time-services: Daemon:Update to modem bit set
+04-24 15:59:37.025   267  4546 D QC-time-services: Daemon:genoff_send_modem: Sending data to MODEM !
+04-24 15:59:37.025   267  4546 D QC-time-services: Daemon: Base = 2, Value being sent to MODEM = 1145517217161
+04-24 15:59:37.025   267   475 E QC-time-services: Daemon:tod_update_ind_cb: Got Update from modem msg_id 40
+04-24 15:59:37.025   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:37.175   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:37.215   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:37.365   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:37.505   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:37.545   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:37.625   251   251 I QCOM PowerHAL: Got set_interactive hint
+04-24 15:59:37.625   251   251 D qdhwcomposer: hwc_setPowerMode: Setting mode 2 on display: 0
+04-24 15:59:37.625   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:37.625   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:37.625   251   251 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:38.025   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 1
+04-24 15:59:38.025   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 15:59:38.025   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 15:59:38.025   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 15:59:38.025   251   251 D qdhwcomposer: hwc_setPowerMode: Done setting mode 2 on display 0
+04-24 15:59:38.055   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.055   251  2193 E LocSvc_api_v02: I/---> locClientSendReq line 2065 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:59:38.065   251  2221 E LocSvc_ApiV02: I/<--- void globalRespCb(locClientHandleType, uint32_t, locClientRespIndUnionType, void*) line 111 QMI_LOC_SET_EXTERNAL_POWER_CONFIG_REQ_V02
+04-24 15:59:38.065   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.065   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.315   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.315   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_VOICE_REGISTRATION_STATE state = 1,mRadioTechnology = 6
+04-24 15:59:38.315   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_DATA_REGISTRATION_STATE state = 1, mDataRadioTechnology = 13, mTAC =-1
+04-24 15:59:38.315   251   251 W SERVICE_STATE_TRACKER: Stale request RIL_REQUEST_OPERATOR, ignoring
+04-24 15:59:38.325   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.345   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_DATA_REGISTRATION_STATE state = 1, mDataRadioTechnology = 13, mTAC =-1
+04-24 15:59:38.345   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_VOICE_REGISTRATION_STATE state = 1,mRadioTechnology = 6
+04-24 15:59:38.345   251   251 D SERVICE_STATE_TRACKER: Set CDMA Roaming Indicator to: 1, mCdmaRoaming = 0, isPrlLoaded = 0, namMatch = 0, mSystemIsInPrl = 1, defaultRoamingIndicator = 1
+04-24 15:59:38.435  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:38.495   251   251 I GeckoConsole: QLOC: MozSettingShim: Got topic change:gonkhal-battery-notifier
+04-24 15:59:38.535   251   511 I AutoMounter: AutoMounter state changed from IDLE to UMS_CONFIGURED
+04-24 15:59:38.535   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:59:38.535   251   511 I AutoMounter: UpdateState: Volume sdcard is Mounted and inserted @ /storage/sdcard gen 9 locked 0 sharing en-n
+04-24 15:59:38.535   251   511 I VolumeManager: Volume sdcard: IsSharing set to 1 state Mounted
+04-24 15:59:38.605   251   511 I AutoMounter: UpdateState: Unmounting sdcard
+04-24 15:59:38.605   251   511 I VolumeManager: Volume sdcard (1): changing state from Mounted to Unmounting (2 observers)
+04-24 15:59:38.605   236   379 D Vold    : Volume sdcard state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:59:39.605   251   511 I VolumeManager: Volume sdcard (1): changing state from Unmounting to Idle (2 observers)
+04-24 15:59:39.605   236   379 I Vold    : /mnt/media_rw/sdcard sucessfully unmounted
+04-24 15:59:39.605   236   379 I Vold    : /mnt/media_rw/sdcard unmounted successfully
+04-24 15:59:39.605   236   379 D Vold    : Volume sdcard state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: Volume sdcard is Idle and inserted
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: Volume sdcard is Idle
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: Sharing sdcard
+04-24 15:59:39.615   251   511 I VolumeManager: Volume sdcard (1): changing state from Idle to Shared (2 observers)
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:59:39.615   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Mounted and inserted @ /storage/sdcard1 gen 10 locked 0 sharing en-n
+04-24 15:59:39.615   251   511 I VolumeManager: Volume sdcard1: IsSharing set to 1 state Mounted
+04-24 15:59:39.615   236   379 D Vold    : Volume sdcard state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:59:39.675   251   511 I AutoMounter: UpdateState: Unmounting sdcard1
+04-24 15:59:39.675   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Mounted to Unmounting (2 observers)
+04-24 15:59:39.675   236   379 D Vold    : Volume sdcard1 state changing 4 (Mounted) -> 5 (Unmounting)
+04-24 15:59:40.705   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Unmounting to Idle (2 observers)
+04-24 15:59:40.705   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:59:40.705   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:59:40.705   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Idle and inserted
+04-24 15:59:40.705   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Idle
+04-24 15:59:40.705   251   511 I AutoMounter: UpdateState: Sharing sdcard1
+04-24 15:59:40.705   236   379 I Vold    : /mnt/media_rw/sdcard1 sucessfully unmounted
+04-24 15:59:40.705   236   379 I Vold    : /mnt/media_rw/sdcard1 unmounted successfully
+04-24 15:59:40.705   236   379 D Vold    : Volume sdcard1 state changing 5 (Unmounting) -> 1 (Idle-Unmounted)
+04-24 15:59:40.715   251   511 I VolumeManager: Volume sdcard1 (2): changing state from Idle to Shared (2 observers)
+04-24 15:59:40.715   251   511 I AutoMounter: UpdateState: ums:A1C1E1 mtp:A1C0E0 mode:1 usb:1 tryToShare:1 state:UMS_CONFIGURED
+04-24 15:59:40.715   251   511 I AutoMounter: UpdateState: Volume sdcard is Shared and inserted
+04-24 15:59:40.715   251   511 I AutoMounter: UpdateState: Volume sdcard1 is Shared and inserted
+04-24 15:59:40.715   236   379 D Vold    : Volume sdcard1 state changing 1 (Idle-Unmounted) -> 7 (Shared-Unmounted)
+04-24 15:59:41.345   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:59:43.435  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:46.465   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:59:48.435  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:51.575   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:59:51.615   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:59:53.435  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:54.545   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 12
+04-24 15:59:54.545   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:54.545   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484795000
+04-24 15:59:54.545   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:54.545   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:Received base = 12, unit = 1, operation = 0,value = 1461484795000
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:genoff_opr: Base = 12, val = 1461484795000, operation = 0
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:46:16
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:Value read from RTC seconds = 2776000
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:new time 1461484795000 
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:Opening File: /data/time/ats_12
+04-24 15:59:54.545   267  4592 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:54.555   247   434 E QC-time-services: Receive Passed == base = 12, unit = 1, operation = 0, result = 0
+04-24 15:59:54.555   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+04-24 15:59:54.555   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:54.555   247   434 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484795000
+04-24 15:59:54.555   247   434 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:54.555   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:54.555   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 0,value = 1461484795000
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 1461484795000, operation = 0
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:46:16
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:Value read from RTC seconds = 2776000
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:new time 1461484795000 
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon: delta 1461482019000 genoff 1461482019000 
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482019000 to memory
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:Opening File: /data/time/ats_13
+04-24 15:59:54.555   267  4593 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:54.565   247   434 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 0, result = 0
+04-24 15:59:54.575   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:54.575   251   251 I Gecko   : QTIME_SERVICE Applying NITZ: 16/04/24,07:59:55+32,00 delay=5
+04-24 15:59:55.005   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 1,value = 0
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 0, operation = 1
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon: genoff get for 2
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:46:16
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:Value read from RTC seconds = 2776000
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:Value read from generic offset = 1461482017161
+04-24 15:59:55.005   267  4595 D QC-time-services: Daemon:Final Time = 1461484793161
+04-24 15:59:55.005   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:55.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->base = 2
+04-24 15:59:55.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 0
+04-24 15:59:55.005   251   251 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 1461484793583
+04-24 15:59:55.005   267   477 D QC-time-services: Daemon: Connection accepted:time_genoff
+04-24 15:59:55.005   251   251 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:Received base = 2, unit = 1, operation = 0,value = 1461484793583
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:genoff_opr: Base = 2, val = 1461484793583, operation = 0
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:rtc_get: Time read from RTC -- MM/DD/YY HH:MM:SS0/1/70 0:46:16
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:Value read from RTC seconds = 2776000
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:new time 1461484793583 
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon: delta 1461482017583 genoff 1461482017583 
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017583 to memory
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:Opening File: /data/time/ats_2
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:55.005   267  4596 D QC-time-services: Updating the TOD offset
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:genoff_persistent_update: Writing genoff = 1461482017583 to memory
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:Opening File: /data/time/ats_1
+04-24 15:59:55.005   267  4596 D QC-time-services: Daemon:time_persistent_memory_opr:Genoff write operation 
+04-24 15:59:55.015   251   251 E QC-time-services: Receive Passed == base = 2, unit = 1, operation = 0, result = 0
+04-24 15:59:55.025   267  4596 E QC-time-services: Daemon:Update to modem bit set
+04-24 15:59:55.025   267  4596 D QC-time-services: Daemon:genoff_send_modem: Sending data to MODEM !
+04-24 15:59:55.025   267  4596 D QC-time-services: Daemon: Base = 2, Value being sent to MODEM = 1145517217583
+04-24 15:59:55.025   267   475 E QC-time-services: Daemon:tod_update_ind_cb: Got Update from modem msg_id 40
+04-24 15:59:55.025   267   477 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+04-24 15:59:55.185   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:55.235   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 15:59:56.795   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 15:59:58.795   248   994 D audio_hw_extn: audio_extn_get_parameters: returns 
+04-24 15:59:58.795   248   994 I str_params: key: 'all_call_states' value: ''
+04-24 15:59:58.795   248   248 D audio_hw_extn: audio_extn_get_parameters: returns 
+04-24 15:59:58.795   248   248 I str_params: key: 'all_call_states' value: ''
+04-24 15:59:58.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 15:59:59.035   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:02.245   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:03.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:07.365   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:08.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:13.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:17.595   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:17.625   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:18.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:20.155   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:22.715   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:23.865  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:25.285   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:25.465   322   322 D VM_BMS  : wake_lock acquired
+04-24 16:00:25.465   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 16:00:25.465   322   322 D VM_BMS  : Start process_bms_data
+04-24 16:00:25.465   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 16:00:25.475   322   322 D VM_BMS  : For batt_temp=234 fcc_mah=1802
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4283458 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : fifo_count=5 acc_count=0
+04-24 16:00:25.475   322   322 D VM_BMS  : INIT: ocv=4283458 last_ocv=4283458 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 16:00:25.475   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4283751 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.320035 rbatt=0.223000 slope=1.300000 ibatt=-0.163364 ocv=4.283751 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=62
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 16:00:25.475   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4284122 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.330052 rbatt=0.223000 slope=1.300000 ibatt=-0.206795 ocv=4.284122 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=62
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 16:00:25.475   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4284514 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : FIFO=2 fifo_avg=4.333030 rbatt=0.223000 slope=1.300000 ibatt=-0.218440 ocv=4.284514 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=62
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 16:00:25.475   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4284940 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : FIFO=3 fifo_avg=4.337725 rbatt=0.223000 slope=1.300000 ibatt=-0.237659 ocv=4.284941 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=62
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 slope=13000
+04-24 16:00:25.475   322   322 D VM_BMS  : For soc=97 batt_temp=234 rbatt_sf=149
+04-24 16:00:25.475   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=223, sf=149 batt_temp=234
+04-24 16:00:25.475   322   322 D VM_BMS  : Lookup rbatt=223.000000  adjusted rbatt=223.000000
+04-24 16:00:25.475   322   322 D VM_BMS  : For ocv=4285365 batt_temp=234 soc=97
+04-24 16:00:25.475   322   322 D VM_BMS  : FIFO=4 fifo_avg=4.338016 rbatt=0.223000 slope=1.300000 ibatt=-0.237056 ocv=4.285366 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=62
+04-24 16:00:25.475   322   322 I VM_BMS  : power_supply_update: ocv_uv=4285365 ibatt=-237055 soc=97 seq_num=62
+04-24 16:00:25.475   322   322 D VM_BMS  : End process_bms_data
+04-24 16:00:25.475   322   322 D VM_BMS  : wake_lock released
+04-24 16:00:28.875  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:30.405   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:32.965   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:33.875  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:38.085   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:00:38.605   251   251 D qdhwcomposer: hwc_setPowerMode: Setting mode 0 on display: 0
+04-24 16:00:38.605   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 16:00:38.605   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 16:00:38.605   251   251 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 16:00:38.865   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+04-24 16:00:38.865   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 16:00:38.865   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 16:00:38.865   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 16:00:38.865   251   251 D qdhwcomposer: hwc_setPowerMode: Done setting mode 0 on display 0
+04-24 16:00:38.865   251   251 I QCOM PowerHAL: Got set_interactive hint
+04-24 16:00:38.875  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:38.895   251   251 E qdhwcomposer: hwc_vsync_control: vsync control failed. Dpy=0, enable=1 : Operation not permitted
+04-24 16:00:43.875  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:48.885  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:53.885  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:00:58.885  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:01:03.885  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:01:05.555   251   251 I QCOM PowerHAL: Got set_interactive hint
+04-24 16:01:05.555   251   251 D qdhwcomposer: hwc_setPowerMode: Setting mode 2 on display: 0
+04-24 16:01:05.555   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 16:01:05.555   251   251 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 16:01:05.555   251   251 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 16:01:05.965   251  2429 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 1
+04-24 16:01:05.965   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 1
+04-24 16:01:05.965   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to open fb node 2
+04-24 16:01:05.965   251  2429 E qdutils : int qdutils::getHDMINode(): Failed to find HDMI node
+04-24 16:01:05.965   251   251 D qdhwcomposer: hwc_setPowerMode: Done setting mode 2 on display 0
+04-24 16:01:06.265   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_VOICE_REGISTRATION_STATE state = 1,mRadioTechnology = 6
+04-24 16:01:06.265   251   251 D SERVICE_STATE_TRACKER: RIL_REQUEST_DATA_REGISTRATION_STATE state = 1, mDataRadioTechnology = 13, mTAC =-1
+04-24 16:01:06.265   251   251 D SERVICE_STATE_TRACKER: Set CDMA Roaming Indicator to: 1, mCdmaRoaming = 0, isPrlLoaded = 0, namMatch = 0, mSystemIsInPrl = 1, defaultRoamingIndicator = 1
+04-24 16:01:07.855   251   251 I Gecko   : [SUB0] QCONTENT_HELPER receiveMessage: 'RIL:GetCardLockEnabled'
+04-24 16:01:07.875   251   251 I Gecko   : [SUB0] QCONTENT_HELPER sendMessage to content process: RIL:GetCardLockResult { requestId : 'id{bc796609-c0f6-4e0c-a9b8-f3b6eecbebce}', enabled : false,  }
+04-24 16:01:07.935  2701  2701 D skia    : START /proc/cpuinfo:
+04-24 16:01:07.935  2701  2701 D skia    : processor	: 0
+04-24 16:01:07.935  2701  2701 D skia    : model name	: ARMv7 Processor rev 5 (v7l)
+04-24 16:01:07.935  2701  2701 D skia    : BogoMIPS	: 38.40
+04-24 16:01:07.935  2701  2701 D skia    : Features	: swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 evtstrm 
+04-24 16:01:07.935  2701  2701 D skia    : CPU implementer	: 0x41
+04-24 16:01:07.935  2701  2701 D skia    : CPU architecture: 7
+04-24 16:01:07.935  2701  2701 D skia    : CPU variant	: 0x0
+04-24 16:01:07.935  2701  2701 D skia    : CPU part	: 0xc07
+04-24 16:01:07.935  2701  2701 D skia    : CPU revision	: 5
+04-24 16:01:07.935  2701  2701 D skia    : 
+04-24 16:01:07.935  2701  2701 D skia    : processor	: 1
+04-24 16:01:07.935  2701  2701 D skia    : model name	: ARMv7 Processor rev 5 (v7l)
+04-24 16:01:07.935  2701  2701 D skia    : BogoMIPS	: 38.40
+04-24 16:01:07.935  2701  2701 D skia    : Features	: swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 evtstrm 
+04-24 16:01:07.935  2701  2701 D skia    : CPU implementer	: 0x41
+04-24 16:01:07.935  2701  2701 D skia    : CPU architecture: 7
+04-24 16:01:07.935  2701  2701 D skia    : CPU variant	: 0x0
+04-24 16:01:07.935  2701  2701 D skia    : CPU part	: 0xc07
+04-24 16:01:07.935  2701  2701 D skia    : CPU revision	: 5
+04-24 16:01:07.935  2701  2701 D skia    : 
+04-24 16:01:07.935  2701  2701 D skia    : processor	: 2
+04-24 16:01:07.935  2701  2701 D skia    : model name	: ARMv7 Processor rev 5 (v7l)
+04-24 16:01:07.935  2701  2701 D skia    : BogoMIPS	: 38.40
+04-24 16:01:07.935  2701  2701 D skia    : Features	: swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 evtstrm 
+04-24 16:01:07.935  2701  2701 D skia    : CPU implementer	: 0x41
+04-24 16:01:07.935  2701  2701 D skia    : CPU architecture: 7
+04-24 16:01:07.935  2701  2701 D skia    : CPU variant	: 0x0
+04-24 16:01:07.935  2701  2701 D skia    : CPU part	: 0xc07
+04-24 16:01:07.935  2701  2701 D skia    : CPU revision	: 5
+04-24 16:01:07.935  2701  2701 D skia    : 
+04-24 16:01:07.935  2701  2701 D skia    : processor	: 3
+04-24 16:01:07.935  2701  2701 D skia    : model name	: ARMv7 Processor rev 5 (v7l)
+04-24 16:01:07.935  2701  2701 D skia    : BogoMIPS	: 38.40
+04-24 16:01:07.935  2701  2701 D skia    : Features	: swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 evtstrm 
+04-24 16:01:07.935  2701  2701 D skia    : CPU implementer	: 0x41
+04-24 16:01:07.935  2701  2701 D skia    : CPU architecture: 7
+04-24 16:01:07.935  2701  2701 D skia    : CPU variant
+04-24 16:01:07.935  2701  2701 D skia    : Device supports ARM NEON instructions!
+04-24 16:01:08.535   251   251 I Gecko   : [SUB0] QCONTENT_HELPER Received observer notification: mozsettings-changed
+04-24 16:01:08.795   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:01:08.885  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:01:11.355   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:01:13.615   322   322 D VM_BMS  : wake_lock acquired
+04-24 16:01:13.615   322   322 D VM_BMS  : New BMS data - Size=56
+04-24 16:01:13.615   322   322 D VM_BMS  : Start process_bms_data
+04-24 16:01:13.615   322   322 D VM_BMS  : Battery charge_cycle=0 fcc_adjust=0 rbatt_adjust=0 cycle_changed=false
+04-24 16:01:13.615   322   322 D VM_BMS  : For batt_temp=235 fcc_mah=1802
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup fcc_mah=1802.000000  adjusted fcc_mah=1802.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4285365 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : fifo_count=5 acc_count=0
+04-24 16:01:13.615   322   322 D VM_BMS  : INIT: ocv=4285365 last_ocv=4285365 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 16:01:13.615   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4285750 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : FIFO=0 fifo_avg=4.333169 rbatt=0.222000 slope=1.300000 ibatt=-0.214465 ocv=4.285750 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=63
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 16:01:13.615   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4286110 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : FIFO=1 fifo_avg=4.330507 rbatt=0.222000 slope=1.300000 ibatt=-0.200796 ocv=4.286110 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=63
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 16:01:13.615   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4286479 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : FIFO=2 fifo_avg=4.331993 rbatt=0.222000 slope=1.300000 ibatt=-0.205849 ocv=4.286479 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=63
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 16:01:13.615   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4286845 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : FIFO=3 fifo_avg=4.332002 rbatt=0.222000 slope=1.300000 ibatt=-0.204233 ocv=4.286846 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=63
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 slope=13000
+04-24 16:01:13.615   322   322 D VM_BMS  : For soc=97 batt_temp=235 rbatt_sf=148
+04-24 16:01:13.615   322   322 D VM_BMS  : rbatt_mohm_default=150, rbatt_mohm=222, sf=148 batt_temp=235
+04-24 16:01:13.615   322   322 D VM_BMS  : Lookup rbatt=222.000000  adjusted rbatt=222.000000
+04-24 16:01:13.615   322   322 D VM_BMS  : For ocv=4287202 batt_temp=235 soc=97
+04-24 16:01:13.615   322   322 D VM_BMS  : FIFO=4 fifo_avg=4.331098 rbatt=0.222000 slope=1.300000 ibatt=-0.198534 ocv=4.287202 soc=97 fcc_ah=1.802000 sample_count=128 sample_interval=70 seq_num=63
+04-24 16:01:13.615   322   322 I VM_BMS  : power_supply_update: ocv_uv=4287202 ibatt=-198534 soc=97 seq_num=63
+04-24 16:01:13.615   322   322 D VM_BMS  : End process_bms_data
+04-24 16:01:13.615   322   322 D VM_BMS  : wake_lock released
+04-24 16:01:13.895  2617  2617 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+04-24 16:01:13.905   251   251 I Gecko   : -*- WifiWorker component: Firing connectioninfoupdate: ({signalStrength:-57, relSignalStrength:95, linkSpeed:72, ipAddress:"192.168.1.6"})
+04-24 16:01:13.915   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process
+04-24 16:01:14.855   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=319                          src_crop_width=319 screen_h=0 src_crop_height=0
+04-24 16:01:14.875   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=309                          src_crop_width=309 screen_h=0 src_crop_height=0
+04-24 16:01:14.895   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=291                          src_crop_width=291 screen_h=0 src_crop_height=0
+04-24 16:01:14.895  3042  3042 W Settings: Content JS WARN: No callbacks for method getAccounts 
+04-24 16:01:14.895  3042  3042 W Settings:     at onMessage (app://settings.gaiamobile.org/shared/h5a_iac_client/h5a_iac_client.js:9:90)
+04-24 16:01:14.915   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=265                          src_crop_width=265 screen_h=0 src_crop_height=0
+04-24 16:01:14.935   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=234                          src_crop_width=234 screen_h=0 src_crop_height=0
+04-24 16:01:14.945   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=201                          src_crop_width=201 screen_h=0 src_crop_height=0
+04-24 16:01:14.965   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=169                          src_crop_width=169 screen_h=0 src_crop_height=0
+04-24 16:01:14.985   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=141                          src_crop_width=141 screen_h=0 src_crop_height=0
+04-24 16:01:15.005   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=116                          src_crop_width=116 screen_h=0 src_crop_height=0
+04-24 16:01:15.025   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=95                          src_crop_width=95 screen_h=0 src_crop_height=0
+04-24 16:01:15.045   251  2345 E qdhwcomposer: prepare: wrong params for display screen_w=77                          src_crop_width=77 screen_h=0 src_crop_height=0
+04-24 16:01:15.095  3042  3042 W Settings: Content JS WARN: No callbacks for method getVerifiedType 
+04-24 16:01:15.095  3042  3042 W Settings:     at onMessage (app://settings.gaiamobile.org/shared/h5a_iac_client/h5a_iac_client.js:9:90)
+04-24 16:01:16.475   251   251 D SERVICE_STATE_TRACKER: Signal Strength changed; sending info to content process

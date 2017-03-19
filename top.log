@@ -1,0 +1,220 @@
+
+
+
+User 14%, System 35%, IOW 0%, IRQ 0%
+User 4 + Nice 0 + Sys 10 + Idle 14 + IOW 0 + IRQ 0 + SIRQ 0 = 28
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  0  42% R   2460K   1032K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  0   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 12%, System 37%, IOW 0%, IRQ 0%
+User 3 + Nice 0 + Sys 9 + Idle 12 + IOW 0 + IRQ 0 + SIRQ 0 = 24
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  54% R   2464K   1048K  fg root     top             top
+  251   251  0   4% S 234600K  92592K  fg root     b2g             /system/b2g/b2g
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  0   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 25%, System 28%, IOW 0%, IRQ 0%
+User 7 + Nice 0 + Sys 8 + Idle 13 + IOW 0 + IRQ 0 + SIRQ 0 = 28
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  39% R   2464K   1048K  fg root     top             top
+    7     7  1   3% S      0K      0K  fg root     rcu_preempt     
+  549   549  1   3% S      0K      0K  fg root     kworker/1:2     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+   19    19  3   0% R      0K      0K  fg root     migration/3     
+
+
+
+User 8%, System 37%, IOW 0%, IRQ 4%
+User 2 + Nice 0 + Sys 9 + Idle 12 + IOW 0 + IRQ 0 + SIRQ 1 = 24
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  50% R   2464K   1048K  fg root     top             top
+   12    12  1   4% S      0K      0K  fg root     ksoftirqd/1     
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+   19    19  3   0% R      0K      0K  fg root     migration/3     
+
+
+
+User 18%, System 31%, IOW 0%, IRQ 0%
+User 4 + Nice 0 + Sys 7 + Idle 11 + IOW 0 + IRQ 0 + SIRQ 0 = 22
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  54% R   2464K   1048K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 20%, System 29%, IOW 0%, IRQ 0%
+User 5 + Nice 0 + Sys 7 + Idle 12 + IOW 0 + IRQ 0 + SIRQ 0 = 24
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  45% R   2464K   1048K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 12%, System 40%, IOW 0%, IRQ 0%
+User 3 + Nice 0 + Sys 10 + Idle 12 + IOW 0 + IRQ 0 + SIRQ 0 = 25
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  48% R   2464K   1048K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 27%, System 22%, IOW 0%, IRQ 0%
+User 6 + Nice 0 + Sys 5 + Idle 11 + IOW 0 + IRQ 0 + SIRQ 0 = 22
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  50% R   2464K   1048K  fg root     top             top
+ 5223  5223  0   4% S      0K      0K  fg root     kworker/u8:2    
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 25%, System 29%, IOW 0%, IRQ 0%
+User 6 + Nice 0 + Sys 7 + Idle 11 + IOW 0 + IRQ 0 + SIRQ 0 = 24
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  45% R   2464K   1048K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
+
+
+
+User 4%, System 45%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 11 + Idle 12 + IOW 0 + IRQ 0 + SIRQ 0 = 24
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+ 5251  5251  1  50% R   2464K   1048K  fg root     top             top
+    2     2  0   0% S      0K      0K  fg root     kthreadd        
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+    5     5  0   0% S      0K      0K  fg root     kworker/0:0H    
+    6     6  0   0% D      0K      0K  fg root     kworker/u8:0    
+    7     7  1   0% S      0K      0K  fg root     rcu_preempt     
+    8     8  0   0% S      0K      0K  fg root     rcu_bh          
+    9     9  0   0% S      0K      0K  fg root     rcu_sched       
+   10    10  0   0% S      0K      0K  fg root     migration/0     
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+   12    12  1   0% S      0K      0K  fg root     ksoftirqd/1     
+   14    14  1   0% S      0K      0K  fg root     kworker/1:0H    
+   15    15  2   0% R      0K      0K  fg root     migration/2     
+   16    16  2   0% R      0K      0K  fg root     ksoftirqd/2     
+   18    18  2   0% S      0K      0K  fg root     kworker/2:0H    
